@@ -3,7 +3,7 @@
         {
             "id": "st0001",
             "name": "アカネ",
-            "img": "ブルアカ立ち絵/アカネ_0.png",
+            "img": "standing/アカネ_0.png",
             "icon": "face/アカネ.png",
             "atk_attribute": "貫通",
             "def_attribute": "軽装甲",
@@ -219,7 +219,7 @@
         {
             "id": "st0002",
             "name": "アカリ",
-            "img": "ブルアカ立ち絵/アカリ_1.png",
+            "img": "standing/アカリ_1.png",
             "icon": "face/アカリ.png",
             "atk_attribute": "爆発",
             "def_attribute": "重装甲",
@@ -427,7 +427,7 @@
         {
             "id": "st0003",
             "name": "アズサ",
-            "img": "ブルアカ立ち絵/アズサ_0.png",
+            "img": "standing/アズサ_0.png",
             "icon": "face/アズサ.png",
             "atk_attribute": "爆発",
             "def_attribute": "重装甲",
@@ -660,7 +660,7 @@
         {
             "id": "st0004",
             "name": "アズサ(水着)",
-            "img": "ブルアカ立ち絵/アズサ（水着）.png",
+            "img": "standing/アズサ（水着）.png",
             "icon": "face/アズサ（水着）.png",
             "atk_attribute": "神秘",
             "def_attribute": "軽装甲",
@@ -883,7 +883,7 @@
         {
             "id": "st0005",
             "name": "アスナ",
-            "img": "ブルアカ立ち絵/アスナ_0.png",
+            "img": "standing/アスナ_0.png",
             "icon": "face/アスナ.png",
             "atk_attribute": "神秘",
             "def_attribute": "軽装甲",
@@ -1116,7 +1116,7 @@
         {
             "id": "st0006",
             "name": "アスナ(バニー)",
-            "img": "ブルアカ立ち絵/アスナ（バニーガール）.png",
+            "img": "standing/アスナ（バニーガール）.png",
             "icon": "face/アスナ（バニーガール）.png",
             "atk_attribute": "神秘",
             "def_attribute": "軽装甲",
@@ -1367,7 +1367,7 @@
         {
             "id": "st0007",
             "name": "アツコ",
-            "img": "ブルアカ立ち絵/アツコ（素顔）_圧縮.png",
+            "img": "standing/アツコ（素顔）_圧縮.png",
             "icon": "face/アツコ.png",
             "atk_attribute": "爆発",
             "def_attribute": "特殊装甲",
@@ -1579,7 +1579,7 @@
         {
             "id": "st0008",
             "name": "アリス",
-            "img": "ブルアカ立ち絵/アリス_立ち絵01.png",
+            "img": "standing/アリス_立ち絵01.png",
             "icon": "face/アリス.png",
             "atk_attribute": "神秘",
             "def_attribute": "軽装甲",
@@ -2056,7 +2056,7 @@
         {
             "id": "st0009",
             "name": "アル",
-            "img": "ブルアカ立ち絵/アル_0.png",
+            "img": "standing/アル_0.png",
             "icon": "face/アル.png",
             "atk_attribute": "爆発",
             "def_attribute": "軽装甲",
@@ -2339,7 +2339,7 @@
         {
             "id": "st0010",
             "name": "アル（正月）",
-            "img": "ブルアカ立ち絵/アル（正月）.png",
+            "img": "standing/アル（正月）.png",
             "icon": "face/アル（正月）.png",
             "atk_attribute": "貫通",
             "def_attribute": "特殊装甲",
@@ -2570,7 +2570,7 @@
         {
             "id": "st0011",
             "name": "イオリ",
-            "img": "ブルアカ立ち絵/イオリ_0.png",
+            "img": "standing/イオリ_0.png",
             "icon": "face/イオリ.png",
             "atk_attribute": "貫通",
             "def_attribute": "重装甲",
@@ -2776,7 +2776,7 @@
         {
             "id": "st0012",
             "name": "イオリ（水着）",
-            "img": "ブルアカ立ち絵/イオリ（水着）.png",
+            "img": "standing/イオリ（水着）.png",
             "icon": "face/イオリ（水着）.png",
             "atk_attribute": "爆発",
             "def_attribute": "特殊装甲",
@@ -3082,7 +3082,7 @@
         {
             "id": "st0013",
             "name": "イズナ",
-            "img": "ブルアカ立ち絵/イズナ.png",
+            "img": "standing/イズナ.png",
             "icon": "face/イズナ.png",
             "atk_attribute": "爆発",
             "def_attribute": "軽装甲",
@@ -3291,7 +3291,7 @@
         {
             "id": "st0014",
             "name": "イズナ（水着）",
-            "img": "ブルアカ立ち絵/イズナ（水着）_圧縮.png",
+            "img": "standing/イズナ（水着）_圧縮.png",
             "icon": "face/イズナ（水着）.png",
             "atk_attribute": "神秘",
             "def_attribute": "特殊装甲",
@@ -3522,7 +3522,7 @@
         {
             "id": "st0015",
             "name": "イズミ",
-            "img": "ブルアカ立ち絵/イズミ_0.png",
+            "img": "standing/イズミ_0.png",
             "icon": "face/イズミ.png",
             "atk_attribute": "爆発",
             "def_attribute": "軽装甲",
@@ -3808,7 +3808,7 @@
         {
             "id": "st0016",
             "name": "イズミ（水着）",
-            "img": "ブルアカ立ち絵/イズミ（水着）.png",
+            "img": "standing/イズミ（水着）.png",
             "icon": "face/イズミ（水着）.png",
             "atk_attribute": "爆発",
             "def_attribute": "軽装甲",
@@ -4051,7 +4051,7 @@
         {
             "id": "st0017",
             "name": "ウイ",
-            "img": "ブルアカ立ち絵/ウイ.png",
+            "img": "standing/ウイ.png",
             "icon": "face/ウイ.png",
             "atk_attribute": "爆発",
             "def_attribute": "軽装甲",
@@ -4271,7 +4271,7 @@
         {
             "id": "st0018",
             "name": "エイミ",
-            "img": "ブルアカ立ち絵/エイミ_0.png",
+            "img": "standing/エイミ_0.png",
             "icon": "face/エイミ.png",
             "atk_attribute": "爆発",
             "def_attribute": "軽装甲",
@@ -4540,7 +4540,7 @@
         {
             "id": "st0019",
             "name": "カヨコ",
-            "img": "ブルアカ立ち絵/カヨコ_0.png",
+            "img": "standing/カヨコ_0.png",
             "icon": "face/カヨコ.png",
             "atk_attribute": "爆発",
             "def_attribute": "重装甲",
@@ -4807,7 +4807,7 @@
         {
             "id": "st0020",
             "name": "カリン（バニー）",
-            "img": "ブルアカ立ち絵/カリン（バニーガール）.png",
+            "img": "standing/カリン（バニーガール）.png",
             "icon": "face/カリン（バニー）.png",
             "atk_attribute": "神秘",
             "def_attribute": "重装甲",
@@ -5043,7 +5043,7 @@
         {
             "id": "st0021",
             "name": "キリノ",
-            "img": "ブルアカ立ち絵/キリノ_0.png",
+            "img": "standing/キリノ_0.png",
             "icon": "face/キリノ.png",
             "atk_attribute": "爆発",
             "def_attribute": "特殊装甲",
@@ -5275,7 +5275,7 @@
         {
             "id": "st0022",
             "name": "コトリ",
-            "img": "ブルアカ立ち絵/コトリ_0.png",
+            "img": "standing/コトリ_0.png",
             "icon": "face/コトリ.png",
             "atk_attribute": "貫通",
             "def_attribute": "軽装甲",
@@ -5556,7 +5556,7 @@
         {
             "id": "st0023",
             "name": "コハル",
-            "img": "ブルアカ立ち絵/コハル_立ち絵0.png",
+            "img": "standing/コハル_立ち絵0.png",
             "icon": "face/コハル.png",
             "atk_attribute": "爆発",
             "def_attribute": "重装甲",
@@ -5775,7 +5775,7 @@
         {
             "id": "st0024",
             "name": "シュン",
-            "img": "ブルアカ立ち絵/シュン_0.png",
+            "img": "standing/シュン_0.png",
             "icon": "face/シュン.png",
             "atk_attribute": "爆発",
             "def_attribute": "軽装甲",
@@ -6000,7 +6000,7 @@
         {
             "id": "st0042",
             "name": "ネル",
-            "img": "ブルアカ立ち絵/ネル_0.png",
+            "img": "standing/ネル_0.png",
             "icon": "face/ネル.png",
             "atk_attribute": "貫通",
             "def_attribute": "軽装甲",
@@ -6417,7 +6417,7 @@
         {
             "id": "st0043",
             "name": "ネル（バニー）",
-            "img": "ブルアカ立ち絵/ネル（バニーガール）.png",
+            "img": "standing/ネル（バニーガール）.png",
             "icon": "face/ネル（バニー）.png",
             "atk_attribute": "爆発",
             "def_attribute": "重装甲",
@@ -6669,7 +6669,7 @@
         {
             "id": "st0049",
             "name": "ヒナ",
-            "img": "ブルアカ立ち絵/ヒナ_0.png",
+            "img": "standing/ヒナ_0.png",
             "icon": "face/ヒナ.png",
             "atk_attribute": "爆発",
             "def_attribute": "重装甲",
@@ -6910,7 +6910,7 @@
         {
             "id": "st0050",
             "name": "ヒナ(水着)",
-            "img": "ブルアカ立ち絵/ヒナ（水着）.png",
+            "img": "standing/ヒナ（水着）.png",
             "icon": "face/ヒナ（水着）.png",
             "atk_attribute": "爆発",
             "def_attribute": "重装甲",
@@ -7173,7 +7173,7 @@
         {
             "id": "st0051",
             "name": "ヒナタ",
-            "img": "ブルアカ立ち絵/ヒナタ_圧縮.png",
+            "img": "standing/ヒナタ_圧縮.png",
             "icon": "face/ヒナタ.png",
             "atk_attribute": "神秘",
             "def_attribute": "重装甲",
@@ -7412,7 +7412,7 @@
         {
             "id": "st0056",
             "name": "ホシノ(水着)",
-            "img": "ブルアカ立ち絵/ホシノ（水着）_圧縮.png",
+            "img": "standing/ホシノ（水着）_圧縮.png",
             "icon": "face/ホシノ（水着）.png",
             "atk_attribute": "爆発",
             "def_attribute": "特殊装甲",
@@ -7677,7 +7677,7 @@
         {
             "id": "st0070",
             "name": "ワカモ",
-            "img": "ブルアカ立ち絵/狐面ワカモ.png",
+            "img": "standing/狐面ワカモ.png",
             "icon": "face/ワカモ.png",
             "atk_attribute": "神秘",
             "def_attribute": "軽装甲",
@@ -7929,7 +7929,7 @@
         {
             "id": "st0086",
             "name": "ミカ",
-            "img": "ブルアカ立ち絵/ミカ_立ち絵1.png",
+            "img": "standing/ミカ_立ち絵1.png",
             "icon": "face/ミカ.png",
             "atk_attribute": "貫通",
             "def_attribute": "軽装甲",
@@ -8191,7 +8191,7 @@
         {
             "id": "st0089",
             "name": "トキ",
-            "img": "ブルアカ立ち絵/トキ.png",
+            "img": "standing/トキ.png",
             "icon": "face/トキ.png",
             "atk_attribute": "爆発",
             "def_attribute": "弾力装甲",
@@ -8789,7 +8789,7 @@
         {
             "id": "st0092",
             "name": "カヨコ（正月）",
-            "img": "ブルアカ立ち絵/カヨコ（正月）_圧縮.png",
+            "img": "standing/カヨコ（正月）_圧縮.png",
             "icon": "face/カヨコ（正月）.png",
             "atk_attribute": "神秘",
             "def_attribute": "特殊装甲",
@@ -9016,7 +9016,7 @@
         {
             "id": "st0094",
             "name": "アリス（メイド）",
-            "img": "ブルアカ立ち絵/アリス（メイド）.png",
+            "img": "standing/アリス（メイド）.png",
             "icon": "face/アリス（メイド）.png",
             "atk_attribute": "神秘",
             "def_attribute": "軽装甲",
@@ -9290,7 +9290,7 @@
         {
             "id": "st0102",
             "name": "コハル（水着）",
-            "img": "ブルアカ立ち絵/コハル（水着）.png",
+            "img": "standing/コハル（水着）.png",
             "icon": "face/コハル（水着）.png",
             "atk_attribute": "神秘",
             "def_attribute": "重装甲",
@@ -9493,7 +9493,7 @@
         {
             "id": "st0103",
             "name": "ハナコ(水着)",
-            "img": "ブルアカ立ち絵/ハナコ（水着）.png",
+            "img": "standing/ハナコ（水着）.png",
             "icon": "face/ハナコ（水着）.png",
             "atk_attribute": "振動",
             "def_attribute": "重装甲",
@@ -9758,7 +9758,7 @@
         {
             "id": "st0106",
             "name": "コトリ（応援団）",
-            "img": "ブルアカ立ち絵/コトリ（応援団）.png",
+            "img": "standing/コトリ（応援団）.png",
             "icon": "face/コトリ（応援団）.png",
             "atk_attribute": "爆発",
             "def_attribute": "特殊装甲",
@@ -9978,7 +9978,7 @@
         {
             "id": "st0118",
             "name": "ヒナ(ドレス)",
-            "img": "ブルアカ立ち絵/ヒナ（ドレス）.png",
+            "img": "standing/ヒナ（ドレス）.png",
             "icon": "face/ヒナ（ドレス）.png",
             "atk_attribute": "爆発",
             "def_attribute": "弾力装甲",
@@ -10337,7 +10337,7 @@
         {
             "id": "st0119",
             "name": "アル（ドレス）",
-            "img": "ブルアカ立ち絵/アル（ドレス）.png",
+            "img": "standing/アル（ドレス）.png",
             "icon": "face/アル（ドレス）.png",
             "atk_attribute": "貫通",
             "def_attribute": "重装甲",
@@ -10541,7 +10541,7 @@
         {
             "id": "st0120",
             "name": "カヨコ（ドレス）",
-            "img": "ブルアカ立ち絵/カヨコ（ドレス）.png",
+            "img": "standing/カヨコ（ドレス）.png",
             "icon": "face/カヨコ（ドレス）.png",
             "atk_attribute": "貫通",
             "def_attribute": "軽装甲",
@@ -10764,7 +10764,7 @@
         {
             "id": "st0135",
             "name": "ヒヨリ（水着）",
-            "img": "ブルアカ立ち絵/ヒヨリ（水着）.png",
+            "img": "standing/ヒヨリ（水着）.png",
             "icon": "face/ヒヨリ（水着）.png",
             "atk_attribute": "貫通",
             "def_attribute": "重装甲",
@@ -10993,7 +10993,7 @@
         {
             "id": "st0139",
             "name": "マリー(アイドル)",
-            "img": "ブルアカ立ち絵/マリー（アイドル）.png",
+            "img": "standing/マリー（アイドル）.png",
             "icon": "face/マリー（アイドル）.png",
             "atk_attribute": "爆発",
             "def_attribute": "重装甲",
@@ -11220,7 +11220,7 @@
         {
             "id": "st0143",
             "name": "ノア(パジャマ)",
-            "img": "ブルアカ立ち絵/ノア（パジャマ）.png",
+            "img": "standing/ノア（パジャマ）.png",
             "icon": "face/ノア（パジャマ）.png",
             "atk_attribute": "貫通",
             "def_attribute": "軽装甲",
@@ -11476,7 +11476,7 @@
         {
             "id": "st0146",
             "name": "ネル（制服）",
-            "img": "ブルアカ立ち絵/ネル（制服）.png",
+            "img": "standing/ネル（制服）.png",
             "icon": "face/ネル（制服）.png",
             "atk_attribute": "貫通",
             "def_attribute": "弾力装甲",
@@ -11835,7 +11835,7 @@
         {
             "id": "st0158",
             "name": "セイア(水着)",
-            "img": "ブルアカ立ち絵/セイア（水着）.png",
+            "img": "standing/セイア（水着）.png",
             "icon": "face/セイア（水着）.png",
             "atk_attribute": "貫通",
             "def_attribute": "特殊装甲",
@@ -12046,7 +12046,7 @@
         {
             "id": "st0160",
             "name": "ミカ(水着)",
-            "img": "ブルアカ立ち絵/ミカ(水着).png",
+            "img": "standing/ミカ(水着).png",
             "icon": "face/ミカ（水着）.png",
             "atk_attribute": "振動",
             "def_attribute": "弾力装甲",
@@ -12531,7 +12531,7 @@
         {
             "id": "st0170",
             "name": "アリス(臨戦)",
-            "img": "ブルアカ立ち絵/アリス(臨戦).png",
+            "img": "standing/アリス(臨戦).png",
             "icon": "face/アリス(臨戦).png",
             "atk_attribute": "神秘",
             "def_attribute": "複合装甲",
@@ -13010,7 +13010,7 @@
         {
             "id": "st0171",
             "name": "ケイ",
-            "img": "ブルアカ立ち絵/ケイ.png",
+            "img": "standing/ケイ.png",
             "icon": "face/ケイ.png",
             "atk_attribute": "神秘",
             "def_attribute": "複合装甲",
@@ -13239,7 +13239,7 @@
         {
             "id": "sp0001",
             "name": "アイリ",
-            "img": "ブルアカ立ち絵/アイリ_0.png",
+            "img": "standing/アイリ_0.png",
             "icon": "face/アイリ.png",
             "atk_attribute": "爆発",
             "def_attribute": "軽装甲",
@@ -13455,7 +13455,7 @@
         {
             "id": "sp0002",
             "name": "アコ",
-            "img": "ブルアカ立ち絵/アコ_立ち絵0.png",
+            "img": "standing/アコ_立ち絵0.png",
             "icon": "face/アコ.png",
             "atk_attribute": "神秘",
             "def_attribute": "重装甲",
@@ -13662,7 +13662,7 @@
         {
             "id": "sp0008",
             "name": "カリン",
-            "img": "ブルアカ立ち絵/カリン_0.png",
+            "img": "standing/カリン_0.png",
             "icon": "face/カリン.png",
             "atk_attribute": "貫通",
             "def_attribute": "重装甲",
@@ -13885,7 +13885,7 @@
         {
             "id": "sp0041",
             "name": "フウカ(正月)",
-            "img": "ブルアカ立ち絵/フウカ（正月）.png",
+            "img": "standing/フウカ（正月）.png",
             "icon": "face/フウカ（正月）.png",
             "atk_attribute": "貫通",
             "def_attribute": "特殊装甲",
@@ -14089,7 +14089,7 @@
         {
             "id": "sp0048",
             "name": "シロコ(水着)",
-            "img": "ブルアカ立ち絵/シロコ（水着）.png",
+            "img": "standing/シロコ（水着）.png",
             "icon": "face/シロコ（水着）.png",
             "atk_attribute": "神秘",
             "def_attribute": "特殊装甲",
@@ -14312,7 +14312,7 @@
         {
             "id": "sp0054",
             "name": "エイミ（水着）",
-            "img": "ブルアカ立ち絵/エイミ（水着）.png",
+            "img": "standing/エイミ（水着）.png",
             "icon": "face/エイミ（水着）.png",
             "atk_attribute": "神秘",
             "def_attribute": "特殊装甲",
@@ -14515,7 +14515,7 @@
         {
             "id": "sp0060",
             "name": "キリノ（水着）",
-            "img": "ブルアカ立ち絵/キリノ（水着）.png",
+            "img": "standing/キリノ（水着）.png",
             "icon": "face/キリノ（水着）.png",
             "atk_attribute": "神秘",
             "def_attribute": "重装甲",
@@ -14706,7 +14706,7 @@
         {
             "id": "sp0063",
             "name": "キサキ",
-            "img": "ブルアカ立ち絵/キサキ.png",
+            "img": "standing/キサキ.png",
             "icon": "face/キサキ.png",
             "atk_attribute": "振動",
             "def_attribute": "弾力装甲",
@@ -14900,7 +14900,7 @@
         {
             "id": "sp0065",
             "name": "カリン（制服）",
-            "img": "ブルアカ立ち絵/カリン（制服）.png",
+            "img": "standing/カリン（制服）.png",
             "icon": "face/カリン（制服）.png",
             "atk_attribute": "爆発",
             "def_attribute": "重装甲",
@@ -15138,7 +15138,7 @@
         {
             "id": "sp0066",
             "name": "リオ",
-            "img": "ブルアカ立ち絵/リオ.png",
+            "img": "standing/リオ.png",
             "icon": "face/リオ.png",
             "atk_attribute": "神秘",
             "def_attribute": "弾力装甲",
@@ -15364,7 +15364,7 @@
         {
             "id": "sp0068",
             "name": "イズミ（正月）",
-            "img": "ブルアカ立ち絵/イズミ（正月）.png",
+            "img": "standing/イズミ（正月）.png",
             "icon": "face/イズミ（正月）.png",
             "atk_attribute": "爆発",
             "def_attribute": "軽装甲",
@@ -15566,7 +15566,7 @@
         {
             "id": "sp0074",
             "name": "ナギサ(水着)",
-            "img": "ブルアカ立ち絵/ナギサ(水着).png",
+            "img": "standing/ナギサ(水着).png",
             "icon": "face/ナギサ（水着）.png",
             "atk_attribute": "振動",
             "def_attribute": "弾力装甲",
