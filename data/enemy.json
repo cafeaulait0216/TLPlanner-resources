@@ -1,0 +1,471 @@
+{
+    "BOSS": [
+        {
+            "id": "e0001",
+            "name": "ビナー",
+            "img": "enemy/binner.png",
+            "icon": "enemy/binner_icon.png",
+            "time": 240000,
+            "atk_attribute": "貫通",
+            "terr": [
+                "urban",
+                "outdoor"
+            ],
+            "size": "superBig",
+            "class": "Binner",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 300000,
+                    "def": 1700,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "GGauge": 150000
+                },
+                "HARD": {
+                    "HP": 800000,
+                    "def": 2000,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "GGauge": 300000
+                },
+                "VERYHARD": {
+                    "HP": 1100000,
+                    "def": 2500,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "GGauge": 450000
+                },
+                "HARDCORE": {
+                    "HP": 2000000,
+                    "def": 3100,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "GGauge": 800000
+                },
+                "EXTREAM": {
+                    "HP": 6000000,
+                    "def": 3900,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "GGauge": 2000000
+                },
+                "INSANE": {
+                    "HP": 7000000,
+                    "def": 5000,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 80,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "GGauge": 2100000
+                },
+                "TORMENT": {
+                    "HP": 23000000,
+                    "def": 6800,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "GGauge": 6500000
+                },
+                "LUNATIC": {
+                    "HP": 0,
+                    "def": 0,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "GGauge": 0
+                }
+            }
+        },
+        {
+            "id": "e0004",
+            "name": "ヒエロニムス",
+            "img": "enemy/Hieronymus.png",
+            "icon": "enemy/Hieronymus_icon.png",
+            "time": 240000,
+            "atk_attribute": "爆発",
+            "terr": [
+                "urban",
+                "indoor"
+            ],
+            "size": "big",
+            "class": "Hieronymus",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 400000,
+                    "def": 800,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 60,
+                    "GGauge": 99999999
+                },
+                "HARD": {
+                    "HP": 900000,
+                    "def": 1200,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 60,
+                    "GGauge": 99999999
+                },
+                "VERYHARD": {
+                    "HP": 1350000,
+                    "def": 1500,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 60,
+                    "GGauge": 99999999
+                },
+                "HARDCORE": {
+                    "HP": 2500000,
+                    "def": 2000,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 60,
+                    "GGauge": 99999999
+                },
+                "EXTREAM": {
+                    "HP": 6000000,
+                    "def": 2900,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 60,
+                    "GGauge": 99999999
+                },
+                "INSANE": {
+                    "HP": 24000000,
+                    "def": 2900,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 75,
+                    "Lv": 80,
+                    "damage_regist": 60,
+                    "GGauge": 99999999
+                },
+                "TORMENT": {
+                    "HP": 42000000,
+                    "def": 6500,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 75,
+                    "Lv": 90,
+                    "damage_regist": 60,
+                    "GGauge": 99999999
+                },
+                "LUNATIC": {
+                    "HP": 0,
+                    "def": 0,
+                    "avoid": 1,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 75,
+                    "Lv": 90,
+                    "damage_regist": 60,
+                    "GGauge": 99999999
+                }
+            }
+        },
+        {
+            "id": "e0005",
+            "name": "KAITEN FX Mk.0",
+            "img": "enemy/KaitenFxMk0.png",
+            "icon": "enemy/KaitenFxMk0_icon.png",
+            "time": 180000,
+            "atk_attribute": "貫通",
+            "terr": [
+                "urban",
+                "outdoor"
+            ],
+            "size": "big",
+            "class": "KAITEN",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 200000,
+                    "def": 420,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "GGauge": 200000
+                },
+                "HARD": {
+                    "HP": 450000,
+                    "def": 420,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "GGauge": 450000
+                },
+                "VERYHARD": {
+                    "HP": 1000000,
+                    "def": 420,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "GGauge": 1000000
+                },
+                "HARDCORE": {
+                    "HP": 1700000,
+                    "def": 420,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "GGauge": 1700000
+                },
+                "EXTREAM": {
+                    "HP": 7500000,
+                    "def": 420,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "GGauge": 7500000
+                },
+                "INSANE": {
+                    "HP": 10000000,
+                    "def": 420,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 80,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "GGauge": 10000000
+                },
+                "TORMENT": {
+                    "HP": 30000000,
+                    "def": 420,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "GGauge": 30000000
+                },
+                "LUNATIC": {
+                    "HP": 0,
+                    "def": 0,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "GGauge": 0
+                }
+            }
+        },
+        {
+            "id": "e0009",
+            "name": "グレゴリオ",
+            "img": "enemy/Gregorius.png",
+            "icon": "enemy/gregorius_icon.png",
+            "time": 240000,
+            "atk_attribute": "神秘",
+            "terr": [
+                "indoor"
+            ],
+            "size": "big",
+            "class": "Gregorius",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 1000000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 90,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "GGauge": 400000
+                },
+                "HARD": {
+                    "HP": 3000000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 90,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "GGauge": 1200000
+                },
+                "VERYHARD": {
+                    "HP": 6000000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 90,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "GGauge": 2400000
+                },
+                "HARDCORE": {
+                    "HP": 10000000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 90,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "GGauge": 4000000
+                },
+                "EXTREAM": {
+                    "HP": 40000000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 90,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "GGauge": 16000000
+                },
+                "INSANE": {
+                    "HP": 140000000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 90,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "GGauge": 42000000
+                },
+                "TORMENT": {
+                    "HP": 220000000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 90,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "GGauge": 66000000
+                },
+                "LUNATIC": {
+                    "HP": 1250000000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 90,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "GGauge": 375000000
+                }
+            }
+        }
+    ],
+    "ENEMIES": [
+        {
+            "id": "e0118",
+            "name": "聖歌隊",
+            "icon": "enemy/gregorius_choir.png",
+            "atk_attribute": "神秘",
+            "size": "middle",
+            "class": "Gregorius",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 6667,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 17,
+                    "damage_regist": 0
+                },
+                "HARD": {
+                    "HP": 15000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 25,
+                    "damage_regist": 0
+                },
+                "VERYHARD": {
+                    "HP": 24000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 35,
+                    "damage_regist": 0
+                },
+                "HARDCORE": {
+                    "HP": 40000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 50,
+                    "damage_regist": 0
+                },
+                "EXTREAM": {
+                    "HP": 160000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 70,
+                    "damage_regist": 0
+                },
+                "INSANE": {
+                    "HP": 636364,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 80,
+                    "damage_regist": 0
+                },
+                "TORMENT": {
+                    "HP": 757576,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0
+                },
+                "LUNATIC": {
+                    "HP": 984849,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0
+                }
+            }
+        }
+    ]
+}

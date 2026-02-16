@@ -1,0 +1,203 @@
+{
+    "id": "",
+    "name": "",
+    "img": "ブルアカ立ち絵/.png",
+    "icon": "face/.png",
+    "atk_attribute": "",
+    "def_attribute": "",
+    "status": {
+        "atk": 0,
+        "heal": 0,
+        "hit": 0,
+        "avoid": 0,
+        "cri": 0,
+        "cri_damage": 200,
+        "penetrate": 0,
+        "balance": 0,
+        "urban": "",
+        "outdoor": "",
+        "indoor": ""
+    },
+    "goods": {
+        "img": "goods/.png",
+        "name": "",
+        "key": "",
+        "value": 0
+    },
+    "dps": {
+        "hit": 0,
+        "hits": 0,
+        "delay": 0,
+        "reload": 0,
+        "beforeTime": 0
+    },
+    "limit": [],
+    "weapon": [
+        {
+            "wep1": "",
+            "wep2": "",
+            "wep3": "",
+            "unique_wep": [
+                {
+                    "atk": 0,
+                    "heal": 0
+                }
+            ]
+        }
+    ],
+    "bond": [
+        {
+            "atk": [],
+            "heal": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "class": "",
+    "skill": {
+        "EX": {
+            "default": {
+                "skillname": "",
+                "cost": 0,
+                "hittime": 0.0,
+                "effect": [
+                    {
+                        "skill_attribute": "damage",
+                        "skill_pattern": "one",
+                        "hitAmount": 0,
+                        "rate": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    {
+                        "skill_attribute": "",
+                        "skilltime": 0,
+                        "rate": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    {
+                        "skill_attribute": ""
+                    }
+                ]
+            }
+        },
+        "NS": {
+            "default": {
+                "skillname": "",
+                "hittime": 0.0,
+                "effect": [
+                    {
+                        "skill_attribute": "damage",
+                        "skill_pattern": "one",
+                        "hitAmount": 0,
+                        "rate": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    {
+                        "skill_attribute": "",
+                        "skilltime": 0,
+                        "rate": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                ]
+            }
+        },
+        "NS+": {
+            "default": {
+                "skillname": ""
+            }
+        },
+        "PS": [
+            {
+                "skill_attribute": "",
+                "rate": [
+                    14,
+                    14.7,
+                    15.4,
+                    18.2,
+                    18.9,
+                    19.6,
+                    22.4,
+                    23.1,
+                    23.8,
+                    26.6
+                ]
+            }
+        ],
+        "PS+": [
+            {
+                "skill_attribute": "",
+                "rate": [
+                    2000,
+                    2100,
+                    2200,
+                    2600,
+                    2700,
+                    2800,
+                    3200,
+                    3300,
+                    3400,
+                    3800
+                ]
+            }
+        ],
+        "SS": {
+            "default": {
+                "skillname": "",
+                "effect": [
+                    {
+                        "skill_attribute": "",
+                        "skilltime": 13,
+                        "rate": [
+                            9.1,
+                            9.5,
+                            10,
+                            11.8,
+                            12.3,
+                            12.7,
+                            14.5,
+                            15,
+                            15.5,
+                            17.32
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

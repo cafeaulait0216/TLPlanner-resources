@@ -1,0 +1,18 @@
+<svg width="240" height="120" viewBox="0 0 240 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- 警告アイコン -->
+  <g transform="translate(120 22)">
+    <polygon points="0,-14 16,14 -16,14" fill="none" stroke="#8fa3b8" stroke-width="3" stroke-linejoin="round"></polygon>
+    <line x1="0" y1="-6" x2="0" y2="6" stroke="#8fa3b8" stroke-width="3" stroke-linecap="round"></line>
+    <circle cx="0" cy="10" r="2" fill="#8fa3b8"></circle>
+  </g>
+
+  <!-- EMPTY -->
+  <text x="120" y="62" text-anchor="middle" dominant-baseline="middle" font-family="NEXON Lv1 Gothic OTF, Nexon Gothic, sans-serif" font-size="32" font-weight="800" letter-spacing="2" fill="#8fa3b8">
+    EMPTY
+  </text>
+
+  <!-- サブテキスト -->
+  <text x="120" y="88" text-anchor="middle" dominant-baseline="middle" font-family="NEXON Lv1 Gothic OTF, Nexon Gothic, sans-serif" font-size="14" font-weight="600" fill="#9fb2c6">
+    COST回復量減少
+  </text>
+</svg>
