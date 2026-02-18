@@ -22,7 +22,83 @@
                     "cri_damage_regist": 50,
                     "Lv": 17,
                     "damage_regist": 0,
-                    "GGauge": 150000
+                    "GGauge": 150000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "アツィルトの光",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 120
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "大道の却火",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 75
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 375
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 75
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "浄化の嵐",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "吹き荒れる砂塵",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                },
+                                {
+                                    "skill_attribute": "start"
+                                }
+                            ]
+                        }
+                    }
                 },
                 "HARD": {
                     "HP": 800000,
@@ -32,7 +108,83 @@
                     "cri_damage_regist": 50,
                     "Lv": 25,
                     "damage_regist": 0,
-                    "GGauge": 300000
+                    "GGauge": 300000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "アツィルトの光",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 120
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "大道の却火",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 75
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 375
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 75
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "浄化の嵐",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "吹き荒れる砂塵",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                },
+                                {
+                                    "skill_attribute": "start"
+                                }
+                            ]
+                        }
+                    }
                 },
                 "VERYHARD": {
                     "HP": 1100000,
@@ -42,7 +194,83 @@
                     "cri_damage_regist": 50,
                     "Lv": 35,
                     "damage_regist": 0,
-                    "GGauge": 450000
+                    "GGauge": 450000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "アツィルトの光",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 120
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "大道の却火",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 75
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 375
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 75
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "浄化の嵐",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "吹き荒れる砂塵",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                },
+                                {
+                                    "skill_attribute": "start"
+                                }
+                            ]
+                        }
+                    }
                 },
                 "HARDCORE": {
                     "HP": 2000000,
@@ -52,7 +280,83 @@
                     "cri_damage_regist": 50,
                     "Lv": 50,
                     "damage_regist": 0,
-                    "GGauge": 800000
+                    "GGauge": 800000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "アツィルトの光",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 120
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "大道の却火",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 75
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 375
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 75
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "浄化の嵐",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "吹き荒れる砂塵",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                },
+                                {
+                                    "skill_attribute": "start"
+                                }
+                            ]
+                        }
+                    }
                 },
                 "EXTREAM": {
                     "HP": 6000000,
@@ -62,7 +366,83 @@
                     "cri_damage_regist": 50,
                     "Lv": 70,
                     "damage_regist": 0,
-                    "GGauge": 2000000
+                    "GGauge": 2000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "アツィルトの光",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 120
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "大道の却火",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 75
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 375
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 75
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "浄化の嵐",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "吹き荒れる砂塵",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                },
+                                {
+                                    "skill_attribute": "start"
+                                }
+                            ]
+                        }
+                    }
                 },
                 "INSANE": {
                     "HP": 7000000,
@@ -72,7 +452,83 @@
                     "cri_damage_regist": 80,
                     "Lv": 80,
                     "damage_regist": 0,
-                    "GGauge": 2100000
+                    "GGauge": 2100000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "アツィルトの光",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 120
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "大道の却火",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 750
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 300
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 300
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 150
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "浄化の嵐",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "吹き荒れる砂塵",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                },
+                                {
+                                    "skill_attribute": "start"
+                                }
+                            ]
+                        }
+                    }
                 },
                 "TORMENT": {
                     "HP": 23000000,
@@ -82,7 +538,88 @@
                     "cri_damage_regist": 80,
                     "Lv": 90,
                     "damage_regist": 0,
-                    "GGauge": 6500000
+                    "GGauge": 6500000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "アツィルトの光",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 160
+                                },
+                                {
+                                    "skill_attribute": "remain",
+                                    "skilltime": 15,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "大道の却火",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 750
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 300
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 300
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 150
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "浄化の嵐",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "吹き荒れる砂塵",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                },
+                                {
+                                    "skill_attribute": "start"
+                                }
+                            ]
+                        }
+                    }
                 },
                 "LUNATIC": {
                     "HP": 0,
@@ -92,7 +629,29 @@
                     "cri_damage_regist": 80,
                     "Lv": 90,
                     "damage_regist": 0,
-                    "GGauge": 0
+                    "GGauge": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "アツィルトの光",
+                            "hittime": 0,
+                            "effect": []
+                        },
+                        "skill_1": {
+                            "skillname": "大道の却火",
+                            "hittime": 0,
+                            "effect": []
+                        },
+                        "skill_2": {
+                            "skillname": "浄化の嵐",
+                            "hittime": 0,
+                            "effect": []
+                        },
+                        "skill_3": {
+                            "skillname": "吹き荒れる砂塵",
+                            "hittime": 0,
+                            "effect": []
+                        }
+                    }
                 }
             }
         },
