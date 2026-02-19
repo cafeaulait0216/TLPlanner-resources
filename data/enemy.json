@@ -653,7 +653,7 @@
                                 {
                                     "skill_attribute": "atk_debaff",
                                     "skill_pattern": "many",
-                                    "skilltime": 30,
+                                    "skill_tage": "enemy",
                                     "rate": 50
                                 },
                                 {
