@@ -337,6 +337,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "skill_tage": "own",
                                 "skilltime": 20,
                                 "rate": [
                                     38.7,
@@ -350,9 +351,6 @@
                                     65.9,
                                     73.6
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -402,6 +400,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "skill_tage": "own",
                                 "skilltime": 26,
                                 "rate": [
                                     34.4,
@@ -415,9 +414,6 @@
                                     58.6,
                                     65.5
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -796,6 +792,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "cri",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
                                     21,
@@ -809,9 +806,6 @@
                                     35.8,
                                     40
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -979,6 +973,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "my_avoid",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
                                     43.3,
@@ -990,6 +985,7 @@
                             },
                             {
                                 "skill_attribute": "atk_speed",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
                                     30.2,
@@ -998,9 +994,6 @@
                                     48.3,
                                     57.3
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             },
                             {
                                 "skill_attribute": "causeOfSS"
@@ -1091,6 +1084,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk_speed",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
                                     46.6,
@@ -1104,9 +1098,6 @@
                                     79.2,
                                     88.5
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -1254,6 +1245,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "skill_tage": "own",
                                 "skilltime": 23,
                                 "rate": [
                                     18.4,
@@ -1267,9 +1259,6 @@
                                     27.6,
                                     29.5
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -1281,6 +1270,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "skill_tage": "own",
                                 "skilltime": 23,
                                 "rate": [
                                     25.1,
@@ -1294,9 +1284,6 @@
                                     37.7,
                                     40.2
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -1342,6 +1329,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk_speed",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
                                     20.1,
@@ -1355,9 +1343,6 @@
                                     34.2,
                                     38.3
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -1490,6 +1475,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "my_avoid",
+                                "skill_tage": "own",
                                 "skilltime": 20,
                                 "rate": [
                                     20.5,
@@ -1503,9 +1489,6 @@
                                     34.9,
                                     39.1
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -1555,6 +1538,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "my_avoid",
+                                "skill_tage": "own",
                                 "rate": [
                                     24.2,
                                     25.4,
@@ -1567,9 +1551,6 @@
                                     41.1,
                                     45.9
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -2953,6 +2934,7 @@
                             {
                                 "skill_attribute": "atk",
                                 "skilltime": 20,
+                                "skill_tage": "own",
                                 "rate": [
                                     19.1,
                                     19.1,
@@ -3007,9 +2989,6 @@
                                     67.8,
                                     73.5
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -3178,6 +3157,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk_speed",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
                                     27.4,
@@ -3186,9 +3166,6 @@
                                     43.9,
                                     52.1
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             },
                             {
                                 "skill_attribute": "causeOfSS"
@@ -3637,6 +3614,7 @@
                             },
                             {
                                 "skill_attribute": "atk_speed",
+                                "skill_tage": "own",
                                 "skilltime": 21,
                                 "rate": [
                                     0,
@@ -3645,9 +3623,6 @@
                                     38.4,
                                     38.4
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -3942,6 +3917,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
                                     20.2,
@@ -3955,9 +3931,6 @@
                                     34.3,
                                     38.4
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -3969,6 +3942,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
                                     31.7,
@@ -3982,9 +3956,6 @@
                                     53.9,
                                     60.2
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -4246,6 +4217,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk_speed",
+                                "skill_tage": "own",
                                 "skilltime": 20,
                                 "rate": [
                                     24.2,
@@ -4259,9 +4231,6 @@
                                     41.1,
                                     45.9
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -5750,6 +5719,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "healUp",
+                                "skill_tage": "own",
                                 "skilltime": 20,
                                 "rate": [
                                     21.5,
@@ -5763,9 +5733,6 @@
                                     36.6,
                                     41
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -5882,6 +5849,7 @@
                             },
                             {
                                 "skill_attribute": "atk_speed",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
                                     18.8,
@@ -5893,6 +5861,7 @@
                             },
                             {
                                 "skill_attribute": "cri",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
                                     26.3,
@@ -5901,9 +5870,6 @@
                                     42.1,
                                     50
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -6263,6 +6229,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "my_avoid",
+                                "skill_tage": "own",
                                 "skilltime": 20,
                                 "rate": [
                                     17.8,
@@ -6279,6 +6246,7 @@
                             },
                             {
                                 "skill_attribute": "angry",
+                                "skill_tage": "own",
                                 "skilltime": 20,
                                 "rate": [
                                     0,
@@ -6294,9 +6262,6 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "own"
-                            },
-                            {
                                 "skill_attribute": "causeOfSS"
                             }
                         ]
@@ -6310,6 +6275,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "my_avoid",
+                                "skill_tage": "own",
                                 "skilltime": 20,
                                 "rate": [
                                     19.4,
@@ -6326,6 +6292,7 @@
                             },
                             {
                                 "skill_attribute": "angry",
+                                "skill_tage": "own",
                                 "skilltime": 20,
                                 "rate": [
                                     0.3,
@@ -6339,9 +6306,6 @@
                                     0.3,
                                     0.3
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             },
                             {
                                 "skill_attribute": "causeOfSS"
@@ -6392,6 +6356,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
                                     16.8,
@@ -6405,9 +6370,6 @@
                                     28.5,
                                     31.9
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -6582,6 +6544,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "my_avoid",
+                                "skill_tage": "own",
                                 "skilltime": 23,
                                 "rate": [
                                     22.1,
@@ -6595,9 +6558,6 @@
                                     37.5,
                                     41.9
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -6802,6 +6762,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "skill_tage": "own",
                                 "skilltime": 16,
                                 "rate": [
                                     21,
@@ -6815,9 +6776,6 @@
                                     35.7,
                                     39.9
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -6829,6 +6787,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "skill_tage": "own",
                                 "skilltime": 16,
                                 "rate": [
                                     22.9,
@@ -6842,9 +6801,6 @@
                                     39,
                                     43.6
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -8146,6 +8102,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "damage_up_atk",
+                                "skill_tage": "own",
                                 "rate": [
                                     12.7,
                                     13.4,
@@ -8161,6 +8118,7 @@
                             },
                             {
                                 "skill_attribute": "damage_up_baff",
+                                "skill_tage": "own",
                                 "rate": [
                                     6.4,
                                     6.7,
@@ -8179,9 +8137,6 @@
                             },
                             {
                                 "skill_attribute": "start"
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -8293,6 +8248,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "costChange",
+                                "skill_tage": "own",
                                 "rate": [
                                     5,
                                     5,
@@ -8303,6 +8259,7 @@
                             },
                             {
                                 "skill_attribute": "atk",
+                                "skill_tage": "own",
                                 "skilltime": 0,
                                 "rate": [
                                     26.1,
@@ -8314,6 +8271,7 @@
                             },
                             {
                                 "skill_attribute": "aim",
+                                "skill_tage": "own",
                                 "skilltime": 0,
                                 "rate": [
                                     13.9,
@@ -8325,6 +8283,7 @@
                             },
                             {
                                 "skill_attribute": "my_avoid",
+                                "skill_tage": "own",
                                 "skilltime": 0,
                                 "rate": [
                                     12.2,
@@ -8335,13 +8294,12 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "Abi-Eshuh"
+                                "skill_attribute": "Abi-Eshuh",
+                                "skill_tage": "own"
                             },
                             {
-                                "skill_attribute": "formChange"
-                            },
-                            {
-                                "skill_attribute": "own"
+                                "skill_attribute": "formChange",
+                                "skill_tage": "own"
                             },
                             {
                                 "skill_attribute": "draw"
@@ -8534,6 +8492,7 @@
                             },
                             {
                                 "skill_attribute": "penetrate",
+                                "skill_tage": "own",
                                 "skilltime": 2.333,
                                 "rate": [
                                     30,
@@ -8547,9 +8506,6 @@
                                     50,
                                     60
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -8596,10 +8552,8 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "ex_draw"
-                            },
-                            {
-                                "skill_attribute": "own"
+                                "skill_attribute": "ex_draw",
+                                "skill_tage": "own"
                             }
                         ]
                     },
@@ -8645,6 +8599,7 @@
                             },
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
                                     16.2,
@@ -8661,6 +8616,7 @@
                             },
                             {
                                 "skill_attribute": "penetrate",
+                                "skill_tage": "own",
                                 "skilltime": 2.333,
                                 "rate": [
                                     30,
@@ -8674,9 +8630,6 @@
                                     50,
                                     60
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -8991,6 +8944,7 @@
                             },
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
                                 "skilltime": 50,
                                 "rate": [
                                     22,
@@ -9004,9 +8958,6 @@
                                     37.4,
                                     41.8
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -9733,6 +9684,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "skill_tage": "own",
                                 "skilltime": 20,
                                 "rate": [
                                     20.1,
@@ -9746,9 +9698,6 @@
                                     34.2,
                                     38.3
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -9953,6 +9902,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
                                     6.6,
@@ -9966,9 +9916,6 @@
                                     11.3,
                                     12.6
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -10073,6 +10020,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "costChange",
+                                "skill_tage": "own",
                                 "skilltime": 10,
                                 "rate": [
                                     0,
@@ -10086,10 +10034,8 @@
                                 "skill_attribute": "draw"
                             },
                             {
-                                "skill_attribute": "own"
-                            },
-                            {
-                                "skill_attribute": "formChange"
+                                "skill_attribute": "formChange",
+                                "skill_tage": "own"
                             }
                         ]
                     },
@@ -10209,6 +10155,7 @@
                             },
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
                                 "skilltime": 240,
                                 "rate": [
                                     34.17,
@@ -10222,9 +10169,6 @@
                                     58.09,
                                     64.91
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     },
@@ -10310,6 +10254,7 @@
                             },
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
                                 "rate": [
                                     36.29,
                                     37.21,
@@ -10322,9 +10267,6 @@
                                     56.25,
                                     63.51
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     },
@@ -10672,6 +10614,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "cri_damage",
+                                "skill_tage": "own",
                                 "skilltime": 16,
                                 "rate": [
                                     13.5,
@@ -10685,9 +10628,6 @@
                                     23,
                                     25.8
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -10737,6 +10677,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "cri_damage",
+                                "skill_tage": "own",
                                 "rate": [
                                     33.6,
                                     35.2,
@@ -10749,9 +10690,6 @@
                                     57.1,
                                     63.8
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             },
                             {
                                 "skill_attribute": "start"
@@ -10906,6 +10844,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "cri_damage",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
                                     29.1,
@@ -10919,9 +10858,6 @@
                                     49.5,
                                     55.3
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -11387,6 +11323,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "costHeal",
+                                "skill_tage": "own",
                                 "skilltime": 30,
                                 "rate": [
                                     423,
@@ -11400,9 +11337,6 @@
                                     719,
                                     803
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -11572,6 +11506,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "costChange",
+                                "skill_tage": "own",
                                 "skilltime": 70,
                                 "rate": [
                                     4,
@@ -11583,6 +11518,7 @@
                             },
                             {
                                 "skill_attribute": "vs",
+                                "skill_tage": "own",
                                 "skilltime": 70,
                                 "rate": [
                                     0.2,
@@ -11591,9 +11527,6 @@
                                     0.2,
                                     0.2
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             },
                             {
                                 "skill_attribute": "draw"
@@ -11686,6 +11619,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
                                 "skilltime": 25,
                                 "rate": [
                                     31,
@@ -11699,9 +11633,6 @@
                                     52.6,
                                     58.8
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     },
@@ -11711,6 +11642,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
                                 "skilltime": 25,
                                 "rate": [
                                     31,
@@ -11724,9 +11656,6 @@
                                     52.6,
                                     58.8
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -12021,6 +11950,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "atk_speed",
+                                "skill_tage": "own",
                                 "skilltime": 26,
                                 "rate": [
                                     16.3,
@@ -12034,9 +11964,6 @@
                                     27.7,
                                     31
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -12343,6 +12270,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
                                 "skilltime": 33,
                                 "rate": [
                                     31.5,
@@ -12356,9 +12284,6 @@
                                     53.5,
                                     59.8
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     },
@@ -12368,6 +12293,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
                                 "skilltime": 33,
                                 "rate": [
                                     31.5,
@@ -12381,9 +12307,6 @@
                                     53.5,
                                     59.8
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     },
@@ -12393,6 +12316,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
                                 "skilltime": 33,
                                 "rate": [
                                     31.5,
@@ -12406,9 +12330,6 @@
                                     53.5,
                                     59.8
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     },
@@ -12418,6 +12339,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
                                 "skilltime": 33,
                                 "rate": [
                                     31.5,
@@ -12431,9 +12353,6 @@
                                     53.5,
                                     59.8
                                 ]
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     }
@@ -12498,6 +12417,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
+                                "skill_tage": "own",
                                 "rate": [
                                     25.92,
                                     27.22,
@@ -12512,13 +12432,11 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "CRITICAL"
+                                "skill_attribute": "CRITICAL",
+                                "skill_tage": "own"
                             },
                             {
                                 "skill_attribute": "start"
-                            },
-                            {
-                                "skill_attribute": "own"
                             }
                         ]
                     },

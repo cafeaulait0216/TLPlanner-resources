@@ -622,14 +622,14 @@
                     }
                 },
                 "LUNATIC": {
-                    "HP": 0,
-                    "def": 0,
+                    "HP": 50000000,
+                    "def": 7200,
                     "avoid": 100,
                     "cri_regist": 20,
                     "cri_damage_regist": 80,
                     "Lv": 90,
                     "damage_regist": 0,
-                    "GGauge": 0,
+                    "GGauge": 10000000,
                     "skill": {
                         "skill_0": {
                             "skillname": "アツィルトの光",
@@ -649,7 +649,22 @@
                         "skill_3": {
                             "skillname": "吹き荒れる砂塵",
                             "hittime": 0,
-                            "effect": []
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                },
+                                {
+                                    "skill_attribute": "sp_atk",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                },
+                                {
+                                    "skill_attribute": "start"
+                                }
+                            ]
                         }
                     }
                 }
@@ -677,7 +692,8 @@
                     "cri_damage_regist": 50,
                     "Lv": 17,
                     "damage_regist": 60,
-                    "GGauge": 99999999
+                    "GGauge": 99999999,
+                    "skill": {}
                 },
                 "HARD": {
                     "HP": 900000,
@@ -687,7 +703,8 @@
                     "cri_damage_regist": 50,
                     "Lv": 25,
                     "damage_regist": 60,
-                    "GGauge": 99999999
+                    "GGauge": 99999999,
+                    "skill": {}
                 },
                 "VERYHARD": {
                     "HP": 1350000,
@@ -697,7 +714,8 @@
                     "cri_damage_regist": 50,
                     "Lv": 35,
                     "damage_regist": 60,
-                    "GGauge": 99999999
+                    "GGauge": 99999999,
+                    "skill": {}
                 },
                 "HARDCORE": {
                     "HP": 2500000,
@@ -707,7 +725,8 @@
                     "cri_damage_regist": 50,
                     "Lv": 50,
                     "damage_regist": 60,
-                    "GGauge": 99999999
+                    "GGauge": 99999999,
+                    "skill": {}
                 },
                 "EXTREAM": {
                     "HP": 6000000,
@@ -717,7 +736,8 @@
                     "cri_damage_regist": 50,
                     "Lv": 70,
                     "damage_regist": 60,
-                    "GGauge": 99999999
+                    "GGauge": 99999999,
+                    "skill": {}
                 },
                 "INSANE": {
                     "HP": 24000000,
@@ -727,7 +747,8 @@
                     "cri_damage_regist": 75,
                     "Lv": 80,
                     "damage_regist": 60,
-                    "GGauge": 99999999
+                    "GGauge": 5000000,
+                    "skill": {}
                 },
                 "TORMENT": {
                     "HP": 42000000,
@@ -737,7 +758,8 @@
                     "cri_damage_regist": 75,
                     "Lv": 90,
                     "damage_regist": 60,
-                    "GGauge": 99999999
+                    "GGauge": 9000000,
+                    "skill": {}
                 },
                 "LUNATIC": {
                     "HP": 0,
@@ -747,7 +769,8 @@
                     "cri_damage_regist": 75,
                     "Lv": 90,
                     "damage_regist": 60,
-                    "GGauge": 99999999
+                    "GGauge": 99999999,
+                    "skill": {}
                 }
             }
         },
@@ -773,7 +796,8 @@
                     "cri_damage_regist": 50,
                     "Lv": 17,
                     "damage_regist": 0,
-                    "GGauge": 200000
+                    "GGauge": 200000,
+                    "skill": {}
                 },
                 "HARD": {
                     "HP": 450000,
@@ -783,7 +807,8 @@
                     "cri_damage_regist": 50,
                     "Lv": 25,
                     "damage_regist": 0,
-                    "GGauge": 450000
+                    "GGauge": 450000,
+                    "skill": {}
                 },
                 "VERYHARD": {
                     "HP": 1000000,
@@ -793,7 +818,8 @@
                     "cri_damage_regist": 50,
                     "Lv": 35,
                     "damage_regist": 0,
-                    "GGauge": 1000000
+                    "GGauge": 1000000,
+                    "skill": {}
                 },
                 "HARDCORE": {
                     "HP": 1700000,
@@ -803,7 +829,8 @@
                     "cri_damage_regist": 50,
                     "Lv": 50,
                     "damage_regist": 0,
-                    "GGauge": 1700000
+                    "GGauge": 1700000,
+                    "skill": {}
                 },
                 "EXTREAM": {
                     "HP": 7500000,
@@ -813,7 +840,8 @@
                     "cri_damage_regist": 50,
                     "Lv": 70,
                     "damage_regist": 0,
-                    "GGauge": 7500000
+                    "GGauge": 7500000,
+                    "skill": {}
                 },
                 "INSANE": {
                     "HP": 10000000,
@@ -823,7 +851,8 @@
                     "cri_damage_regist": 80,
                     "Lv": 80,
                     "damage_regist": 0,
-                    "GGauge": 10000000
+                    "GGauge": 10000000,
+                    "skill": {}
                 },
                 "TORMENT": {
                     "HP": 30000000,
@@ -833,7 +862,8 @@
                     "cri_damage_regist": 80,
                     "Lv": 90,
                     "damage_regist": 0,
-                    "GGauge": 30000000
+                    "GGauge": 30000000,
+                    "skill": {}
                 },
                 "LUNATIC": {
                     "HP": 0,
@@ -843,7 +873,8 @@
                     "cri_damage_regist": 80,
                     "Lv": 90,
                     "damage_regist": 0,
-                    "GGauge": 0
+                    "GGauge": 0,
+                    "skill": {}
                 }
             }
         },
@@ -868,7 +899,8 @@
                     "cri_damage_regist": 90,
                     "Lv": 17,
                     "damage_regist": 0,
-                    "GGauge": 400000
+                    "GGauge": 400000,
+                    "skill": {}
                 },
                 "HARD": {
                     "HP": 3000000,
@@ -878,7 +910,8 @@
                     "cri_damage_regist": 90,
                     "Lv": 25,
                     "damage_regist": 0,
-                    "GGauge": 1200000
+                    "GGauge": 1200000,
+                    "skill": {}
                 },
                 "VERYHARD": {
                     "HP": 6000000,
@@ -888,7 +921,8 @@
                     "cri_damage_regist": 90,
                     "Lv": 35,
                     "damage_regist": 0,
-                    "GGauge": 2400000
+                    "GGauge": 2400000,
+                    "skill": {}
                 },
                 "HARDCORE": {
                     "HP": 10000000,
@@ -898,7 +932,8 @@
                     "cri_damage_regist": 90,
                     "Lv": 50,
                     "damage_regist": 0,
-                    "GGauge": 4000000
+                    "GGauge": 4000000,
+                    "skill": {}
                 },
                 "EXTREAM": {
                     "HP": 40000000,
@@ -908,7 +943,8 @@
                     "cri_damage_regist": 90,
                     "Lv": 70,
                     "damage_regist": 0,
-                    "GGauge": 16000000
+                    "GGauge": 16000000,
+                    "skill": {}
                 },
                 "INSANE": {
                     "HP": 140000000,
@@ -918,7 +954,8 @@
                     "cri_damage_regist": 90,
                     "Lv": 80,
                     "damage_regist": 0,
-                    "GGauge": 42000000
+                    "GGauge": 42000000,
+                    "skill": {}
                 },
                 "TORMENT": {
                     "HP": 220000000,
@@ -928,7 +965,8 @@
                     "cri_damage_regist": 90,
                     "Lv": 90,
                     "damage_regist": 0,
-                    "GGauge": 66000000
+                    "GGauge": 66000000,
+                    "skill": {}
                 },
                 "LUNATIC": {
                     "HP": 1250000000,
@@ -938,7 +976,8 @@
                     "cri_damage_regist": 90,
                     "Lv": 90,
                     "damage_regist": 0,
-                    "GGauge": 375000000
+                    "GGauge": 375000000,
+                    "skill": {}
                 }
             }
         }
@@ -959,7 +998,8 @@
                     "cri_regist": 200,
                     "cri_damage_regist": 80,
                     "Lv": 17,
-                    "damage_regist": 0
+                    "damage_regist": 0,
+                    "skill": {}
                 },
                 "HARD": {
                     "HP": 15000,
@@ -968,7 +1008,8 @@
                     "cri_regist": 200,
                     "cri_damage_regist": 80,
                     "Lv": 25,
-                    "damage_regist": 0
+                    "damage_regist": 0,
+                    "skill": {}
                 },
                 "VERYHARD": {
                     "HP": 24000,
@@ -977,7 +1018,8 @@
                     "cri_regist": 200,
                     "cri_damage_regist": 80,
                     "Lv": 35,
-                    "damage_regist": 0
+                    "damage_regist": 0,
+                    "skill": {}
                 },
                 "HARDCORE": {
                     "HP": 40000,
@@ -986,7 +1028,8 @@
                     "cri_regist": 200,
                     "cri_damage_regist": 80,
                     "Lv": 50,
-                    "damage_regist": 0
+                    "damage_regist": 0,
+                    "skill": {}
                 },
                 "EXTREAM": {
                     "HP": 160000,
@@ -995,7 +1038,8 @@
                     "cri_regist": 200,
                     "cri_damage_regist": 80,
                     "Lv": 70,
-                    "damage_regist": 0
+                    "damage_regist": 0,
+                    "skill": {}
                 },
                 "INSANE": {
                     "HP": 636364,
@@ -1004,7 +1048,8 @@
                     "cri_regist": 200,
                     "cri_damage_regist": 80,
                     "Lv": 80,
-                    "damage_regist": 0
+                    "damage_regist": 0,
+                    "skill": {}
                 },
                 "TORMENT": {
                     "HP": 757576,
@@ -1013,7 +1058,8 @@
                     "cri_regist": 200,
                     "cri_damage_regist": 80,
                     "Lv": 90,
-                    "damage_regist": 0
+                    "damage_regist": 0,
+                    "skill": {}
                 },
                 "LUNATIC": {
                     "HP": 984849,
@@ -1022,7 +1068,98 @@
                     "cri_regist": 200,
                     "cri_damage_regist": 80,
                     "Lv": 90,
-                    "damage_regist": 0
+                    "damage_regist": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0119",
+            "name": "パイプオルガン",
+            "icon": "enemy/gregorius_organ.png",
+            "atk_attribute": "神秘",
+            "size": "middle",
+            "class": "Gregorius",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 1667,
+                    "def": 1000,
+                    "avoid": 0,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 0,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARD": {
+                    "HP": 3000,
+                    "def": 1000,
+                    "avoid": 0,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 0,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "VERYHARD": {
+                    "HP": 4800,
+                    "def": 1000,
+                    "avoid": 0,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 0,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARDCORE": {
+                    "HP": 8000,
+                    "def": 1000,
+                    "avoid": 0,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 0,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "EXTREAM": {
+                    "HP": 16000,
+                    "def": 1000,
+                    "avoid": 0,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 0,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "INSANE": {
+                    "HP": 63637,
+                    "def": 1000,
+                    "avoid": 0,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 0,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "TORMENT": {
+                    "HP": 75758,
+                    "def": 1000,
+                    "avoid": 0,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 0,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "LUNATIC": {
+                    "HP": 98485,
+                    "def": 1000,
+                    "avoid": 0,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 0,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
                 }
             }
         }
