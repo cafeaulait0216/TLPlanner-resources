@@ -90,7 +90,6 @@
                                 {
                                     "skill_attribute": "atk_debaff",
                                     "skill_pattern": "many",
-                                    "skilltime": 30,
                                     "rate": 50
                                 },
                                 {
@@ -176,7 +175,6 @@
                                 {
                                     "skill_attribute": "atk_debaff",
                                     "skill_pattern": "many",
-                                    "skilltime": 30,
                                     "rate": 50
                                 },
                                 {
@@ -262,7 +260,6 @@
                                 {
                                     "skill_attribute": "atk_debaff",
                                     "skill_pattern": "many",
-                                    "skilltime": 30,
                                     "rate": 50
                                 },
                                 {
@@ -348,7 +345,6 @@
                                 {
                                     "skill_attribute": "atk_debaff",
                                     "skill_pattern": "many",
-                                    "skilltime": 30,
                                     "rate": 50
                                 },
                                 {
@@ -434,7 +430,6 @@
                                 {
                                     "skill_attribute": "atk_debaff",
                                     "skill_pattern": "many",
-                                    "skilltime": 30,
                                     "rate": 50
                                 },
                                 {
@@ -520,7 +515,6 @@
                                 {
                                     "skill_attribute": "atk_debaff",
                                     "skill_pattern": "many",
-                                    "skilltime": 30,
                                     "rate": 50
                                 },
                                 {
@@ -611,7 +605,6 @@
                                 {
                                     "skill_attribute": "atk_debaff",
                                     "skill_pattern": "many",
-                                    "skilltime": 30,
                                     "rate": 50
                                 },
                                 {
