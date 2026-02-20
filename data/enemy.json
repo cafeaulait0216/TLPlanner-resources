@@ -627,17 +627,66 @@
                         "skill_0": {
                             "skillname": "アツィルトの光",
                             "hittime": 0,
-                            "effect": []
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 200
+                                },
+                                {
+                                    "skill_attribute": "remain",
+                                    "skilltime": 15,
+                                    "rate": 130
+                                }
+                            ]
                         },
                         "skill_1": {
                             "skillname": "大道の却火",
                             "hittime": 0,
-                            "effect": []
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 150
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 750
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 300
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "rate": 300
+                                },
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 150
+                                }
+                            ]
                         },
                         "skill_2": {
                             "skillname": "浄化の嵐",
                             "hittime": 0,
-                            "effect": []
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_pattern": "many",
+                                    "skilltime": 30,
+                                    "rate": 50
+                                }
+                            ]
                         },
                         "skill_3": {
                             "skillname": "吹き荒れる砂塵",
@@ -685,7 +734,54 @@
                     "Lv": 17,
                     "damage_regist": 60,
                     "GGauge": 99999999,
-                    "skill": {}
+                    "skill": {
+                        "skill": {
+                            "skill_0": {
+                                "skillname": "ダマススの招請",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 350
+                                    }
+                                ]
+                            },
+                            "skill_1": {
+                                "skillname": "ウルガータ",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "curse",
+                                        "skilltime": 10,
+                                        "rate": 150
+                                    }
+                                ]
+                            },
+                            "skill_2": {
+                                "skillname": "獅子の救済",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 90
+                                    }
+                                ]
+                            },
+                            "skill_3": {
+                                "skillname": "砂漠の苦痛",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 40
+                                    }
+                                ]
+                            }
+                        }
+                    }
                 },
                 "HARD": {
                     "HP": 900000,
@@ -696,7 +792,54 @@
                     "Lv": 25,
                     "damage_regist": 60,
                     "GGauge": 99999999,
-                    "skill": {}
+                    "skill": {
+                        "skill": {
+                            "skill_0": {
+                                "skillname": "ダマススの招請",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 350
+                                    }
+                                ]
+                            },
+                            "skill_1": {
+                                "skillname": "ウルガータ",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "curse",
+                                        "skilltime": 10,
+                                        "rate": 150
+                                    }
+                                ]
+                            },
+                            "skill_2": {
+                                "skillname": "獅子の救済",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 90
+                                    }
+                                ]
+                            },
+                            "skill_3": {
+                                "skillname": "砂漠の苦痛",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 40
+                                    }
+                                ]
+                            }
+                        }
+                    }
                 },
                 "VERYHARD": {
                     "HP": 1350000,
@@ -707,7 +850,54 @@
                     "Lv": 35,
                     "damage_regist": 60,
                     "GGauge": 99999999,
-                    "skill": {}
+                    "skill": {
+                        "skill": {
+                            "skill_0": {
+                                "skillname": "ダマススの招請",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 350
+                                    }
+                                ]
+                            },
+                            "skill_1": {
+                                "skillname": "ウルガータ",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "curse",
+                                        "skilltime": 10,
+                                        "rate": 150
+                                    }
+                                ]
+                            },
+                            "skill_2": {
+                                "skillname": "獅子の救済",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 90
+                                    }
+                                ]
+                            },
+                            "skill_3": {
+                                "skillname": "砂漠の苦痛",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 40
+                                    }
+                                ]
+                            }
+                        }
+                    }
                 },
                 "HARDCORE": {
                     "HP": 2500000,
@@ -718,7 +908,54 @@
                     "Lv": 50,
                     "damage_regist": 60,
                     "GGauge": 99999999,
-                    "skill": {}
+                    "skill": {
+                        "skill": {
+                            "skill_0": {
+                                "skillname": "ダマススの招請",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 350
+                                    }
+                                ]
+                            },
+                            "skill_1": {
+                                "skillname": "ウルガータ",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "curse",
+                                        "skilltime": 10,
+                                        "rate": 150
+                                    }
+                                ]
+                            },
+                            "skill_2": {
+                                "skillname": "獅子の救済",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 90
+                                    }
+                                ]
+                            },
+                            "skill_3": {
+                                "skillname": "砂漠の苦痛",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 40
+                                    }
+                                ]
+                            }
+                        }
+                    }
                 },
                 "EXTREAM": {
                     "HP": 6000000,
@@ -729,7 +966,54 @@
                     "Lv": 70,
                     "damage_regist": 60,
                     "GGauge": 99999999,
-                    "skill": {}
+                    "skill": {
+                        "skill": {
+                            "skill_0": {
+                                "skillname": "ダマススの招請",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 350
+                                    }
+                                ]
+                            },
+                            "skill_1": {
+                                "skillname": "ウルガータ",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "curse",
+                                        "skilltime": 10,
+                                        "rate": 150
+                                    }
+                                ]
+                            },
+                            "skill_2": {
+                                "skillname": "獅子の救済",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 90
+                                    }
+                                ]
+                            },
+                            "skill_3": {
+                                "skillname": "砂漠の苦痛",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 40
+                                    }
+                                ]
+                            }
+                        }
+                    }
                 },
                 "INSANE": {
                     "HP": 24000000,
@@ -740,7 +1024,69 @@
                     "Lv": 80,
                     "damage_regist": 60,
                     "GGauge": 5000000,
-                    "skill": {}
+                    "skill": {
+                        "skill": {
+                            "skill_0": {
+                                "skillname": "ダマススの招請",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 350
+                                    }
+                                ]
+                            },
+                            "skill_1": {
+                                "skillname": "ウルガータ",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "curse",
+                                        "skilltime": 10,
+                                        "rate": 150
+                                    },
+                                    {
+                                        "skill_attribute": "heal_uped",
+                                        "skilltime": 10,
+                                        "rate": 3000
+                                    }
+                                ]
+                            },
+                            "skill_2": {
+                                "skillname": "獅子の救済",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 90
+                                    }
+                                ]
+                            },
+                            "skill_3": {
+                                "skillname": "砂漠の苦痛",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 40
+                                    },
+                                    {
+                                        "skill_attribute": "heal_uped",
+                                        "skilltime": 10,
+                                        "rate": 2000
+                                    },
+                                    {
+                                        "skill_attribute": "non_dead",
+                                        "skilltime": 10,
+                                        "rate": 0
+                                    }
+                                ]
+                            }
+                        }
+                    }
                 },
                 "TORMENT": {
                     "HP": 42000000,
@@ -751,7 +1097,83 @@
                     "Lv": 90,
                     "damage_regist": 60,
                     "GGauge": 9000000,
-                    "skill": {}
+                    "skill": {
+                        "skill": {
+                            "skill_0": {
+                                "skillname": "ダマススの招請",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 350
+                                    }
+                                ]
+                            },
+                            "skill_1": {
+                                "skillname": "ウルガータ",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "curse",
+                                        "skilltime": 10,
+                                        "rate": 150
+                                    },
+                                    {
+                                        "skill_attribute": "heal_uped",
+                                        "skilltime": 10,
+                                        "rate": 3000
+                                    }
+                                ]
+                            },
+                            "skill_2": {
+                                "skillname": "獅子の救済",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 90
+                                    }
+                                ]
+                            },
+                            "skill_3": {
+                                "skillname": "砂漠の苦痛",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "damage",
+                                        "skill_pattern": "many",
+                                        "rate": 40
+                                    },
+                                    {
+                                        "skill_attribute": "heal_uped",
+                                        "skilltime": 10,
+                                        "rate": 2000
+                                    },
+                                    {
+                                        "skill_attribute": "non_dead",
+                                        "skilltime": 10,
+                                        "rate": 0
+                                    }
+                                ]
+                            },
+                            "skill_4": {
+                                "skillname": "苦行を経た悟り",
+                                "hittime": 0,
+                                "effect": [
+                                    {
+                                        "skill_attribute": "penetrate",
+                                        "skill_pattern": "own",
+                                        "rate": 750
+                                    },
+                                    {
+                                        "skill_attribute": "start"
+                                    }
+                                ]
+                            }
+                        }
+                    }
                 },
                 "LUNATIC": {
                     "HP": 0,
@@ -892,7 +1314,64 @@
                     "Lv": 17,
                     "damage_regist": 0,
                     "GGauge": 400000,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖者の囁き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 40
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "厳粛なる悔悟",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 10
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "万人の救恤",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 999999
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "聖者のしもべのしもべ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "gregorius_servant"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "サンクトゥス",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "sanctus"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        }
+                    }
                 },
                 "HARD": {
                     "HP": 3000000,
@@ -903,7 +1382,64 @@
                     "Lv": 25,
                     "damage_regist": 0,
                     "GGauge": 1200000,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖者の囁き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 40
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "厳粛なる悔悟",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 10
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "万人の救恤",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 999999
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "聖者のしもべのしもべ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "gregorius_servant"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "サンクトゥス",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "sanctus"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        }
+                    }
                 },
                 "VERYHARD": {
                     "HP": 6000000,
@@ -914,7 +1450,64 @@
                     "Lv": 35,
                     "damage_regist": 0,
                     "GGauge": 2400000,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖者の囁き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 40
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "厳粛なる悔悟",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 10
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "万人の救恤",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 999999
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "聖者のしもべのしもべ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "gregorius_servant"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "サンクトゥス",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "sanctus"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        }
+                    }
                 },
                 "HARDCORE": {
                     "HP": 10000000,
@@ -925,7 +1518,64 @@
                     "Lv": 50,
                     "damage_regist": 0,
                     "GGauge": 4000000,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖者の囁き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 40
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "厳粛なる悔悟",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 10
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "万人の救恤",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 999999
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "聖者のしもべのしもべ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "gregorius_servant"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "サンクトゥス",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "sanctus"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        }
+                    }
                 },
                 "EXTREAM": {
                     "HP": 40000000,
@@ -936,7 +1586,64 @@
                     "Lv": 70,
                     "damage_regist": 0,
                     "GGauge": 16000000,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖者の囁き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 40
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "厳粛なる悔悟",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 10
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "万人の救恤",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 999999
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "聖者のしもべのしもべ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "gregorius_servant"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "サンクトゥス",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "sanctus"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        }
+                    }
                 },
                 "INSANE": {
                     "HP": 140000000,
@@ -947,7 +1654,64 @@
                     "Lv": 80,
                     "damage_regist": 0,
                     "GGauge": 42000000,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖者の囁き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 40
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "厳粛なる悔悟",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 10
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "万人の救恤",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 999999
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "聖者のしもべのしもべ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "gregorius_servant"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "サンクトゥス",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "sanctus"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        }
+                    }
                 },
                 "TORMENT": {
                     "HP": 220000000,
@@ -958,7 +1722,64 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 66000000,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖者の囁き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 40
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "厳粛なる悔悟",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 10
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "万人の救恤",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 999999
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "聖者のしもべのしもべ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "gregorius_servant"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "サンクトゥス",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "sanctus"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        }
+                    }
                 },
                 "LUNATIC": {
                     "HP": 1250000000,
@@ -969,12 +1790,433 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 375000000,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖者の囁き",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 70
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "厳粛なる悔悟",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 120,
+                                    "rate": 10
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "万人の救恤",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 999999
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "聖者のしもべのしもべ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "gregorius_servant"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "サンクトゥス",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "sanctus"
+                                },
+                                {
+                                    "skill_attribute": "passive"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         }
     ],
     "ENEMIES": [
+        {
+            "id": "e0107",
+            "name": "緑色の聖遺物",
+            "icon": "enemy/holyrelic_green.png",
+            "atk_attribute": "爆発",
+            "size": "middle",
+            "class": "Hieronymus",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 6002,
+                    "def": 500,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "rate": 55
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 6502,
+                    "def": 500,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "rate": 55
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 7502,
+                    "def": 500,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "rate": 55
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 15002,
+                    "def": 500,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "rate": 55
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 35002,
+                    "def": 500,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "rate": 55
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 38000,
+                    "def": 2500,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "rate": 55
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 44000,
+                    "def": 5000,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "rate": 55
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 984849,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0108",
+            "name": "赤色の聖遺物",
+            "icon": "enemy/holyrelic_red.png",
+            "atk_attribute": "爆発",
+            "size": "middle",
+            "class": "Hieronymus",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 6002,
+                    "def": 500,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "costHeal",
+                                    "skilltime": 1,
+                                    "rate": 2500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 6502,
+                    "def": 500,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "costHeal",
+                                    "skilltime": 1,
+                                    "rate": 2500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 7502,
+                    "def": 500,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "costHeal",
+                                    "skilltime": 1,
+                                    "rate": 2500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 15002,
+                    "def": 500,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "costHeal",
+                                    "skilltime": 1,
+                                    "rate": 2500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 35002,
+                    "def": 500,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "聖なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "costHeal",
+                                    "skilltime": 1,
+                                    "rate": 2500
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": "e0109",
+            "name": "紫色の聖遺物",
+            "icon": "enemy/holyrelic_purple.png",
+            "atk_attribute": "爆発",
+            "size": "middle",
+            "class": "Hieronymus",
+            "difficulty": {
+                "INSANE": {
+                    "HP": 40000,
+                    "def": 2000,
+                    "avoid": 1,
+                    "cri_regist": 999999,
+                    "cri_damage_regist": 50,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "不浄なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "all",
+                                    "rate": 25
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "rate": 1500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 60000,
+                    "def": 2000,
+                    "avoid": 1,
+                    "cri_regist": 999999,
+                    "cri_damage_regist": 50,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "不浄なる光(聖遺物)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "all",
+                                    "rate": 25
+                                },
+                                {
+                                    "skill_attribute": "damage_up_atk",
+                                    "skill_tage": "all",
+                                    "rate": 25
+                                },
+                                {
+                                    "skill_attribute": "def",
+                                    "rate": 1500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 984849,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                }
+            }
+        },
         {
             "id": "e0118",
             "name": "聖歌隊",
@@ -1081,7 +2323,26 @@
                     "cri_damage_regist": 0,
                     "Lv": 17,
                     "damage_regist": 0,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skilltime": 60,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {}
+                            ]
+                        }
+                    }
                 },
                 "HARD": {
                     "HP": 3000,
@@ -1091,7 +2352,26 @@
                     "cri_damage_regist": 0,
                     "Lv": 25,
                     "damage_regist": 0,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skilltime": 60,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {}
+                            ]
+                        }
+                    }
                 },
                 "VERYHARD": {
                     "HP": 4800,
@@ -1101,7 +2381,26 @@
                     "cri_damage_regist": 0,
                     "Lv": 35,
                     "damage_regist": 0,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skilltime": 60,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {}
+                            ]
+                        }
+                    }
                 },
                 "HARDCORE": {
                     "HP": 8000,
@@ -1111,7 +2410,26 @@
                     "cri_damage_regist": 0,
                     "Lv": 50,
                     "damage_regist": 0,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skilltime": 60,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {}
+                            ]
+                        }
+                    }
                 },
                 "EXTREAM": {
                     "HP": 16000,
@@ -1121,7 +2439,26 @@
                     "cri_damage_regist": 0,
                     "Lv": 70,
                     "damage_regist": 0,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skilltime": 60,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {}
+                            ]
+                        }
+                    }
                 },
                 "INSANE": {
                     "HP": 63637,
@@ -1131,7 +2468,26 @@
                     "cri_damage_regist": 0,
                     "Lv": 80,
                     "damage_regist": 0,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skilltime": 60,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {}
+                            ]
+                        }
+                    }
                 },
                 "TORMENT": {
                     "HP": 75758,
@@ -1141,7 +2497,26 @@
                     "cri_damage_regist": 0,
                     "Lv": 90,
                     "damage_regist": 0,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skilltime": 60,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {}
+                            ]
+                        }
+                    }
                 },
                 "LUNATIC": {
                     "HP": 98485,
@@ -1151,7 +2526,30 @@
                     "cri_damage_regist": 0,
                     "Lv": 90,
                     "damage_regist": 0,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skilltime": 60,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "ex_up",
+                                    "skilltime": 120,
+                                    "rate": 70
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         }
