@@ -792,51 +792,49 @@
                 "damage_regist": 60,
                 "GGauge": 99999999,
                 "skill": {
-                    "skill": {
-                        "skill_0": {
-                            "skillname": "ダマススの招請",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 350
-                                }
-                            ]
-                        },
-                        "skill_1": {
-                            "skillname": "ウルガータ",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "curse",
-                                    "skilltime": 10,
-                                    "rate": 150
-                                }
-                            ]
-                        },
-                        "skill_2": {
-                            "skillname": "獅子の救済",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 90
-                                }
-                            ]
-                        },
-                        "skill_3": {
-                            "skillname": "砂漠の苦痛",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 40
-                                }
-                            ]
-                        }
+                    "skill_0": {
+                        "skillname": "ダマススの招請",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 350
+                            }
+                        ]
+                    },
+                    "skill_1": {
+                        "skillname": "ウルガータ",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "curse",
+                                "skilltime": 10,
+                                "rate": 150
+                            }
+                        ]
+                    },
+                    "skill_2": {
+                        "skillname": "獅子の救済",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 90
+                            }
+                        ]
+                    },
+                    "skill_3": {
+                        "skillname": "砂漠の苦痛",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 40
+                            }
+                        ]
                     }
                 }
             },
@@ -850,51 +848,49 @@
                 "damage_regist": 60,
                 "GGauge": 99999999,
                 "skill": {
-                    "skill": {
-                        "skill_0": {
-                            "skillname": "ダマススの招請",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 350
-                                }
-                            ]
-                        },
-                        "skill_1": {
-                            "skillname": "ウルガータ",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "curse",
-                                    "skilltime": 10,
-                                    "rate": 150
-                                }
-                            ]
-                        },
-                        "skill_2": {
-                            "skillname": "獅子の救済",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 90
-                                }
-                            ]
-                        },
-                        "skill_3": {
-                            "skillname": "砂漠の苦痛",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 40
-                                }
-                            ]
-                        }
+                    "skill_0": {
+                        "skillname": "ダマススの招請",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 350
+                            }
+                        ]
+                    },
+                    "skill_1": {
+                        "skillname": "ウルガータ",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "curse",
+                                "skilltime": 10,
+                                "rate": 150
+                            }
+                        ]
+                    },
+                    "skill_2": {
+                        "skillname": "獅子の救済",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 90
+                            }
+                        ]
+                    },
+                    "skill_3": {
+                        "skillname": "砂漠の苦痛",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 40
+                            }
+                        ]
                     }
                 }
             },
@@ -908,51 +904,49 @@
                 "damage_regist": 60,
                 "GGauge": 99999999,
                 "skill": {
-                    "skill": {
-                        "skill_0": {
-                            "skillname": "ダマススの招請",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 350
-                                }
-                            ]
-                        },
-                        "skill_1": {
-                            "skillname": "ウルガータ",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "curse",
-                                    "skilltime": 10,
-                                    "rate": 150
-                                }
-                            ]
-                        },
-                        "skill_2": {
-                            "skillname": "獅子の救済",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 90
-                                }
-                            ]
-                        },
-                        "skill_3": {
-                            "skillname": "砂漠の苦痛",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 40
-                                }
-                            ]
-                        }
+                    "skill_0": {
+                        "skillname": "ダマススの招請",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 350
+                            }
+                        ]
+                    },
+                    "skill_1": {
+                        "skillname": "ウルガータ",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "curse",
+                                "skilltime": 10,
+                                "rate": 150
+                            }
+                        ]
+                    },
+                    "skill_2": {
+                        "skillname": "獅子の救済",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 90
+                            }
+                        ]
+                    },
+                    "skill_3": {
+                        "skillname": "砂漠の苦痛",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 40
+                            }
+                        ]
                     }
                 }
             },
@@ -966,51 +960,49 @@
                 "damage_regist": 60,
                 "GGauge": 99999999,
                 "skill": {
-                    "skill": {
-                        "skill_0": {
-                            "skillname": "ダマススの招請",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 350
-                                }
-                            ]
-                        },
-                        "skill_1": {
-                            "skillname": "ウルガータ",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "curse",
-                                    "skilltime": 10,
-                                    "rate": 150
-                                }
-                            ]
-                        },
-                        "skill_2": {
-                            "skillname": "獅子の救済",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 90
-                                }
-                            ]
-                        },
-                        "skill_3": {
-                            "skillname": "砂漠の苦痛",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 40
-                                }
-                            ]
-                        }
+                    "skill_0": {
+                        "skillname": "ダマススの招請",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 350
+                            }
+                        ]
+                    },
+                    "skill_1": {
+                        "skillname": "ウルガータ",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "curse",
+                                "skilltime": 10,
+                                "rate": 150
+                            }
+                        ]
+                    },
+                    "skill_2": {
+                        "skillname": "獅子の救済",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 90
+                            }
+                        ]
+                    },
+                    "skill_3": {
+                        "skillname": "砂漠の苦痛",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 40
+                            }
+                        ]
                     }
                 }
             },
@@ -1024,66 +1016,64 @@
                 "damage_regist": 60,
                 "GGauge": 5000000,
                 "skill": {
-                    "skill": {
-                        "skill_0": {
-                            "skillname": "ダマススの招請",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 350
-                                }
-                            ]
-                        },
-                        "skill_1": {
-                            "skillname": "ウルガータ",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "curse",
-                                    "skilltime": 10,
-                                    "rate": 150
-                                },
-                                {
-                                    "skill_attribute": "heal_uped",
-                                    "skilltime": 10,
-                                    "rate": 3000
-                                }
-                            ]
-                        },
-                        "skill_2": {
-                            "skillname": "獅子の救済",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 90
-                                }
-                            ]
-                        },
-                        "skill_3": {
-                            "skillname": "砂漠の苦痛",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 40
-                                },
-                                {
-                                    "skill_attribute": "heal_uped",
-                                    "skilltime": 10,
-                                    "rate": 2000
-                                },
-                                {
-                                    "skill_attribute": "non_dead",
-                                    "skilltime": 10,
-                                    "rate": 0
-                                }
-                            ]
-                        }
+                    "skill_0": {
+                        "skillname": "ダマススの招請",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 350
+                            }
+                        ]
+                    },
+                    "skill_1": {
+                        "skillname": "ウルガータ",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "curse",
+                                "skilltime": 10,
+                                "rate": 150
+                            },
+                            {
+                                "skill_attribute": "heal_uped",
+                                "skilltime": 10,
+                                "rate": 3000
+                            }
+                        ]
+                    },
+                    "skill_2": {
+                        "skillname": "獅子の救済",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 90
+                            }
+                        ]
+                    },
+                    "skill_3": {
+                        "skillname": "砂漠の苦痛",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 40
+                            },
+                            {
+                                "skill_attribute": "heal_uped",
+                                "skilltime": 10,
+                                "rate": 2000
+                            },
+                            {
+                                "skill_attribute": "non_dead",
+                                "skilltime": 10,
+                                "rate": 0
+                            }
+                        ]
                     }
                 }
             },
@@ -1097,80 +1087,78 @@
                 "damage_regist": 60,
                 "GGauge": 9000000,
                 "skill": {
-                    "skill": {
-                        "skill_0": {
-                            "skillname": "ダマススの招請",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 350
-                                }
-                            ]
-                        },
-                        "skill_1": {
-                            "skillname": "ウルガータ",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "curse",
-                                    "skilltime": 10,
-                                    "rate": 150
-                                },
-                                {
-                                    "skill_attribute": "heal_uped",
-                                    "skilltime": 10,
-                                    "rate": 3000
-                                }
-                            ]
-                        },
-                        "skill_2": {
-                            "skillname": "獅子の救済",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 90
-                                }
-                            ]
-                        },
-                        "skill_3": {
-                            "skillname": "砂漠の苦痛",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "damage",
-                                    "skill_pattern": "many",
-                                    "rate": 40
-                                },
-                                {
-                                    "skill_attribute": "heal_uped",
-                                    "skilltime": 10,
-                                    "rate": 2000
-                                },
-                                {
-                                    "skill_attribute": "non_dead",
-                                    "skilltime": 10,
-                                    "rate": 0
-                                }
-                            ]
-                        },
-                        "skill_4": {
-                            "skillname": "苦行を経た悟り",
-                            "hittime": 0,
-                            "effect": [
-                                {
-                                    "skill_attribute": "penetrate",
-                                    "skill_pattern": "own",
-                                    "rate": 750
-                                },
-                                {
-                                    "skill_attribute": "start"
-                                }
-                            ]
-                        }
+                    "skill_0": {
+                        "skillname": "ダマススの招請",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 350
+                            }
+                        ]
+                    },
+                    "skill_1": {
+                        "skillname": "ウルガータ",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "curse",
+                                "skilltime": 10,
+                                "rate": 150
+                            },
+                            {
+                                "skill_attribute": "heal_uped",
+                                "skilltime": 10,
+                                "rate": 3000
+                            }
+                        ]
+                    },
+                    "skill_2": {
+                        "skillname": "獅子の救済",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 90
+                            }
+                        ]
+                    },
+                    "skill_3": {
+                        "skillname": "砂漠の苦痛",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "rate": 40
+                            },
+                            {
+                                "skill_attribute": "heal_uped",
+                                "skilltime": 10,
+                                "rate": 2000
+                            },
+                            {
+                                "skill_attribute": "non_dead",
+                                "skilltime": 10,
+                                "rate": 0
+                            }
+                        ]
+                    },
+                    "skill_4": {
+                        "skillname": "苦行を経た悟り",
+                        "hittime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "penetrate",
+                                "skill_pattern": "own",
+                                "rate": 750
+                            },
+                            {
+                                "skill_attribute": "start"
+                            }
+                        ]
                     }
                 }
             },
