@@ -1266,6 +1266,9 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 10
+                                },
+                                {
+                                    "skill_attribute": "debaff_clear"
                                 }
                             ]
                         },
@@ -1338,6 +1341,9 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 10
+                                },
+                                {
+                                    "skill_attribute": "debaff_clear"
                                 }
                             ]
                         },
@@ -1410,6 +1416,9 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 10
+                                },
+                                {
+                                    "skill_attribute": "debaff_clear"
                                 }
                             ]
                         },
@@ -1482,6 +1491,9 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 10
+                                },
+                                {
+                                    "skill_attribute": "debaff_clear"
                                 }
                             ]
                         },
@@ -1554,6 +1566,9 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 10
+                                },
+                                {
+                                    "skill_attribute": "debaff_clear"
                                 }
                             ]
                         },
@@ -1626,6 +1641,9 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 10
+                                },
+                                {
+                                    "skill_attribute": "debaff_clear"
                                 }
                             ]
                         },
@@ -1698,6 +1716,9 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 10
+                                },
+                                {
+                                    "skill_attribute": "debaff_clear"
                                 }
                             ]
                         },
@@ -1770,6 +1791,9 @@
                                     "skill_attribute": "atk_debaff",
                                     "skilltime": 120,
                                     "rate": 10
+                                },
+                                {
+                                    "skill_attribute": "debaff_clear"
                                 }
                             ]
                         },
@@ -2303,7 +2327,9 @@
                             "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
-                                {}
+                                {
+                                    "skill_attribute": "debaff_clear"
+                                }
                             ]
                         }
                     }
@@ -2332,7 +2358,9 @@
                             "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
-                                {}
+                                {
+                                    "skill_attribute": "debaff_clear"
+                                }
                             ]
                         }
                     }
@@ -2361,7 +2389,9 @@
                             "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
-                                {}
+                                {
+                                    "skill_attribute": "debaff_clear"
+                                }
                             ]
                         }
                     }
@@ -2390,7 +2420,9 @@
                             "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
-                                {}
+                                {
+                                    "skill_attribute": "debaff_clear"
+                                }
                             ]
                         }
                     }
@@ -2419,7 +2451,9 @@
                             "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
-                                {}
+                                {
+                                    "skill_attribute": "debaff_clear"
+                                }
                             ]
                         }
                     }
@@ -2448,7 +2482,9 @@
                             "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
-                                {}
+                                {
+                                    "skill_attribute": "debaff_clear"
+                                }
                             ]
                         }
                     }
@@ -2477,7 +2513,9 @@
                             "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
-                                {}
+                                {
+                                    "skill_attribute": "debaff_clear"
+                                }
                             ]
                         }
                     }
@@ -2510,6 +2548,9 @@
                                     "skill_attribute": "ex_up",
                                     "skilltime": 120,
                                     "rate": 70
+                                },
+                                {
+                                    "skill_attribute": "debaff_clear"
                                 }
                             ]
                         }
