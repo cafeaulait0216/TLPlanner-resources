@@ -1302,7 +1302,8 @@
                                 },
                                 {
                                     "skill_attribute": "costHeal",
-                                    "rate": 300
+                                    "rate": 300,
+                                    "duplicate": true
                                 }
                             ]
                         }
@@ -1373,7 +1374,8 @@
                                 },
                                 {
                                     "skill_attribute": "costHeal",
-                                    "rate": 300
+                                    "rate": 300,
+                                    "duplicate": true
                                 }
                             ]
                         }
@@ -1444,7 +1446,8 @@
                                 },
                                 {
                                     "skill_attribute": "costHeal",
-                                    "rate": 300
+                                    "rate": 300,
+                                    "duplicate": true
                                 }
                             ]
                         }
@@ -1515,7 +1518,8 @@
                                 },
                                 {
                                     "skill_attribute": "costHeal",
-                                    "rate": 300
+                                    "rate": 300,
+                                    "duplicate": true
                                 }
                             ]
                         }
@@ -1586,7 +1590,8 @@
                                 },
                                 {
                                     "skill_attribute": "costHeal",
-                                    "rate": 300
+                                    "rate": 300,
+                                    "duplicate": true
                                 }
                             ]
                         }
@@ -1657,7 +1662,8 @@
                                 },
                                 {
                                     "skill_attribute": "costHeal",
-                                    "rate": 300
+                                    "rate": 300,
+                                    "duplicate": true
                                 }
                             ]
                         }
@@ -1728,7 +1734,8 @@
                                 },
                                 {
                                     "skill_attribute": "costHeal",
-                                    "rate": 300
+                                    "rate": 300,
+                                    "duplicate": true
                                 }
                             ]
                         }
@@ -1799,7 +1806,8 @@
                                 },
                                 {
                                     "skill_attribute": "costHeal",
-                                    "rate": 300
+                                    "rate": 300,
+                                    "duplicate": true
                                 }
                             ]
                         }
