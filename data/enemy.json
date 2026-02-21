@@ -1268,7 +1268,7 @@
                                     "rate": 10
                                 },
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         },
@@ -1343,7 +1343,7 @@
                                     "rate": 10
                                 },
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         },
@@ -1418,7 +1418,7 @@
                                     "rate": 10
                                 },
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         },
@@ -1493,7 +1493,7 @@
                                     "rate": 10
                                 },
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         },
@@ -1568,7 +1568,7 @@
                                     "rate": 10
                                 },
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         },
@@ -1643,7 +1643,7 @@
                                     "rate": 10
                                 },
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         },
@@ -1718,7 +1718,7 @@
                                     "rate": 10
                                 },
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         },
@@ -1793,7 +1793,7 @@
                                     "rate": 10
                                 },
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         },
@@ -2328,7 +2328,7 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         }
@@ -2359,7 +2359,7 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         }
@@ -2390,7 +2390,7 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         }
@@ -2421,7 +2421,7 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         }
@@ -2452,7 +2452,7 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         }
@@ -2483,7 +2483,7 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         }
@@ -2514,7 +2514,7 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         }
@@ -2550,7 +2550,7 @@
                                     "rate": 70
                                 },
                                 {
-                                    "skill_attribute": "debaff_clear"
+                                    "skill_attribute": "clear_debaff"
                                 }
                             ]
                         }
