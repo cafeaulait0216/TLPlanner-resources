@@ -87,14 +87,7 @@
                             "skillname": "吹き荒れる砂塵",
                             "hittime": 0,
                             "effect": [
-                                {
-                                    "skill_attribute": "atk_debaff",
-                                    "skill_pattern": "many",
-                                    "rate": 50
-                                },
-                                {
-                                    "skill_attribute": "start"
-                                }
+                                {}
                             ]
                         }
                     }
@@ -172,14 +165,7 @@
                             "skillname": "吹き荒れる砂塵",
                             "hittime": 0,
                             "effect": [
-                                {
-                                    "skill_attribute": "atk_debaff",
-                                    "skill_pattern": "many",
-                                    "rate": 50
-                                },
-                                {
-                                    "skill_attribute": "start"
-                                }
+                                {}
                             ]
                         }
                     }
@@ -257,14 +243,7 @@
                             "skillname": "吹き荒れる砂塵",
                             "hittime": 0,
                             "effect": [
-                                {
-                                    "skill_attribute": "atk_debaff",
-                                    "skill_pattern": "many",
-                                    "rate": 50
-                                },
-                                {
-                                    "skill_attribute": "start"
-                                }
+                                {}
                             ]
                         }
                     }
@@ -342,14 +321,7 @@
                             "skillname": "吹き荒れる砂塵",
                             "hittime": 0,
                             "effect": [
-                                {
-                                    "skill_attribute": "atk_debaff",
-                                    "skill_pattern": "many",
-                                    "rate": 50
-                                },
-                                {
-                                    "skill_attribute": "start"
-                                }
+                                {}
                             ]
                         }
                     }
@@ -427,14 +399,7 @@
                             "skillname": "吹き荒れる砂塵",
                             "hittime": 0,
                             "effect": [
-                                {
-                                    "skill_attribute": "atk_debaff",
-                                    "skill_pattern": "many",
-                                    "rate": 50
-                                },
-                                {
-                                    "skill_attribute": "start"
-                                }
+                                {}
                             ]
                         }
                     }
@@ -512,14 +477,7 @@
                             "skillname": "吹き荒れる砂塵",
                             "hittime": 0,
                             "effect": [
-                                {
-                                    "skill_attribute": "atk_debaff",
-                                    "skill_pattern": "many",
-                                    "rate": 50
-                                },
-                                {
-                                    "skill_attribute": "start"
-                                }
+                                {}
                             ]
                         }
                     }
@@ -602,14 +560,7 @@
                             "skillname": "吹き荒れる砂塵",
                             "hittime": 0,
                             "effect": [
-                                {
-                                    "skill_attribute": "atk_debaff",
-                                    "skill_pattern": "many",
-                                    "rate": 50
-                                },
-                                {
-                                    "skill_attribute": "start"
-                                }
+                                {}
                             ]
                         }
                     }
@@ -692,11 +643,6 @@
                             "skillname": "吹き荒れる砂塵",
                             "hittime": 0,
                             "effect": [
-                                {
-                                    "skill_attribute": "atk_debaff",
-                                    "skill_pattern": "many",
-                                    "rate": 50
-                                },
                                 {
                                     "skill_attribute": "sp_atk",
                                     "skill_tage": "own",
