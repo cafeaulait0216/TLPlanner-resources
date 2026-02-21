@@ -1350,10 +1350,13 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "sanctus"
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 30,
+                                    "rate": 30
                                 },
                                 {
-                                    "skill_attribute": "passive"
+                                    "skill_attribute": "costHeal",
+                                    "rate": 300
                                 }
                             ]
                         }
@@ -1418,10 +1421,13 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "sanctus"
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 30,
+                                    "rate": 30
                                 },
                                 {
-                                    "skill_attribute": "passive"
+                                    "skill_attribute": "costHeal",
+                                    "rate": 300
                                 }
                             ]
                         }
@@ -1486,10 +1492,13 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "sanctus"
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 30,
+                                    "rate": 30
                                 },
                                 {
-                                    "skill_attribute": "passive"
+                                    "skill_attribute": "costHeal",
+                                    "rate": 300
                                 }
                             ]
                         }
@@ -1554,10 +1563,13 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "sanctus"
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 30,
+                                    "rate": 30
                                 },
                                 {
-                                    "skill_attribute": "passive"
+                                    "skill_attribute": "costHeal",
+                                    "rate": 300
                                 }
                             ]
                         }
@@ -1622,10 +1634,13 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "sanctus"
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 30,
+                                    "rate": 30
                                 },
                                 {
-                                    "skill_attribute": "passive"
+                                    "skill_attribute": "costHeal",
+                                    "rate": 300
                                 }
                             ]
                         }
@@ -1690,10 +1705,13 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "sanctus"
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 30,
+                                    "rate": 30
                                 },
                                 {
-                                    "skill_attribute": "passive"
+                                    "skill_attribute": "costHeal",
+                                    "rate": 300
                                 }
                             ]
                         }
@@ -1758,10 +1776,13 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "sanctus"
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 30,
+                                    "rate": 30
                                 },
                                 {
-                                    "skill_attribute": "passive"
+                                    "skill_attribute": "costHeal",
+                                    "rate": 300
                                 }
                             ]
                         }
@@ -1826,10 +1847,13 @@
                             "hittime": 0,
                             "effect": [
                                 {
-                                    "skill_attribute": "sanctus"
+                                    "skill_attribute": "atk_debaff",
+                                    "skilltime": 30,
+                                    "rate": 30
                                 },
                                 {
-                                    "skill_attribute": "passive"
+                                    "skill_attribute": "costHeal",
+                                    "rate": 300
                                 }
                             ]
                         }
