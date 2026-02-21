@@ -2281,7 +2281,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
-                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {
@@ -2292,7 +2292,7 @@
                             ]
                         },
                         "skill_1": {
-                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {}
@@ -2310,7 +2310,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
-                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {
@@ -2321,7 +2321,7 @@
                             ]
                         },
                         "skill_1": {
-                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {}
@@ -2339,7 +2339,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
-                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {
@@ -2350,7 +2350,7 @@
                             ]
                         },
                         "skill_1": {
-                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {}
@@ -2368,7 +2368,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
-                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {
@@ -2379,7 +2379,7 @@
                             ]
                         },
                         "skill_1": {
-                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {}
@@ -2397,7 +2397,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
-                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {
@@ -2408,7 +2408,7 @@
                             ]
                         },
                         "skill_1": {
-                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {}
@@ -2426,7 +2426,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
-                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {
@@ -2437,7 +2437,7 @@
                             ]
                         },
                         "skill_1": {
-                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {}
@@ -2455,7 +2455,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
-                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {
@@ -2466,7 +2466,7 @@
                             ]
                         },
                         "skill_1": {
-                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {}
@@ -2484,7 +2484,7 @@
                     "damage_regist": 0,
                     "skill": {
                         "skill_0": {
-                            "skillname": "グレゴリオ聖歌(奇数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {
@@ -2495,7 +2495,7 @@
                             ]
                         },
                         "skill_1": {
-                            "skillname": "グレゴリオ聖歌(偶数番目)",
+                            "skillname": "グレゴリオ聖歌",
                             "hittime": 0,
                             "effect": [
                                 {
