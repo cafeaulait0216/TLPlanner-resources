@@ -1143,7 +1143,84 @@
                     "Lv": 17,
                     "damage_regist": 0,
                     "GGauge": 200000,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "無限回転・SUPER海老マシンガン",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "無限回転・HYPER鰯ミサイル",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "無限回転・ULTRAお皿シールド",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_baff",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "無限回転・FINAL鯖スラッシュ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "own",
+                                    "rate": 1000
+                                }
+                            ]
+                        }
+                    }
                 },
                 "HARD": {
                     "HP": 450000,
@@ -1154,7 +1231,84 @@
                     "Lv": 25,
                     "damage_regist": 0,
                     "GGauge": 450000,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "無限回転・SUPER海老マシンガン",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "無限回転・HYPER鰯ミサイル",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "無限回転・ULTRAお皿シールド",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_baff",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "無限回転・FINAL鯖スラッシュ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "own",
+                                    "rate": 1000
+                                }
+                            ]
+                        }
+                    }
                 },
                 "VERYHARD": {
                     "HP": 1000000,
@@ -1165,7 +1319,84 @@
                     "Lv": 35,
                     "damage_regist": 0,
                     "GGauge": 1000000,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "無限回転・SUPER海老マシンガン",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "無限回転・HYPER鰯ミサイル",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "無限回転・ULTRAお皿シールド",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_baff",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "無限回転・FINAL鯖スラッシュ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "own",
+                                    "rate": 1000
+                                }
+                            ]
+                        }
+                    }
                 },
                 "HARDCORE": {
                     "HP": 1700000,
@@ -1176,7 +1407,84 @@
                     "Lv": 50,
                     "damage_regist": 0,
                     "GGauge": 1700000,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "無限回転・SUPER海老マシンガン",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "無限回転・HYPER鰯ミサイル",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "無限回転・ULTRAお皿シールド",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_baff",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "無限回転・FINAL鯖スラッシュ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "own",
+                                    "rate": 1000
+                                }
+                            ]
+                        }
+                    }
                 },
                 "EXTREAM": {
                     "HP": 7500000,
@@ -1187,7 +1495,84 @@
                     "Lv": 70,
                     "damage_regist": 0,
                     "GGauge": 7500000,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "無限回転・SUPER海老マシンガン",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "無限回転・HYPER鰯ミサイル",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "無限回転・ULTRAお皿シールド",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_baff",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "無限回転・FINAL鯖スラッシュ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "own",
+                                    "rate": 1000
+                                }
+                            ]
+                        }
+                    }
                 },
                 "INSANE": {
                     "HP": 10000000,
@@ -1198,7 +1583,95 @@
                     "Lv": 80,
                     "damage_regist": 0,
                     "GGauge": 10000000,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "無限回転・SUPER海老マシンガン",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "無限回転・HYPER鰯ミサイル",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "無限回転・ULTRAお皿シールド",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_baff",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "無限回転・FINAL鯖スラッシュ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "無限回転・MEGA玉子オーバーチャージ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "own",
+                                    "rate": 4000
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
+                                }
+                            ]
+                        },
+                        "skill_7": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "own",
+                                    "rate": 1000
+                                }
+                            ]
+                        }
+                    }
                 },
                 "TORMENT": {
                     "HP": 30000000,
@@ -1209,7 +1682,95 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "GGauge": 30000000,
-                    "skill": {}
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "無限回転・SUPER海老マシンガン",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 600
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "無限回転・HYPER鰯ミサイル",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 300
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "無限回転・ULTRAお皿シールド",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_baff",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "無限回転・FINAL鯖スラッシュ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "無限回転・MEGA玉子オーバーチャージ",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "own",
+                                    "rate": 4000
+                                }
+                            ]
+                        },
+                        "skill_5": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(ピンク)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "own",
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_6": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(レッド)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 5
+                                }
+                            ]
+                        },
+                        "skill_7": {
+                            "skillname": "心を燃やせ......まだまだ回れる！(グリーン)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "def",
+                                    "skill_tage": "own",
+                                    "rate": 1000
+                                }
+                            ]
+                        }
+                    }
                 },
                 "LUNATIC": {
                     "HP": 0,
@@ -2282,6 +2843,895 @@
                     "Lv": 90,
                     "damage_regist": 0,
                     "skill": {}
+                },
+                "LUNATIC": {
+                    "HP": 984849,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0110",
+            "name": "カイテンジャーレッド",
+            "icon": "enemy/kaitenranger_red.png",
+            "atk_attribute": "貫通",
+            "size": "middle",
+            "class": "KAITEN",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 120000,
+                    "def": 1332,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！熱血のレッド！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "provoke",
+                                    "skill_tage": "all",
+                                    "skilltime": 10
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 250000,
+                    "def": 1332,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！熱血のレッド！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "provoke",
+                                    "skill_tage": "all",
+                                    "skilltime": 10
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 500000,
+                    "def": 1332,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！熱血のレッド！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "provoke",
+                                    "skill_tage": "all",
+                                    "skilltime": 10
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 1300000,
+                    "def": 1332,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！熱血のレッド！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "provoke",
+                                    "skill_tage": "all",
+                                    "skilltime": 10
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 4000000,
+                    "def": 1332,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！熱血のレッド！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "provoke",
+                                    "skill_tage": "all",
+                                    "skilltime": 10
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 6000000,
+                    "def": 1332,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！熱血のレッド！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "provoke",
+                                    "skill_tage": "all",
+                                    "skilltime": 10
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 40000000,
+                    "def": 1332,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！熱血のレッド！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "provoke",
+                                    "skill_tage": "all",
+                                    "skilltime": 10
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "悪党め！卑怯なり！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skill_tage": "own",
+                                    "skilltime": 15,
+                                    "rate": 40
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 984849,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0111",
+            "name": "カイテンジャーブラック",
+            "icon": "enemy/kaitenranger_black.png",
+            "atk_attribute": "貫通",
+            "size": "middle",
+            "class": "KAITEN",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 120000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！冷徹なブラック！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skill_tage": "all",
+                                    "skilltime": 10,
+                                    "rate": 50
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 250000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！冷徹なブラック！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skill_tage": "all",
+                                    "skilltime": 10,
+                                    "rate": 50
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 500000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！冷徹なブラック！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skill_tage": "all",
+                                    "skilltime": 10,
+                                    "rate": 50
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 1300000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！冷徹なブラック！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skill_tage": "all",
+                                    "skilltime": 10,
+                                    "rate": 50
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 4000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！冷徹なブラック！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skill_tage": "all",
+                                    "skilltime": 10,
+                                    "rate": 50
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 6000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！冷徹なブラック！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skill_tage": "all",
+                                    "skilltime": 10,
+                                    "rate": 50
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 40000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！冷徹なブラック！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skill_tage": "all",
+                                    "skilltime": 10,
+                                    "rate": 50
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 984849,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0112",
+            "name": "カイテンジャーグリーン",
+            "icon": "enemy/kaitenranger_green.png",
+            "atk_attribute": "貫通",
+            "size": "middle",
+            "class": "KAITEN",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 120000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！休出のグリーン......",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 250000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！休出のグリーン......",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 500000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！休出のグリーン......",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 1300000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！休出のグリーン......",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 4000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！休出のグリーン......",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 6000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！休出のグリーン......",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 40000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！休出のグリーン......",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "many",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 984849,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0113",
+            "name": "カイテンジャーイエロー",
+            "icon": "enemy/kaitenranger_yellow.png",
+            "atk_attribute": "貫通",
+            "size": "middle",
+            "class": "KAITEN",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 120000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！気合のイエロー！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skilltime": 500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 250000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！気合のイエロー！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skilltime": 500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 500000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！気合のイエロー！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skilltime": 500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 1300000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！気合のイエロー！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skilltime": 500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 4000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！気合のイエロー！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skilltime": 500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 6000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！気合のイエロー！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skilltime": 500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 40000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！気合のイエロー！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "skill_pattern": "one",
+                                    "skilltime": 500
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 984849,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0114",
+            "name": "カイテンジャーピンク",
+            "icon": "enemy/kaitenranger_pink.png",
+            "atk_attribute": "貫通",
+            "size": "middle",
+            "class": "KAITEN",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 120000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！純情のピンク！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "all",
+                                    "skilltime": 10
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 250000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！純情のピンク！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "all",
+                                    "rate": 6
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 500000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！純情のピンク！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "all",
+                                    "rate": 6
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 1300000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！純情のピンク！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "all",
+                                    "rate": 6
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 4000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！純情のピンク！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "all",
+                                    "rate": 6
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 6000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！純情のピンク！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "all",
+                                    "rate": 6
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 40000000,
+                    "def": 333,
+                    "avoid": 300,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "カイテンポーズ！純情のピンク！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "atk",
+                                    "skill_tage": "all",
+                                    "rate": 6
+                                }
+                            ]
+                        }
+                    }
                 },
                 "LUNATIC": {
                     "HP": 984849,
