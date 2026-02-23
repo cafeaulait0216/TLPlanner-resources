@@ -14931,6 +14931,7 @@
                             },
                             {
                                 "skill_attribute": "penetrate",
+                                "skill_tage": "own",
                                 "skilltime": 7,
                                 "rate": [
                                     366,
