@@ -658,7 +658,340 @@
             }
         },
         {
-            "id": "e0005",
+            "id": "e0003",
+            "name": "シロ",
+            "img": "enemy/ShiroKuro.png",
+            "icon": "enemy/shiro.png",
+            "time": 240000,
+            "atk_attribute": "貫通",
+            "terr": [
+                "urban",
+                "indoor"
+            ],
+            "size": "big",
+            "class": "ShiroKuro",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 280000,
+                    "def": 700,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "GGauge": 148000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "ドッカァーン！！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 700
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "転がれ転がれー！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 600
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 550000,
+                    "def": 700,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "GGauge": 296000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "ドッカァーン！！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 700
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "転がれ転がれー！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 600
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 675000,
+                    "def": 700,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "GGauge": 400000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "ドッカァーン！！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 700
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "転がれ転がれー！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 600
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 1200000,
+                    "def": 700,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "GGauge": 720000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "ドッカァーン！！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 700
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "転がれ転がれー！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 600
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 4500000,
+                    "def": 700,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "GGauge": 5000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "ドッカァーン！！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 700
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "転がれ転がれー！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 600
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 10000000,
+                    "def": 700,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "GGauge": 18000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "ドッカァーン！！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 1100
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "ドッカァーン！！(氷)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 1100
+                                },
+                                {
+                                    "skill_attribute": "move_speed_debaff",
+                                    "skilltime": 40,
+                                    "rate": 80
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "転がれ転がれー！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 1500
+                                },
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skilltime": 40,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "スランピアの恐怖",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "heal_downed",
+                                    "skill_tage": "all",
+                                    "rate": 80
+                                },
+                                {
+                                    "skill_attribute": "start"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 35000000,
+                    "def": 700,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "GGauge": 22000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "ドッカァーン！！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 3000
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "ドッカァーン！！(氷)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 1800
+                                },
+                                {
+                                    "skill_attribute": "move_speed_debaff",
+                                    "skilltime": 40,
+                                    "rate": 80
+                                }
+                            ]
+                        },
+                        "skill_2": {
+                            "skillname": "ドッカァーン！！(氷)",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 700
+                                },
+                                {
+                                    "skill_attribute": "knockOut",
+                                    "skilltime": 4
+                                }
+                            ]
+                        },
+                        "skill_3": {
+                            "skillname": "転がれ転がれー！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 5000
+                                },
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skilltime": 40,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_4": {
+                            "skillname": "スランピアの恐怖",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "heal_downed",
+                                    "skill_tage": "all",
+                                    "rate": 80
+                                },
+                                {
+                                    "skill_attribute": "start"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 0,
+                    "def": 0,
+                    "avoid": 100,
+                    "cri_regist": 20,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "GGauge": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0004",
             "name": "ヒエロニムス",
             "img": "enemy/Hieronymus.png",
             "icon": "enemy/Hieronymus_icon.png",
@@ -1121,7 +1454,7 @@
             }
         },
         {
-            "id": "e0006",
+            "id": "e0005",
             "name": "KAITEN FX Mk.0",
             "img": "enemy/KaitenFxMk0.png",
             "icon": "enemy/KaitenFxMk0_icon.png",
@@ -1786,7 +2119,7 @@
             }
         },
         {
-            "id": "e0010",
+            "id": "e0009",
             "name": "グレゴリオ",
             "img": "enemy/Gregorius.png",
             "icon": "enemy/gregorius_icon.png",
@@ -2403,7 +2736,222 @@
     ],
     "ENEMIES": [
         {
-            "id": "e0107",
+            "id": "e0105",
+            "name": "クロ",
+            "icon": "enemy/kuro.png",
+            "atk_attribute": "神秘",
+            "size": "big",
+            "class": "ShiroKuro",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 320000,
+                    "def": 700,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "GGauge": 172000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "突進だぁ！！！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARD": {
+                    "HP": 600000,
+                    "def": 700,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "GGauge": 320000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "突進だぁ！！！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "VERYHARD": {
+                    "HP": 735000,
+                    "def": 700,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "GGauge": 440000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "突進だぁ！！！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "HARDCORE": {
+                    "HP": 1330000,
+                    "def": 700,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "GGauge": 800000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "突進だぁ！！！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EXTREAM": {
+                    "HP": 6000000,
+                    "def": 700,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 50,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "GGauge": 6000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "突進だぁ！！！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 400
+                                }
+                            ]
+                        }
+                    }
+                },
+                "INSANE": {
+                    "HP": 10000000,
+                    "def": 700,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "GGauge": 17000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "突進だぁ！！！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 500
+                                },
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skilltime": 40,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "アパシー・シンドローム",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 100
+                                },
+                                {
+                                    "skill_attribute": "move_speed_debaff",
+                                    "skilltime": 40,
+                                    "rate": 80
+                                }
+                            ]
+                        }
+                    }
+                },
+                "TORMENT": {
+                    "HP": 45000000,
+                    "def": 700,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "GGauge": 22000000,
+                    "skill": {
+                        "skill_0": {
+                            "skillname": "突進だぁ！！！",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 500
+                                },
+                                {
+                                    "skill_attribute": "damage_up_debaff",
+                                    "skilltime": 40,
+                                    "rate": 50
+                                }
+                            ]
+                        },
+                        "skill_1": {
+                            "skillname": "アパシー・シンドローム",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "damage",
+                                    "rate": 100
+                                },
+                                {
+                                    "skill_attribute": "move_speed_debaff",
+                                    "skilltime": 40,
+                                    "rate": 80
+                                }
+                            ]
+                        }
+                    }
+                },
+                "LUNATIC": {
+                    "HP": 0,
+                    "def": 700,
+                    "avoid": 100,
+                    "cri_regist": 100,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "GGauge": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0106",
             "name": "緑色の聖遺物",
             "icon": "enemy/holyrelic_green.png",
             "atk_attribute": "爆発",
@@ -2570,7 +3118,7 @@
             }
         },
         {
-            "id": "e0108",
+            "id": "e0107",
             "name": "赤色の聖遺物",
             "icon": "enemy/holyrelic_red.png",
             "atk_attribute": "爆発",
@@ -2690,7 +3238,7 @@
             }
         },
         {
-            "id": "e0109",
+            "id": "e0108",
             "name": "紫色の聖遺物",
             "icon": "enemy/holyrelic_purple.png",
             "atk_attribute": "爆発",
@@ -2767,97 +3315,7 @@
             }
         },
         {
-            "id": "e0118",
-            "name": "聖歌隊",
-            "icon": "enemy/gregorius_choir.png",
-            "atk_attribute": "神秘",
-            "size": "middle",
-            "class": "Gregorius",
-            "difficulty": {
-                "NORMAL": {
-                    "HP": 6667,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
-                    "cri_damage_regist": 80,
-                    "Lv": 17,
-                    "damage_regist": 0,
-                    "skill": {}
-                },
-                "HARD": {
-                    "HP": 15000,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
-                    "cri_damage_regist": 80,
-                    "Lv": 25,
-                    "damage_regist": 0,
-                    "skill": {}
-                },
-                "VERYHARD": {
-                    "HP": 24000,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
-                    "cri_damage_regist": 80,
-                    "Lv": 35,
-                    "damage_regist": 0,
-                    "skill": {}
-                },
-                "HARDCORE": {
-                    "HP": 40000,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
-                    "cri_damage_regist": 80,
-                    "Lv": 50,
-                    "damage_regist": 0,
-                    "skill": {}
-                },
-                "EXTREAM": {
-                    "HP": 160000,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
-                    "cri_damage_regist": 80,
-                    "Lv": 70,
-                    "damage_regist": 0,
-                    "skill": {}
-                },
-                "INSANE": {
-                    "HP": 636364,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
-                    "cri_damage_regist": 80,
-                    "Lv": 80,
-                    "damage_regist": 0,
-                    "skill": {}
-                },
-                "TORMENT": {
-                    "HP": 757576,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
-                    "cri_damage_regist": 80,
-                    "Lv": 90,
-                    "damage_regist": 0,
-                    "skill": {}
-                },
-                "LUNATIC": {
-                    "HP": 984849,
-                    "def": 1000,
-                    "avoid": 500,
-                    "cri_regist": 200,
-                    "cri_damage_regist": 80,
-                    "Lv": 90,
-                    "damage_regist": 0,
-                    "skill": {}
-                }
-            }
-        },
-        {
-            "id": "e0110",
+            "id": "e0109",
             "name": "カイテンジャーレッド",
             "icon": "enemy/kaitenranger_red.png",
             "atk_attribute": "貫通",
@@ -3043,7 +3501,7 @@
             }
         },
         {
-            "id": "e0111",
+            "id": "e0110",
             "name": "カイテンジャーブラック",
             "icon": "enemy/kaitenranger_black.png",
             "atk_attribute": "貫通",
@@ -3224,7 +3682,7 @@
             }
         },
         {
-            "id": "e0112",
+            "id": "e0111",
             "name": "カイテンジャーグリーン",
             "icon": "enemy/kaitenranger_green.png",
             "atk_attribute": "貫通",
@@ -3398,7 +3856,7 @@
             }
         },
         {
-            "id": "e0113",
+            "id": "e0112",
             "name": "カイテンジャーイエロー",
             "icon": "enemy/kaitenranger_yellow.png",
             "atk_attribute": "貫通",
@@ -3572,7 +4030,7 @@
             }
         },
         {
-            "id": "e0114",
+            "id": "e0113",
             "name": "カイテンジャーピンク",
             "icon": "enemy/kaitenranger_pink.png",
             "atk_attribute": "貫通",
@@ -3747,6 +4205,96 @@
         },
         {
             "id": "e0119",
+            "name": "聖歌隊",
+            "icon": "enemy/gregorius_choir.png",
+            "atk_attribute": "神秘",
+            "size": "middle",
+            "class": "Gregorius",
+            "difficulty": {
+                "NORMAL": {
+                    "HP": 6667,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 17,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARD": {
+                    "HP": 15000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 25,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "VERYHARD": {
+                    "HP": 24000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 35,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "HARDCORE": {
+                    "HP": 40000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 50,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "EXTREAM": {
+                    "HP": 160000,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 70,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "INSANE": {
+                    "HP": 636364,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 80,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "TORMENT": {
+                    "HP": 757576,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                },
+                "LUNATIC": {
+                    "HP": 984849,
+                    "def": 1000,
+                    "avoid": 500,
+                    "cri_regist": 200,
+                    "cri_damage_regist": 80,
+                    "Lv": 90,
+                    "damage_regist": 0,
+                    "skill": {}
+                }
+            }
+        },
+        {
+            "id": "e0120",
             "name": "パイプオルガン",
             "icon": "enemy/gregorius_organ.png",
             "atk_attribute": "神秘",
