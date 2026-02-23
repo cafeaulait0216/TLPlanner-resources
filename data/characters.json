@@ -14941,7 +14941,14 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "addCost"
+                                "skill_attribute": "addCost",
+                                "rate": [
+                                    35,
+                                    35,
+                                    35,
+                                    35,
+                                    35
+                                ]
                             }
                         ]
                     }
