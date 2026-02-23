@@ -660,7 +660,7 @@
         {
             "id": "e0003",
             "name": "シロ",
-            "img": "enemy/ShiroKuro.png",
+            "img": "enemy/Shirokuro.png",
             "icon": "enemy/shiro.png",
             "time": 240000,
             "atk_attribute": "貫通",
