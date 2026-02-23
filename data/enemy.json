@@ -658,7 +658,7 @@
             }
         },
         {
-            "id": "e0004",
+            "id": "e0005",
             "name": "ヒエロニムス",
             "img": "enemy/Hieronymus.png",
             "icon": "enemy/Hieronymus_icon.png",
@@ -1121,7 +1121,7 @@
             }
         },
         {
-            "id": "e0005",
+            "id": "e0006",
             "name": "KAITEN FX Mk.0",
             "img": "enemy/KaitenFxMk0.png",
             "icon": "enemy/KaitenFxMk0_icon.png",
@@ -1786,7 +1786,7 @@
             }
         },
         {
-            "id": "e0009",
+            "id": "e0010",
             "name": "グレゴリオ",
             "img": "enemy/Gregorius.png",
             "icon": "enemy/gregorius_icon.png",
