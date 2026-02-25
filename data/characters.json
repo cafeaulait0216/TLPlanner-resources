@@ -11022,7 +11022,7 @@
                     "default": {
                         "skillname": "溢れるハート",
                         "cost": 2,
-                        "hittime": 0.0,
+                        "hittime": 0.1,
                         "effect": [
                             {
                                 "skill_attribute": "heal",
