@@ -16766,7 +16766,7 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "start"
+                                "skill_attribute": "select"
                             },
                             {
                                 "skill_attribute": "causeOfNS"
