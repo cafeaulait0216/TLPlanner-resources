@@ -652,6 +652,18 @@
                                     "skill_attribute": "start"
                                 }
                             ]
+                        },
+                        "skill_4": {
+                            "skillname": "隠されし者の視野",
+                            "hittime": 0,
+                            "effect": [
+                                {
+                                    "skill_attribute": "costHeal",
+                                    "skill_tage": "all",
+                                    "skilltime": 10,
+                                    "rate": 600
+                                }
+                            ]
                         }
                     }
                 }
