@@ -12407,7 +12407,7 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "baffUp",
                         "rate": [
                             1000,
                             1050,
