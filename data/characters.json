@@ -11133,6 +11133,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "HP",
+                                "skill_tage": "own",
                                 "rate": [
                                     13.4,
                                     14.1,
