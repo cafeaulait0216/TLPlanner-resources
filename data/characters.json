@@ -16794,6 +16794,7 @@
                             },
                             {
                                 "skill_attribute": "sp_weak",
+                                "skill_tage": "enemy",
                                 "skilltime": 28,
                                 "rate": [
                                     17.2,
