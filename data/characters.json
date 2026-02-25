@@ -11048,6 +11048,7 @@
                             },
                             {
                                 "skill_attribute": "fan_service",
+                                "skill_tage": "own",
                                 "rate": [
                                     3,
                                     3,
