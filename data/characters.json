@@ -13064,18 +13064,19 @@
                         "effect": [
                             {
                                 "skill_attribute": "cri_damage",
+                                "skill_tage": "own",
                                 "skilltime": 35,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    21.9,
+                                    23,
+                                    24.1,
+                                    28.4,
+                                    29.5,
+                                    30.6,
+                                    35,
+                                    36.1,
+                                    37.2,
+                                    41.6
                                 ]
                             }
                         ]
@@ -16735,75 +16736,76 @@
             "skill": {
                 "EX": {
                     "default": {
-                        "skillname": "",
-                        "cost": 0,
-                        "hittime": 0.0,
+                        "skillname": "屋外用の車椅子ですから",
+                        "cost": 3,
+                        "hittime": 2.267,
                         "effect": [
                             {
-                                "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "skill_attribute": "TS"
+                            },
+                            {
+                                "skill_attribute": "heal_continue",
+                                "skilltime": 30,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    4.6,
+                                    5.3,
+                                    6.7,
+                                    7.4,
+                                    8.8
                                 ]
                             },
                             {
-                                "skill_attribute": "",
-                                "skilltime": 0,
+                                "skill_attribute": "sp_atk",
+                                "skilltime": 40,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    56.5,
+                                    59.3,
+                                    62.1,
+                                    73.4,
+                                    76.3
                                 ]
                             },
                             {
-                                "skill_attribute": ""
+                                "skill_attribute": "causeOfNS"
                             }
                         ]
                     }
                 },
                 "NS": {
                     "default": {
-                        "skillname": "",
-                        "hittime": 0.0,
+                        "skillname": "私は全知で万能です",
+                        "hittime": 5.533,
                         "effect": [
                             {
-                                "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "skill_attribute": "cri_damage",
+                                "skilltime": 30,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    8,
+                                    8.4,
+                                    8.8,
+                                    10.3,
+                                    10.8,
+                                    11.2,
+                                    12.7,
+                                    13.1,
+                                    13.5,
+                                    15.1
                                 ]
                             },
                             {
-                                "skill_attribute": "",
-                                "skilltime": 0,
+                                "skill_attribute": "sp_weak",
+                                "skilltime": 28,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    17.2,
+                                    17.2,
+                                    17.2,
+                                    17.2,
+                                    17.2,
+                                    17.2,
+                                    17.6,
+                                    18,
+                                    19.8,
+                                    20.2
                                 ]
                             }
                         ]
@@ -16835,16 +16837,16 @@
                     {
                         "skill_attribute": "HP",
                         "rate": [
-                            2000,
-                            2100,
-                            2200,
-                            2600,
-                            2700,
-                            2800,
-                            3200,
-                            3300,
-                            3400,
-                            3800
+                            4525,
+                            4752,
+                            4978,
+                            5883,
+                            6109,
+                            6335,
+                            7240,
+                            7466,
+                            7693,
+                            8598
                         ]
                     }
                 ],
