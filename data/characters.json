@@ -313,7 +313,7 @@
                         "skillname": "グレネード、大盛りで！",
                         "cost": 4,
                         "hittime": 0.0,
-                        "skilltime": 2.567,
+                        "cooltime": 2.567,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -518,7 +518,7 @@
                         "skillname": "intulit mortem",
                         "cost": 5,
                         "hittime": 0.0,
-                        "skilltime": 3.7,
+                        "cooltime": 3.7,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
