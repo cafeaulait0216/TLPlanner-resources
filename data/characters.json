@@ -96,6 +96,7 @@
                         "skillname": "優雅に排除します",
                         "cost": 2,
                         "hittime": 1.367,
+                        "cooltime": 4.4,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -159,7 +160,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "atk",
+                        "skill_attribute": "move_speed_baff",
                         "rate": [
                             14,
                             14.7,
@@ -312,6 +313,7 @@
                         "skillname": "グレネード、大盛りで！",
                         "cost": 4,
                         "hittime": 0.0,
+                        "skilltime": 2.567,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -516,6 +518,7 @@
                         "skillname": "intulit mortem",
                         "cost": 5,
                         "hittime": 0.0,
+                        "skilltime": 3.7,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -749,6 +752,7 @@
                         "skillname": "spicea aqua",
                         "cost": 5,
                         "hittime": 2.467,
+                        "cooltime": 3.866,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -970,6 +974,7 @@
                         "skillname": "行っくよー！",
                         "cost": 2,
                         "hittime": 0.033,
+                        "cooltime": 2.7,
                         "effect": [
                             {
                                 "skill_attribute": "my_avoid",
@@ -1206,6 +1211,7 @@
                         "skillname": "ねぇねぇこれ見て！",
                         "cost": 5,
                         "hittime": 2.867,
+                        "cooltime": 2.933,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -1445,6 +1451,7 @@
                         "skillname": "これも私の力……？",
                         "cost": 4,
                         "hittime": 0.0,
+                        "cooltime": 3.266,
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
@@ -1659,6 +1666,7 @@
                         "skillname": "世界の法則が崩壊します！",
                         "cost": 6,
                         "hittime": 0.0,
+                        "cooltime": 4.066,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -1683,6 +1691,7 @@
                         "skillname": "世界の法則が崩壊します！",
                         "cost": 6,
                         "hittime": 0.0,
+                        "cooltime": 4.066,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -1707,6 +1716,7 @@
                         "skillname": "世界の法則が崩壊します！",
                         "cost": 6,
                         "hittime": 0.0,
+                        "cooltime": 4.066,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -2130,6 +2140,7 @@
                         "skillname": "ハードボイルドショット",
                         "cost": 4,
                         "hittime": 0.0,
+                        "cooltime": 4.467,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -2413,6 +2424,7 @@
                         "skillname": "ハードボイルド・羽根つきショット",
                         "cost": 6,
                         "hittime": 0.0,
+                        "cooltime": 4.467,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -2644,6 +2656,7 @@
                         "skillname": "一網打尽",
                         "cost": 3,
                         "hittime": 0.0,
+                        "cooltime": 7.4,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -2856,6 +2869,7 @@
                         "skillname": "疾風怒濤",
                         "cost": 4,
                         "hittime": 0.0,
+                        "cooltime": 3.4,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -3154,6 +3168,7 @@
                         "skillname": "これぞイズナ流忍法！",
                         "cost": 3,
                         "hittime": 4.333,
+                        "cooltime": 4.4,
                         "effect": [
                             {
                                 "skill_attribute": "atk_speed",
@@ -3361,6 +3376,7 @@
                         "skillname": "イズナ流忍法・夏バージョン",
                         "cost": 2,
                         "hittime": 1.533,
+                        "cooltime": 2.3,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -3598,6 +3614,7 @@
                         "skillname": "チーズチョコレートバーガー！",
                         "cost": 3,
                         "hittime": 2.067,
+                        "cooltime": 3.834,
                         "effect": [
                             {
                                 "skill_attribute": "heal",
@@ -3882,6 +3899,7 @@
                         "skillname": "つめた～いココナッツジュース！",
                         "cost": 4,
                         "hittime": 1.634,
+                        "cooltime": 1.734,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -4115,6 +4133,7 @@
                         "skillname": "古書の専門家",
                         "cost": 3,
                         "hittime": 2.567,
+                        "cooltime": 4.167,
                         "effect": [
                             {
                                 "skill_attribute": "cost",
@@ -4339,6 +4358,7 @@
                         "skillname": "不屈の意志",
                         "cost": 4,
                         "hittime": 0.0,
+                        "cooltime": 3.234,
                         "effect": [
                             {
                                 "skill_attribute": "heal_continue",
@@ -7461,6 +7481,7 @@
                         "skillname": "水上支援",
                         "cost": 5,
                         "hittime": 0.7,
+                        "cooltime": 2.434,
                         "effect": [
                             {
                                 "skill_attribute": "atk_field",
@@ -7732,6 +7753,7 @@
                         "skillname": "深紅の花占い",
                         "cost": 4,
                         "hittime": 4.167,
+                        "cooltime": 4.9,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -7978,6 +8000,7 @@
                         "skillname": "Kyrie Eleison",
                         "cost": 6,
                         "hittime": 0.0,
+                        "cooltime": 6,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -8246,6 +8269,7 @@
                         "skillname": "システム：アビ・エシュフ",
                         "cost": 2,
                         "hittime": 1.4,
+                        "cooltime": 3.433,
                         "effect": [
                             {
                                 "skill_attribute": "costChange",
@@ -8311,6 +8335,7 @@
                         "skillname": "システム：アビ・エシュフ",
                         "cost": 5,
                         "hittime": 0.0,
+                        "cooltime": 5.6,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -8836,6 +8861,7 @@
                         "skillname": "新年のお守り",
                         "cost": 2,
                         "hittime": 0.7,
+                        "cooltime": 3.533,
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
@@ -9067,6 +9093,7 @@
                         "skillname": "アリス、お掃除します！",
                         "cost": 4,
                         "hittime": 0.0,
+                        "cooltime": 3.967,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -9538,6 +9565,7 @@
                         "skillname": "たっぷりかけちゃいますね♡",
                         "cost": 2,
                         "hittime": 0.0,
+                        "cooltime": 3.9,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -9801,6 +9829,7 @@
                         "skillname": "祝砲の由来は……",
                         "cost": 3,
                         "hittime": 0.0,
+                        "cooltime": 6,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -10018,6 +10047,7 @@
                     "default": {
                         "skillname": "開演：イシュ・ボシェテ",
                         "cost": 6,
+                        "cooltime": 1.6,
                         "effect": [
                             {
                                 "skill_attribute": "costChange",
@@ -10044,6 +10074,7 @@
                         "skillname": "旋律の一音目",
                         "cost": 0,
                         "img": "skillIcon/hina_dress.png",
+                        "cooltime": 2.234,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -10078,6 +10109,7 @@
                         "skillname": "旋律の二音目",
                         "cost": 0,
                         "img": "skillIcon/hina_dress.png",
+                        "cooltime": 2.9,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -10112,6 +10144,7 @@
                         "skillname": "終演の旋律",
                         "cost": 0,
                         "img": "skillIcon/hina_dress.png",
+                        "cooltime": 5.2,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -10373,6 +10406,7 @@
                         "skillname": "興味深い提案",
                         "cost": 3,
                         "hittime": 1.4,
+                        "cooltime": 5.4,
                         "effect": [
                             {
                                 "skill_attribute": "cri_damage",
@@ -10577,6 +10611,7 @@
                         "skillname": "シャドウショット",
                         "cost": 5,
                         "hittime": 0.0,
+                        "cooltime": 4.434,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -10796,6 +10831,7 @@
                         "skillname": "狙うは1等賞!",
                         "cost": 4,
                         "hittime": 0.0,
+                        "cooltime": 6.4,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -11023,6 +11059,7 @@
                         "skillname": "溢れるハート",
                         "cost": 2,
                         "hittime": 0.1,
+                        "cooltime": 4.434,
                         "effect": [
                             {
                                 "skill_attribute": "heal",
@@ -11253,6 +11290,7 @@
                         "skillname": "消灯後はお静かに",
                         "cost": 5,
                         "hittime": 1.3,
+                        "cooltime": 2.733,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -11289,6 +11327,7 @@
                         "cost": 3,
                         "img": "skillIcon/noa_pajama.png",
                         "hittime": 0.0,
+                        "cooltime": 2.767,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -11507,6 +11546,7 @@
                         "skillname": "かかって来いよ",
                         "cost": 1,
                         "hittime": 0.067,
+                        "cooltime": 4.634,
                         "effect": [
                             {
                                 "skill_attribute": "costChange",
@@ -11542,6 +11582,7 @@
                         "cost": 4,
                         "img": "skillIcon/neru_uni.png",
                         "hittime": 0.0,
+                        "cooltime": 7.7,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -11861,6 +11902,7 @@
                         "skillname": "ブースターオン！",
                         "cost": 4,
                         "hittime": 0.0,
+                        "cooltime": 4.534,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -12119,6 +12161,7 @@
                         "skillname": "にゅ～きょ～の時間",
                         "cost": 2,
                         "hittime": 3.233,
+                        "cooltime": 5.4,
                         "effect": [
                             {
                                 "skill_attribute": "sp_atk",
@@ -12336,6 +12379,7 @@
                         "skillname": "浪漫きらめく浜辺",
                         "cost": 3,
                         "hittime": 0.767,
+                        "cooltime": 6.666,
                         "effect": [
                             {
                                 "skill_attribute": "ex_up",
@@ -13021,6 +13065,7 @@
                         "skillname": "電脳の力",
                         "cost": 4,
                         "hittime": 0.0,
+                        "cooltime": 5.566,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -13721,6 +13766,7 @@
                         "skillname": "ここにいる私",
                         "cost": 2,
                         "hittime": 0.0,
+                        "cooltime": 4.167,
                         "effect": [
                             {
                                 "skill_attribute": "atk_field",
@@ -13970,7 +14016,7 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "move_speed",
+                                "skill_attribute": "move_speed_debaff",
                                 "skilltime": 20,
                                 "rate": [
                                     22.8,
@@ -13989,7 +14035,7 @@
                         "skilltime": 2.7,
                         "effect": [
                             {
-                                "skill_attribute": "move_speed",
+                                "skill_attribute": "move_speed_debaff",
                                 "skilltime": 30,
                                 "rate": [
                                     18.4,
@@ -14589,6 +14635,7 @@
                         "skillname": "給食部のおせち",
                         "cost": 2,
                         "hittime": 2.067,
+                        "cooltime": 8.4,
                         "effect": [
                             {
                                 "skill_attribute": "cost",
@@ -14793,6 +14840,7 @@
                         "skillname": "大物だ",
                         "cost": 3,
                         "hittime": 1.7,
+                        "cooltime": 5,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -16068,6 +16116,7 @@
                         "skillname": "ビッグシスター",
                         "cost": 2,
                         "hittime": 3.867,
+                        "cooltime": 3.867,
                         "effect": [
                             {
                                 "skill_attribute": "atk",
@@ -16496,6 +16545,7 @@
                         "skillname": "Teatime in Wartime",
                         "cost": 3,
                         "hittime": 2.767,
+                        "cooltime": 7.4,
                         "effect": [
                             {
                                 "skill_attribute": "cri_damage",
@@ -16739,6 +16789,7 @@
                         "skillname": "屋外用の車椅子ですから",
                         "cost": 3,
                         "hittime": 2.267,
+                        "cooltime": 4.033,
                         "effect": [
                             {
                                 "skill_attribute": "TS"
