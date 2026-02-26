@@ -12589,6 +12589,7 @@
                         "skillname": "静かなる決意",
                         "cost": 4,
                         "hittime": 3.8,
+                        "cooltime": 3.833,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -12646,6 +12647,7 @@
                         "cost": 4,
                         "img": "skillIcon/mika_swim.png",
                         "hittime": 0.0,
+                        "cooltime": 1.9,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -12694,6 +12696,7 @@
                         "cost": 6,
                         "img": "skillIcon/mika_swim.png",
                         "hittime": 0.0,
+                        "cooltime": 1.9,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -12742,6 +12745,7 @@
                         "cost": 10,
                         "img": "skillIcon/mika_swim.png",
                         "hittime": 0.0,
+                        "cooltime": 1.9,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
