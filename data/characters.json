@@ -6369,8 +6369,7 @@
                     }
                 ],
                 "SS": {
-                    "default": {},
-                    "angry": {
+                    "default": {
                         "skillname": "激昂",
                         "hittime": 0.7,
                         "effect": [
@@ -6392,7 +6391,8 @@
                                 ]
                             }
                         ]
-                    }
+                    },
+                    "angry": {}
                 }
             }
         },
