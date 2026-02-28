@@ -11759,6 +11759,9 @@
                                     1,
                                     1
                                 ]
+                            },
+                            {
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
@@ -11894,6 +11897,7 @@
                         "effect": [
                             {
                                 "skill_attribute": "spirit",
+                                "duplicate": true,
                                 "rate": [
                                     0.35,
                                     0.35,
