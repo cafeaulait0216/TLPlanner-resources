@@ -66,6 +66,7 @@
                 "skillname": "",
                 "cost": 0,
                 "hittime": 0.0,
+                "cooltime": 0,
                 "effect": [
                     {
                         "skill_attribute": "damage",

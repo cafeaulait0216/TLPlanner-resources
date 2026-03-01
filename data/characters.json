@@ -1524,7 +1524,7 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "heal",
+                        "skill_attribute": "healUp",
                         "rate": [
                             606,
                             637,
@@ -7758,6 +7758,272 @@
             }
         },
         {
+            "id": "st0060",
+            "name": "ミチル",
+            "img": "standing/ミチル.png",
+            "icon": "face/ミチル.png",
+            "atk_attribute": "神秘",
+            "def_attribute": "軽装甲",
+            "status": {
+                "atk": 337.6,
+                "heal": 1664,
+                "hit": 607,
+                "avoid": 197,
+                "cri": 202,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1976,
+                "urban": "B",
+                "outdoor": "B",
+                "indoor": "B"
+            },
+            "goods": {
+                "img": "goods/michiru.png",
+                "name": "大事なビデオテープ",
+                "key": "sp_atk",
+                "value": 2000
+            },
+            "dps": {
+                "hit": 4,
+                "hits": 2,
+                "delay": 55,
+                "reload": 60,
+                "beforeTime": 112
+            },
+            "limit": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                6,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "weapon": [
+                {
+                    "wep1": "hat",
+                    "wep2": "hairpin",
+                    "wep3": "watch",
+                    "unique_wep": [
+                        {
+                            "atk": 353,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        3,
+                        4,
+                        6,
+                        7,
+                        2,
+                        3,
+                        5
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "class": "ミチル",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "ミチル流忍法っ！！",
+                        "cost": 5,
+                        "hittime": 1.433,
+                        "cooltime": 3.733,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    1.433
+                                ],
+                                "rate": [
+                                    501,
+                                    577,
+                                    652,
+                                    727,
+                                    803
+                                ]
+                            },
+                            {
+                                "skill_attribute": "burn",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    1.433,
+                                    5.433,
+                                    9.433,
+                                    13.433,
+                                    17.433
+                                ],
+                                "rate": [
+                                    149,
+                                    149,
+                                    172,
+                                    172,
+                                    194
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "捌け、地獄忍魔刀！",
+                        "hittime": 1.5,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk",
+                                "skill_tage": "own",
+                                "skilltime": 20,
+                                "rate": [
+                                    21.4,
+                                    22.4,
+                                    23.5,
+                                    27.8,
+                                    28.8,
+                                    29.9,
+                                    34.2,
+                                    35.3,
+                                    36.3,
+                                    40.6
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": "捌け、地獄忍魔刀！+",
+                        "hittime": 1.5,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk",
+                                "skill_tage": "own",
+                                "skilltime": 20,
+                                "rate": [
+                                    23.7,
+                                    24.9,
+                                    26.1,
+                                    30.9,
+                                    32.1,
+                                    33.3,
+                                    38,
+                                    39.2,
+                                    40.4,
+                                    45.2
+                                ]
+                            },
+                            {
+                                "skill_attribute": "atk",
+                                "skilltime": 20,
+                                "rate": [
+                                    10.8,
+                                    11.4,
+                                    11.9,
+                                    14.0,
+                                    14.5,
+                                    15.1,
+                                    17.3,
+                                    17.8,
+                                    18.3,
+                                    20.4
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "cri_damage",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            332,
+                            348,
+                            365,
+                            438,
+                            441,
+                            464,
+                            530,
+                            547,
+                            564,
+                            630
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "ミチル流忍術、奥義！",
+                        "effect": [
+                            {
+                                "skill_attribute": "cri_damage",
+                                "rate": [
+                                    8.4,
+                                    8.8,
+                                    9.2,
+                                    10.9,
+                                    11.3,
+                                    11.7,
+                                    13.4,
+                                    13.8,
+                                    14.2,
+                                    15.9
+                                ]
+                            },
+                            {
+                                "skill_attribute": "start"
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
             "id": "st0070",
             "name": "ワカモ",
             "img": "standing/狐面ワカモ.png",
@@ -10849,6 +11115,218 @@
             }
         },
         {
+            "id": "st0129",
+            "name": "カンナ（水着）",
+            "img": "standing/カンナ（水着）.png",
+            "icon": "face/.png",
+            "atk_attribute": "爆発",
+            "def_attribute": "軽装甲",
+            "status": {
+                "atk": 182,
+                "heal": 1797.4,
+                "hit": 109,
+                "avoid": 998,
+                "cri": 218,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 904,
+                "urban": "D",
+                "outdoor": "S",
+                "indoor": "B"
+            },
+            "dps": {
+                "hit": 5,
+                "hits": 1,
+                "delay": 65,
+                "reload": 60,
+                "beforeTime": 124
+            },
+            "limit": [
+                3,
+                2,
+                3,
+                3,
+                3,
+                2,
+                3,
+                3,
+                2,
+                3,
+                3,
+                3,
+                2,
+                3,
+                3,
+                2,
+                3,
+                3,
+                3,
+                2,
+                3,
+                3,
+                2,
+                3,
+                3
+            ],
+            "weapon": [
+                {
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "talisman",
+                    "unique_wep": [
+                        {
+                            "atk": 239,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        1,
+                        2,
+                        3,
+                        3,
+                        1,
+                        1,
+                        2
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "class": "カンナ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "水上安全、確保！",
+                        "cost": 2,
+                        "hittime": 0.0,
+                        "cooltime": 3.567,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": 0,
+                                "rate": [
+                                    488,
+                                    561,
+                                    707,
+                                    781,
+                                    927
+                                ]
+                            },
+                            {
+                                "skill_attribute": "def",
+                                "skilltime": 20,
+                                "rate": [
+                                    25.1,
+                                    28.9,
+                                    36.4,
+                                    40.2,
+                                    47.8
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "入念な準備運動",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage_up_baff",
+                                "skill_tage": "own",
+                                "skilltime": 30,
+                                "rate": [
+                                    10.3,
+                                    10.8,
+                                    11.3,
+                                    13.4,
+                                    13.9,
+                                    14.4,
+                                    16.5,
+                                    17,
+                                    17.5,
+                                    19.6
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "HP",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "baffUp",
+                        "rate": [
+                            1000,
+                            1050,
+                            1100,
+                            1300,
+                            1350,
+                            1400,
+                            1600,
+                            1650,
+                            1700,
+                            1900
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "ぎこちない笑顔",
+                        "effect": [
+                            {
+                                "skill_attribute": "atk",
+                                "rate": [
+                                    16.1,
+                                    16.9,
+                                    17.7,
+                                    20.9,
+                                    21.7,
+                                    22.5,
+                                    25.7,
+                                    26.5,
+                                    27.3,
+                                    30.6
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
             "id": "st0135",
             "name": "ヒヨリ（水着）",
             "img": "standing/ヒヨリ（水着）.png",
@@ -11247,7 +11725,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "heal",
+                        "skill_attribute": "healUp",
                         "rate": [
                             14,
                             14.7,
@@ -11264,7 +11742,7 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "heal",
+                        "skill_attribute": "healUp",
                         "rate": [
                             921,
                             967,
@@ -12551,7 +13029,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "heal",
+                        "skill_attribute": "healUp",
                         "rate": [
                             14,
                             14.7,
@@ -14388,7 +14866,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "heal",
+                        "skill_attribute": "healUp",
                         "rate": [
                             14,
                             14.7,
@@ -14405,7 +14883,7 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "heal",
+                        "skill_attribute": "healUp",
                         "rate": [
                             680,
                             714,
@@ -14816,7 +15294,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "heal",
+                        "skill_attribute": "healUp",
                         "rate": [
                             14,
                             14.7,
@@ -14833,7 +15311,7 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "heal",
+                        "skill_attribute": "healUp",
                         "rate": [
                             697,
                             732,
@@ -14865,6 +15343,235 @@
                                     15,
                                     15.5,
                                     17.32
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "sp0042",
+            "name": "カンナ",
+            "img": "standing/カンナ.png",
+            "icon": "face/カンナ.png",
+            "atk_attribute": "貫通",
+            "def_attribute": "重装甲",
+            "status": {
+                "atk": 252.8,
+                "heal": 2000,
+                "hit": 792,
+                "avoid": 1036,
+                "cri": 211,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1081,
+                "urban": "S",
+                "outdoor": "D",
+                "indoor": "B"
+            },
+            "limit": [
+                4,
+                4,
+                3,
+                4,
+                4,
+                3,
+                4,
+                4,
+                4,
+                4,
+                3,
+                4,
+                4,
+                4,
+                4,
+                3,
+                4,
+                4,
+                4,
+                4,
+                3,
+                4,
+                4,
+                3,
+                4
+            ],
+            "weapon": [
+                {
+                    "wep1": "glove",
+                    "wep2": "badge",
+                    "wep3": "watch",
+                    "unique_wep": [
+                        {
+                            "atk": 331,
+                            "heal": 728
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        1,
+                        2,
+                        3
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "class": "カンナ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "公安局長の手腕",
+                        "cost": 3,
+                        "hittime": 3.234,
+                        "cooltime": 5.467,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    3.234
+                                ],
+                                "rate": [
+                                    52.9,
+                                    60.9,
+                                    68.8,
+                                    76.7,
+                                    84.7
+                                ]
+                            },
+                            {
+                                "skill_attribute": "acc_damage",
+                                "skill_pattern": "one",
+                                "skilltime": 15,
+                                "hitAmount": [
+                                    18.267
+                                ],
+                                "rate": [
+                                    2070,
+                                    2070,
+                                    2380,
+                                    2380,
+                                    2691
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "苛烈な尋問",
+                        "hittime": 2.033,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    2.033
+                                ],
+                                "rate": [
+                                    197,
+                                    207,
+                                    217,
+                                    257,
+                                    266,
+                                    276,
+                                    316,
+                                    326,
+                                    336,
+                                    375
+                                ]
+                            },
+                            {
+                                "skill_attribute": "def",
+                                "skilltime": 20,
+                                "rate": [
+                                    7.6,
+                                    7.9,
+                                    8.3,
+                                    9.8,
+                                    10.2,
+                                    10.6,
+                                    12.1,
+                                    12.5,
+                                    12.9,
+                                    14.4
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            249,
+                            261,
+                            274,
+                            323,
+                            336,
+                            348,
+                            398,
+                            410,
+                            423,
+                            472
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "atk",
+                        "effect": [
+                            {
+                                "skill_attribute": "公安局特製弾",
+                                "rate": [
+                                    12.7,
+                                    13.4,
+                                    14,
+                                    16.5,
+                                    17.2,
+                                    17.8,
+                                    20.4,
+                                    21,
+                                    21.7,
+                                    24.2
                                 ]
                             }
                         ]
@@ -15040,7 +15747,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "heal",
+                        "skill_attribute": "healUp",
                         "rate": [
                             14,
                             14.7,
@@ -15242,7 +15949,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "heal",
+                        "skill_attribute": "healUp",
                         "rate": [
                             14,
                             14.7,
@@ -15628,7 +16335,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "heal",
+                        "skill_attribute": "healUp",
                         "rate": [
                             14,
                             14.7,
@@ -16528,7 +17235,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "heal",
+                        "skill_attribute": "healUp",
                         "rate": [
                             14,
                             14.7,
@@ -16545,7 +17252,7 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "heal",
+                        "skill_attribute": "healUp",
                         "rate": [
                             710,
                             746,
@@ -16821,6 +17528,218 @@
                                     15,
                                     15.5,
                                     17.32
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "sp0079",
+            "name": "ミチル（ドレス）",
+            "img": "standing/ミチル（ドレス）.png",
+            "icon": "face/ミチル（ドレス）.png",
+            "atk_attribute": "爆発",
+            "def_attribute": "軽装甲",
+            "status": {
+                "atk": 298.2,
+                "heal": 3809,
+                "hit": 530,
+                "avoid": 187,
+                "cri": 265,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 2157,
+                "urban": "D",
+                "outdoor": "B",
+                "indoor": "S"
+            },
+            "limit": [
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                4,
+                4,
+                4,
+                5,
+                4,
+                5,
+                4,
+                5,
+                4
+            ],
+            "weapon": [
+                {
+                    "wep1": "shoes",
+                    "wep2": "hairpin",
+                    "wep3": "neckless",
+                    "unique_wep": [
+                        {
+                            "atk": 390,
+                            "heal": 1094
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        8,
+                        10,
+                        2,
+                        2,
+                        4
+                    ]
+                }
+            ],
+            "class": "ミチル",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "少女忍法帖、ミチうにゃああっ！",
+                        "cost": 2,
+                        "hittime": 0.0,
+                        "cooltime": 4.633,
+                        "effect": [
+                            {
+                                "skill_attribute": "heal",
+                                "hitAmount": [
+                                    2.067
+                                ],
+                                "rate": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "秘儀を伝授しよう！",
+                        "hittime": 2.033,
+                        "effect": [
+                            {
+                                "skill_attribute": "start"
+                            },
+                            {
+                                "skill_attribute": "atk",
+                                "skilltime": 60,
+                                "rate": [
+                                    11.3,
+                                    11.9,
+                                    12.4,
+                                    14.7,
+                                    15.3,
+                                    15.8,
+                                    18.1,
+                                    18.7,
+                                    19.2,
+                                    21.5
+                                ]
+                            },
+                            {
+                                "skill_attribute": "cost",
+                                "rate": [
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "healUp",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "healUp",
+                        "rate": [
+                            1024,
+                            1076,
+                            1127,
+                            1332,
+                            1383,
+                            1434,
+                            1639,
+                            1690,
+                            1741,
+                            1946
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "アンダーカバー流奥儀！",
+                        "effect": [
+                            {
+                                "skill_attribute": "costHeal",
+                                "rate": [
+                                    10.6,
+                                    11.2,
+                                    11.7,
+                                    13.8,
+                                    14.4,
+                                    14.9,
+                                    17,
+                                    17.6,
+                                    18.1,
+                                    20.2
                                 ]
                             }
                         ]
