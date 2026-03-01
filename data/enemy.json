@@ -2751,7 +2751,7 @@
             "id": "e0105",
             "name": "クロ",
             "icon": "enemy/kuro.png",
-            "atk_attribute": "神秘",
+            "atk_attribute": "貫通",
             "size": "big",
             "class": "ShiroKuro",
             "difficulty": {
