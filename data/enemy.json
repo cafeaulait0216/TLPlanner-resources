@@ -1442,7 +1442,7 @@
                             "effect": [
                                 {
                                     "skill_attribute": "penetrate",
-                                    "skill_pattern": "own",
+                                    "skill_tage": "own",
                                     "rate": 750
                                 },
                                 {
