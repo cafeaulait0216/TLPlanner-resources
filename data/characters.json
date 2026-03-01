@@ -11668,7 +11668,7 @@
                             },
                             {
                                 "skill_attribute": "vs",
-                                "skill_tage": "own",
+                                "skill_tage": "eachOther",
                                 "skilltime": 70,
                                 "rate": [
                                     0.2,
