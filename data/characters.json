@@ -11209,13 +11209,15 @@
                     "default": {
                         "skillname": "水上安全、確保！",
                         "cost": 2,
-                        "hittime": 0.0,
+                        "hittime": 0.866,
                         "cooltime": 3.567,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "hitAmount": [
+                                    0.866
+                                ],
                                 "rate": [
                                     488,
                                     561,
@@ -11241,7 +11243,7 @@
                 "NS": {
                     "default": {
                         "skillname": "入念な準備運動",
-                        "hittime": 0.0,
+                        "hittime": 3.0,
                         "effect": [
                             {
                                 "skill_attribute": "damage_up_baff",
