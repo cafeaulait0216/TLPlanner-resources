@@ -8133,7 +8133,14 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "HP_rate"
+                                "skill_attribute": "HP_rate",
+                                "rate": [
+                                    2,
+                                    2,
+                                    2,
+                                    2,
+                                    2
+                                ]
                             }
                         ]
                     }
@@ -16043,7 +16050,14 @@
                                 ]
                             },
                             {
-                                "skill_attribute": "HP_rate"
+                                "skill_attribute": "HP_rate",
+                                "rate": [
+                                    3,
+                                    3,
+                                    3,
+                                    3,
+                                    3
+                                ]
                             }
                         ]
                     }
