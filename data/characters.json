@@ -11118,7 +11118,7 @@
             "id": "st0129",
             "name": "カンナ（水着）",
             "img": "standing/カンナ（水着）.png",
-            "icon": "face/.png",
+            "icon": "face/カンナ（水着）.png",
             "atk_attribute": "爆発",
             "def_attribute": "軽装甲",
             "status": {
