@@ -2064,6 +2064,12 @@
                 "outdoor": "B",
                 "indoor": "D"
             },
+            "goods": {
+                "img": "goods/aru.png",
+                "name": "アルのすごく貴重な財布",
+                "key": "hit",
+                "value": 150
+            },
             "dps": {
                 "hit": 5,
                 "hits": 1,
@@ -11687,9 +11693,6 @@
                                     3,
                                     3
                                 ]
-                            },
-                            {
-                                "skill_attribute": "select"
                             }
                         ]
                     }
@@ -13567,6 +13570,236 @@
                     "星の軌跡-4": {},
                     "星の軌跡-6": {},
                     "星の軌跡-10": {}
+                }
+            }
+        },
+        {
+            "id": "st0164",
+            "name": "フユ",
+            "img": "standing/フユ.png",
+            "icon": "face/フユ.png",
+            "atk_attribute": "振動",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 345.9,
+                "heal": 1423.5,
+                "hit": 108,
+                "avoid": 1010,
+                "cri": 216,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 916,
+                "urban": "S",
+                "outdoor": "D",
+                "indoor": "B"
+            },
+            "dps": {
+                "hit": 20,
+                "hits": 4,
+                "delay": 68,
+                "reload": 77,
+                "beforeTime": 144
+            },
+            "limit": [
+                6,
+                5,
+                5,
+                6,
+                5,
+                5,
+                7,
+                5,
+                6,
+                5,
+                5,
+                6,
+                5,
+                5,
+                6,
+                5,
+                5,
+                6,
+                5,
+                5,
+                7,
+                5,
+                5,
+                6,
+                5
+            ],
+            "weapon": [
+                {
+                    "wep1": "glove",
+                    "wep2": "badge",
+                    "wep3": "neckless",
+                    "unique_wep": [
+                        {
+                            "atk": 358,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        2,
+                        3,
+                        4,
+                        6,
+                        2,
+                        2,
+                        4
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "class": "フユ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "弾丸のお届け",
+                        "cost": 2,
+                        "hittime": 1.834,
+                        "cooltime": 6.234,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    1.834,
+                                    1.933,
+                                    2.033,
+                                    2.133,
+                                    2.233,
+                                    2.333,
+                                    2.433,
+                                    2.533,
+                                    2.633,
+                                    2.733,
+                                    2.833,
+                                    2.933,
+                                    3.033,
+                                    3.133,
+                                    3.233,
+                                    3.333,
+                                    3.367
+                                ],
+                                "rate": [
+                                    158,
+                                    182,
+                                    230,
+                                    253,
+                                    301
+                                ]
+                            },
+                            {
+                                "skill_attribute": "def",
+                                "skilltime": 22,
+                                "rate": [
+                                    24.8,
+                                    28.5,
+                                    36,
+                                    39.7,
+                                    47.2
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "お届け完了です！",
+                        "hittime": 0.867,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk_speed",
+                                "skilltime": 34,
+                                "rate": [
+                                    10.5,
+                                    11.1,
+                                    11.6,
+                                    13.7,
+                                    14.2,
+                                    14.8,
+                                    16.9,
+                                    17.4,
+                                    17.9,
+                                    20
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "debaffUp",
+                        "rate": [
+                            1000,
+                            1050,
+                            1100,
+                            1300,
+                            1350,
+                            1400,
+                            1600,
+                            1650,
+                            1700,
+                            1900
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "交渉決裂",
+                        "effect": [
+                            {
+                                "skill_attribute": "add_damage",
+                                "hitAmount": 1,
+                                "rate": [
+                                    6.3,
+                                    6.6,
+                                    6.9,
+                                    8.1,
+                                    8.5,
+                                    8.8,
+                                    10,
+                                    10.4,
+                                    10.7,
+                                    11.9
+                                ]
+                            }
+                        ]
+                    }
                 }
             }
         },
