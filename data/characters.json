@@ -10124,6 +10124,7 @@
                     "default": {
                         "skillname": "あぁ？ぶっ殺されてぇか？",
                         "cost": 2,
+                        "cooltime": 5,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -10204,6 +10205,7 @@
                     "angry": {
                         "skillname": "あぁ？ぶっ殺されてぇか？[怒り状態]",
                         "cost": 2,
+                        "cooltime": 5,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -10637,6 +10639,7 @@
                     "default": {
                         "skillname": "そこ、動くなっ！",
                         "cost": 4,
+                        "cooltime": 5.266,
                         "hittime": 0.0,
                         "effect": [
                             {
@@ -10894,6 +10897,7 @@
                         "skillname": "終幕：イシュ・ボシェテ",
                         "cost": 7,
                         "hittime": 0.0,
+                        "cooltime": 5.733,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -11131,6 +11135,7 @@
                         "skillname": "絶海：イシュ・ボシェテ",
                         "cost": 3,
                         "hittime": 0.0,
+                        "cooltime": 5.733,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -11394,6 +11399,7 @@
                         "skillname": "最終手段",
                         "cost": 6,
                         "hittime": 2.234,
+                        "cooltime": 6.067,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -13782,6 +13788,7 @@
                         "skillname": "そんな事ないんだから！",
                         "cost": 3,
                         "hittime": 0.0,
+                        "cooltime": 4.834,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -18156,6 +18163,7 @@
                         "skillname": "覚醒：スーパーノヴァ",
                         "cost": 4,
                         "hittime": 0.0,
+                        "cooltime": 4.066,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -18233,6 +18241,7 @@
                         "cost": 4,
                         "img": "skillIcon/alice_battle_1.png",
                         "hittime": 0.0,
+                        "cooltime": 4.066,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
@@ -18314,6 +18323,7 @@
                         "cost": 4,
                         "img": "skillIcon/alice_battle_2.png",
                         "hittime": 0.0,
+                        "cooltime": 4.066,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
