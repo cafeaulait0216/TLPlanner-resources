@@ -7588,76 +7588,62 @@
             "skill": {
                 "EX": {
                     "default": {
-                        "skillname": "",
-                        "cost": 0,
-                        "hittime": 0.0,
-                        "cooltime": 0,
+                        "skillname": "邪魔よ！",
+                        "cost": 2,
+                        "hittime": 1.567,
+                        "cooltime": 3.6,
                         "effect": [
                             {
-                                "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "skill_attribute": "atk",
+                                "skilltime": 30,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    35.6,
+                                    41,
+                                    51.6,
+                                    57,
+                                    67.7
                                 ]
                             },
                             {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
-                            },
-                            {
-                                "skill_attribute": ""
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
                 },
                 "NS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "狙い撃ち",
                         "hittime": 0.0,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
+                                "skill_tage": "own",
                                 "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "hitAmount": [
+                                    0.700,
+                                    0.833,
+                                    0.967,
+                                    1.100,
+                                    1.233,
+                                    1.367,
+                                    1.500,
+                                    1.633,
+                                    1.767,
+                                    1.867,
+                                    1.967,
+                                    2.034
+                                ],
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
-                            },
-                            {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    223,
+                                    235,
+                                    246,
+                                    291,
+                                    302,
+                                    313,
+                                    358,
+                                    369,
+                                    380,
+                                    425
                                 ]
                             }
                         ]
@@ -7665,12 +7651,45 @@
                 },
                 "NS+": {
                     "default": {
-                        "skillname": ""
+                        "skillname": "狙い撃ち+",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    0.700,
+                                    0.833,
+                                    0.967,
+                                    1.100,
+                                    1.233,
+                                    1.367,
+                                    1.500,
+                                    1.633,
+                                    1.767,
+                                    1.867,
+                                    1.967,
+                                    2.034
+                                ],
+                                "rate": [
+                                    335,
+                                    352,
+                                    369,
+                                    436,
+                                    453,
+                                    470,
+                                    537,
+                                    554,
+                                    571,
+                                    638
+                                ]
+                            }
+                        ]
                     }
                 },
                 "PS": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "atk",
                         "rate": [
                             14,
                             14.7,
@@ -7687,39 +7706,40 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "atk",
                         "rate": [
-                            2000,
-                            2100,
-                            2200,
-                            2600,
-                            2700,
-                            2800,
-                            3200,
-                            3300,
-                            3400,
-                            3800
+                            339,
+                            356,
+                            373,
+                            440,
+                            457,
+                            474,
+                            542,
+                            559,
+                            643,
+                            643
                         ]
                     }
                 ],
                 "SS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "対策委員会の怒り",
                         "effect": [
                             {
-                                "skill_attribute": "",
-                                "skilltime": 13,
+                                "skill_attribute": "atk_speed",
+                                "skill_tage": "own",
+                                "skilltime": 30,
                                 "rate": [
-                                    9.1,
-                                    9.5,
-                                    10,
-                                    11.8,
-                                    12.3,
-                                    12.7,
-                                    14.5,
-                                    15,
-                                    15.5,
-                                    17.32
+                                    20.1,
+                                    21.1,
+                                    22.1,
+                                    26.2,
+                                    27.2,
+                                    28.2,
+                                    32.2,
+                                    33.2,
+                                    34.2,
+                                    38.3
                                 ]
                             }
                         ]
@@ -7820,77 +7840,54 @@
             "skill": {
                 "EX": {
                     "default": {
-                        "skillname": "",
-                        "cost": 0,
+                        "skillname": "親衛隊、集合！",
+                        "cost": 5,
                         "hittime": 0.0,
-                        "cooltime": 0,
+                        "cooltime": 5.867,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "skill_pattern": "many",
+                                "hitAmount": [
+                                    2.633,
+                                    3.3,
+                                    3.966,
+                                    4.633
+                                ],
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    515,
+                                    541,
+                                    563,
+                                    588,
+                                    605
                                 ]
-                            },
-                            {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
-                            },
-                            {
-                                "skill_attribute": ""
                             }
                         ]
                     }
                 },
                 "NS": {
                     "default": {
-                        "skillname": "",
-                        "hittime": 0.0,
+                        "skillname": "あいつを粛清しろ！",
+                        "hittime": 1.0,
                         "effect": [
                             {
-                                "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "skill_attribute": "cri_damage_regist",
+                                "skilltime": 15,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    18.7,
+                                    19.6,
+                                    20.6,
+                                    24.3,
+                                    25.3,
+                                    26.2,
+                                    29.9,
+                                    30.9,
+                                    31.8,
+                                    35.6
                                 ]
                             },
                             {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
+                                "skill_attribute": "rock_on"
                             }
                         ]
                     }
@@ -7902,7 +7899,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "atk",
                         "rate": [
                             14,
                             14.7,
@@ -7919,40 +7916,43 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "atk",
                         "rate": [
-                            2000,
-                            2100,
-                            2200,
-                            2600,
-                            2700,
-                            2800,
-                            3200,
-                            3300,
-                            3400,
-                            3800
+                            207,
+                            217,
+                            228,
+                            269,
+                            279,
+                            289,
+                            331,
+                            341,
+                            393,
+                            393
                         ]
                     }
                 ],
                 "SS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "髭の権威にひれ伏せ！",
                         "effect": [
                             {
-                                "skill_attribute": "",
-                                "skilltime": 13,
+                                "skill_attribute": "costHeal",
+                                "skill_tage": "own",
                                 "rate": [
-                                    9.1,
-                                    9.5,
-                                    10,
-                                    11.8,
-                                    12.3,
-                                    12.7,
-                                    14.5,
-                                    15,
-                                    15.5,
-                                    17.32
+                                    269,
+                                    283,
+                                    296,
+                                    350,
+                                    363,
+                                    377,
+                                    431,
+                                    444,
+                                    457,
+                                    511
                                 ]
+                            },
+                            {
+                                "skill_attribute": "start"
                             }
                         ]
                     }
@@ -8058,76 +8058,60 @@
             "skill": {
                 "EX": {
                     "default": {
-                        "skillname": "",
-                        "cost": 0,
+                        "skillname": "これは痛いかもよ～",
+                        "cost": 4,
                         "hittime": 0.0,
-                        "cooltime": 0,
+                        "cooltime": 2.5,
                         "effect": [
                             {
-                                "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "skill_attribute": "remain",
+                                "skill_pattern": "many",
+                                "hitAmount": [
+                                    2.2,
+                                    3.2,
+                                    4.2,
+                                    5.2,
+                                    6.2,
+                                    7.2,
+                                    8.2,
+                                    9.2,
+                                    10.2,
+                                    11.2,
+                                    12.2
+                                ],
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    56,
+                                    64.5,
+                                    81.2,
+                                    89.6,
+                                    106
                                 ]
-                            },
-                            {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
-                            },
-                            {
-                                "skill_attribute": ""
                             }
                         ]
                     }
                 },
                 "NS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "撃つよ～",
                         "hittime": 0.0,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "skill_pattern": "many",
+                                "hitAmount": [
+                                    3.234
+                                ],
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
-                            },
-                            {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    219,
+                                    230,
+                                    241,
+                                    285,
+                                    295,
+                                    306,
+                                    350,
+                                    361,
+                                    372,
+                                    416
                                 ]
                             }
                         ]
@@ -8135,12 +8119,34 @@
                 },
                 "NS+": {
                     "default": {
-                        "skillname": ""
+                        "skillname": "撃つよ～+",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "hitAmount": [
+                                    3.234
+                                ],
+                                "rate": [
+                                    298,
+                                    313,
+                                    328,
+                                    388,
+                                    403,
+                                    418,
+                                    478,
+                                    493,
+                                    508,
+                                    567
+                                ]
+                            }
+                        ]
                     }
                 },
                 "PS": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "atk",
                         "rate": [
                             14,
                             14.7,
@@ -8157,39 +8163,46 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "atk",
                         "rate": [
-                            2000,
-                            2100,
-                            2200,
-                            2600,
-                            2700,
-                            2800,
-                            3200,
-                            3300,
-                            3400,
-                            3800
+                            267,
+                            280,
+                            294,
+                            347,
+                            360,
+                            373,
+                            427,
+                            440,
+                            507,
+                            507
                         ]
                     }
                 ],
                 "SS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "ちょっと痛むよ～",
                         "effect": [
                             {
-                                "skill_attribute": "",
-                                "skilltime": 13,
+                                "skill_attribute": "burn",
+                                "hitAmount": [
+                                    0,
+                                    4,
+                                    8,
+                                    12,
+                                    16,
+                                    20
+                                ],
                                 "rate": [
-                                    9.1,
-                                    9.5,
-                                    10,
-                                    11.8,
-                                    12.3,
-                                    12.7,
-                                    14.5,
-                                    15,
-                                    15.5,
-                                    17.32
+                                    30,
+                                    31.5,
+                                    33,
+                                    39,
+                                    40.5,
+                                    42,
+                                    48,
+                                    49.5,
+                                    51,
+                                    57
                                 ]
                             }
                         ]
@@ -8296,89 +8309,148 @@
             "skill": {
                 "EX": {
                     "default": {
-                        "skillname": "",
-                        "cost": 0,
-                        "hittime": 0.0,
-                        "cooltime": 0,
+                        "skillname": "夏の海辺、ふぃ～ば～",
+                        "cost": 6,
+                        "hittime": 3.1,
+                        "cooltime": 5.034,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "hitAmount": [
+                                    3.1,
+                                    4.434,
+                                    4.767
+                                ],
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    232,
+                                    267,
+                                    302,
+                                    337,
+                                    372
                                 ]
                             },
                             {
-                                "skill_attribute": "",
-                                "skilltime": 0,
+                                "skill_attribute": "damage",
+                                "hitAmount": [
+                                    3.1,
+                                    4.434,
+                                    4.767
+                                ],
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    465,
+                                    535,
+                                    604,
+                                    674,
+                                    744
                                 ]
                             },
                             {
-                                "skill_attribute": ""
+                                "skill_attribute": "knockOut",
+                                "skilltime": 2.7,
+                                "rate": [
+                                    2.1,
+                                    2.1,
+                                    2.4,
+                                    2.4,
+                                    2.7
+                                ]
+                            },
+                            {
+                                "skill_attribute": "knockOut",
+                                "skilltime": 5.3,
+                                "rate": [
+                                    4.1,
+                                    4.1,
+                                    4.7,
+                                    4.7,
+                                    5.3
+                                ]
                             }
                         ]
                     }
                 },
                 "NS": {
                     "default": {
-                        "skillname": "",
-                        "hittime": 0.0,
+                        "skillname": "びーちぼーる、しゅ～と～",
+                        "hittime": 2.067,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "hitAmount": [
+                                    2.067
+                                ],
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    282,
+                                    296,
+                                    310,
+                                    339,
+                                    353,
+                                    367,
+                                    395,
+                                    409,
+                                    423,
+                                    451
                                 ]
                             },
                             {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
+                                "skill_attribute": "knockOut",
+                                "skilltime": 3.1
                             }
                         ]
                     }
                 },
                 "NS+": {
                     "default": {
-                        "skillname": ""
+                        "skillname": "びーちぼーる、しゅ～と～+",
+                        "hittime": 2.067,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    2.067
+                                ],
+                                "rate": [
+                                    406,
+                                    427,
+                                    447,
+                                    488,
+                                    508,
+                                    528,
+                                    569,
+                                    589,
+                                    610,
+                                    650
+                                ]
+                            },
+                            {
+                                "skill_attribute": "atk",
+                                "skill_tage": "own",
+                                "rate": [
+                                    23.4,
+                                    23.4,
+                                    23.4,
+                                    25.8,
+                                    25.8,
+                                    25.8,
+                                    28.1,
+                                    28.1,
+                                    28.1,
+                                    30.5
+                                ]
+                            },
+                            {
+                                "skill_attribute": "knockOut",
+                                "skilltime": 3.1
+                            }
+                        ]
                     }
                 },
                 "PS": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "atk",
                         "rate": [
                             14,
                             14.7,
@@ -8395,39 +8467,47 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "atk",
                         "rate": [
-                            2000,
-                            2100,
-                            2200,
-                            2600,
-                            2700,
-                            2800,
-                            3200,
-                            3300,
-                            3400,
-                            3800
+                            272,
+                            285,
+                            299,
+                            353,
+                            367,
+                            380,
+                            434,
+                            448,
+                            516,
+                            516
                         ]
                     }
                 ],
                 "SS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "ブルブル～寒いかも～？",
                         "effect": [
                             {
-                                "skill_attribute": "",
-                                "skilltime": 13,
+                                "skill_attribute": "cold",
+                                "hitAmount": [
+                                    0,
+                                    4,
+                                    8,
+                                    12,
+                                    16,
+                                    20
+                                ],
+                                "skilltime": 20,
                                 "rate": [
-                                    9.1,
-                                    9.5,
-                                    10,
-                                    11.8,
-                                    12.3,
-                                    12.7,
-                                    14.5,
-                                    15,
-                                    15.5,
-                                    17.32
+                                    30,
+                                    31.5,
+                                    33,
+                                    39,
+                                    40.5,
+                                    42,
+                                    48,
+                                    49.5,
+                                    51,
+                                    57
                                 ]
                             }
                         ]
@@ -8528,76 +8608,47 @@
             "skill": {
                 "EX": {
                     "default": {
-                        "skillname": "",
-                        "cost": 0,
-                        "hittime": 0.0,
-                        "cooltime": 0,
+                        "skillname": "戦闘用A型エネルギー剤",
+                        "cost": 2,
+                        "hittime": 1.267,
+                        "cooltime": 2.1,
                         "effect": [
                             {
-                                "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "skill_attribute": "atk_speed",
+                                "skilltime": 30,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    31.5,
+                                    36.3,
+                                    45.8,
+                                    50.5,
+                                    60
                                 ]
                             },
                             {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
-                            },
-                            {
-                                "skill_attribute": ""
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
                 },
                 "NS": {
                     "default": {
-                        "skillname": "",
-                        "hittime": 0.0,
+                        "skillname": "戦闘支援を強化",
+                        "hittime": 2.467,
                         "effect": [
                             {
-                                "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "skill_attribute": "atk_speed",
+                                "skilltime": 20,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
-                            },
-                            {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    18.4,
+                                    19.3,
+                                    20.3,
+                                    23.9,
+                                    24.9,
+                                    25.8,
+                                    29.5,
+                                    30.4,
+                                    31.3,
+                                    35
                                 ]
                             }
                         ]
@@ -8610,7 +8661,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "HP",
                         "rate": [
                             14,
                             14.7,
@@ -8627,39 +8678,40 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "HP",
                         "rate": [
-                            2000,
-                            2100,
-                            2200,
-                            2600,
-                            2700,
-                            2800,
-                            3200,
-                            3300,
-                            3400,
-                            3800
+                            3208,
+                            3444,
+                            3608,
+                            4264,
+                            4428,
+                            4592,
+                            5248,
+                            5412,
+                            6232,
+                            6232
                         ]
                     }
                 ],
                 "SS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "救護担当の用心深さ",
                         "effect": [
                             {
-                                "skill_attribute": "",
-                                "skilltime": 13,
+                                "skill_attribute": "shield",
+                                "skill_tage": "own",
+                                "skilltime": 30,
                                 "rate": [
-                                    9.1,
-                                    9.5,
-                                    10,
-                                    11.8,
-                                    12.3,
-                                    12.7,
-                                    14.5,
-                                    15,
-                                    15.5,
-                                    17.32
+                                    108,
+                                    113,
+                                    118,
+                                    140,
+                                    145,
+                                    151,
+                                    172,
+                                    178,
+                                    183,
+                                    205
                                 ]
                             }
                         ]
@@ -8760,76 +8812,76 @@
             "skill": {
                 "EX": {
                     "default": {
-                        "skillname": "",
-                        "cost": 0,
-                        "hittime": 0.0,
-                        "cooltime": 0,
+                        "skillname": "ツクヨ流、忍法……！",
+                        "cost": 3,
+                        "hittime": 0.4,
+                        "cooltime": 1.967,
                         "effect": [
                             {
-                                "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "skill_attribute": "damage_heal",
+                                "skill_tage": "own",
+                                "skilltime": 30,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    7,
+                                    8,
+                                    9.1,
+                                    10.1,
+                                    11.2
                                 ]
                             },
                             {
-                                "skill_attribute": "",
-                                "skilltime": 0,
+                                "skill_attribute": "atk_debaff",
+                                "skill_tage": "own",
+                                "skilltime": 30,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    28.8,
+                                    28.8,
+                                    24.5,
+                                    24.5,
+                                    20.2
                                 ]
-                            },
-                            {
-                                "skill_attribute": ""
                             }
                         ]
                     }
                 },
                 "NS": {
                     "default": {
-                        "skillname": "",
-                        "hittime": 0.0,
+                        "skillname": "たくさん、練習しましたので……！",
+                        "hittime": 1.367,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "hitAmount": [
+                                    1.367
+                                ],
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    418,
+                                    439,
+                                    460,
+                                    502,
+                                    523,
+                                    543,
+                                    585,
+                                    606,
+                                    617,
+                                    659
                                 ]
                             },
                             {
-                                "skill_attribute": "",
-                                "skilltime": 0,
+                                "skill_attribute": "def",
+                                "skilltime": 20,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    38.9,
+                                    38.9,
+                                    38.9,
+                                    42.8,
+                                    42.8,
+                                    42.8,
+                                    46.7,
+                                    46.7,
+                                    47.7,
+                                    51.6
                                 ]
                             }
                         ]
@@ -8842,7 +8894,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "HP",
                         "rate": [
                             14,
                             14.7,
@@ -8859,39 +8911,38 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "HP",
                         "rate": [
-                            2000,
-                            2100,
-                            2200,
-                            2600,
-                            2700,
-                            2800,
-                            3200,
-                            3300,
-                            3400,
-                            3800
+                            4356,
+                            4573,
+                            4791,
+                            5662,
+                            5880,
+                            6098,
+                            6969,
+                            7187,
+                            8275,
+                            8275
                         ]
                     }
                 ],
                 "SS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "まだ、倒れる、わけには……！",
                         "effect": [
                             {
-                                "skill_attribute": "",
-                                "skilltime": 13,
+                                "skill_attribute": "heal",
                                 "rate": [
-                                    9.1,
-                                    9.5,
-                                    10,
-                                    11.8,
-                                    12.3,
-                                    12.7,
-                                    14.5,
-                                    15,
-                                    15.5,
-                                    17.32
+                                    97.5,
+                                    102,
+                                    107,
+                                    126,
+                                    131,
+                                    136,
+                                    156,
+                                    160,
+                                    165,
+                                    185
                                 ]
                             }
                         ]
@@ -8992,76 +9043,50 @@
             "skill": {
                 "EX": {
                     "default": {
-                        "skillname": "",
-                        "cost": 0,
-                        "hittime": 0.0,
-                        "cooltime": 0,
+                        "skillname": "戦闘用シールド、装着",
+                        "cost": 4,
+                        "hittime": 1.133,
+                        "cooltime": 2.966,
                         "effect": [
                             {
-                                "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "skill_attribute": "my_def",
+                                "skill_tage": "own",
+                                "skilltime": 30,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    28.1,
+                                    32.3,
+                                    36.5,
+                                    40.7,
+                                    44.9
                                 ]
                             },
                             {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
-                            },
-                            {
-                                "skill_attribute": ""
+                                "skill_attribute": "provoke",
+                                "skill_tage": "enemy",
+                                "skilltime": 6.2
                             }
                         ]
                     }
                 },
                 "NS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "疲れたら寝るのが一番",
                         "hittime": 0.0,
                         "effect": [
                             {
-                                "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
-                            },
-                            {
-                                "skill_attribute": "",
+                                "skill_attribute": "heal",
                                 "skilltime": 0,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    349,
+                                    366,
+                                    384,
+                                    454,
+                                    471,
+                                    489,
+                                    558,
+                                    576,
+                                    593,
+                                    663
                                 ]
                             }
                         ]
@@ -9074,7 +9099,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "my_def",
                         "rate": [
                             14,
                             14.7,
@@ -9091,39 +9116,38 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "atk_speed",
                         "rate": [
-                            2000,
-                            2100,
-                            2200,
-                            2600,
-                            2700,
-                            2800,
-                            3200,
-                            3300,
-                            3400,
-                            3800
+                            1400,
+                            1470,
+                            1540,
+                            1820,
+                            1890,
+                            1960,
+                            2240,
+                            2310,
+                            2660,
+                            2660
                         ]
                     }
                 ],
                 "SS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "手慣れたリロード",
                         "effect": [
                             {
-                                "skill_attribute": "",
-                                "skilltime": 13,
+                                "skill_attribute": "damage_up_baff",
                                 "rate": [
-                                    9.1,
-                                    9.5,
-                                    10,
-                                    11.8,
-                                    12.3,
-                                    12.7,
-                                    14.5,
-                                    15,
-                                    15.5,
-                                    17.32
+                                    24,
+                                    25.2,
+                                    26.4,
+                                    31.2,
+                                    32.4,
+                                    33.6,
+                                    38.4,
+                                    39.6,
+                                    40.8,
+                                    45.6
                                 ]
                             }
                         ]
@@ -9150,6 +9174,12 @@
                 "urban": "D",
                 "outdoor": "B",
                 "indoor": "S"
+            },
+            "goods": {
+                "img": "goods/turugi.png",
+                "name": "ツルギの特別ボックス",
+                "key": "atk_speed",
+                "value": 1500
             },
             "dps": {
                 "hit": 8,
@@ -9224,76 +9254,44 @@
             "skill": {
                 "EX": {
                     "default": {
-                        "skillname": "",
-                        "cost": 0,
-                        "hittime": 0.0,
-                        "cooltime": 0,
+                        "skillname": "奇奇怪怪",
+                        "cost": 3,
+                        "hittime": 2.667,
+                        "cooltime": 3.066,
                         "effect": [
                             {
-                                "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "skill_attribute": "atk",
+                                "skilltime": 25,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    25.8,
+                                    29.7,
+                                    37.5,
+                                    41.4,
+                                    45.2
                                 ]
-                            },
-                            {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
-                            },
-                            {
-                                "skill_attribute": ""
                             }
                         ]
                     }
                 },
                 "NS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "激情",
                         "hittime": 0.0,
                         "effect": [
                             {
-                                "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
-                            },
-                            {
-                                "skill_attribute": "",
+                                "skill_attribute": "heal",
                                 "skilltime": 0,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    116,
+                                    122,
+                                    127,
+                                    151,
+                                    157,
+                                    162,
+                                    186,
+                                    191,
+                                    197,
+                                    221
                                 ]
                             }
                         ]
@@ -9301,12 +9299,47 @@
                 },
                 "NS+": {
                     "default": {
-                        "skillname": ""
+                        "skillname": "激情+",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "heal",
+                                "skilltime": 0,
+                                "rate": [
+                                    116,
+                                    122,
+                                    127,
+                                    151,
+                                    157,
+                                    162,
+                                    186,
+                                    191,
+                                    197,
+                                    221
+                                ]
+                            },
+                            {
+                                "skill_attribute": "atk_speed",
+                                "skilltime": 20,
+                                "rate": [
+                                    25.5,
+                                    25.5,
+                                    25.5,
+                                    28.1,
+                                    28.1,
+                                    28.1,
+                                    30.7,
+                                    30.7,
+                                    30.7,
+                                    33.2
+                                ]
+                            }
+                        ]
                     }
                 },
                 "PS": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "move_speed_baff",
                         "rate": [
                             14,
                             14.7,
@@ -9323,43 +9356,23 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "amo",
                         "rate": [
-                            2000,
-                            2100,
-                            2200,
-                            2600,
-                            2700,
-                            2800,
-                            3200,
-                            3300,
-                            3400,
-                            3800
+                            2,
+                            2,
+                            2,
+                            3,
+                            3,
+                            3,
+                            3,
+                            3,
+                            4,
+                            4
                         ]
                     }
                 ],
                 "SS": {
-                    "default": {
-                        "skillname": "",
-                        "effect": [
-                            {
-                                "skill_attribute": "",
-                                "skilltime": 13,
-                                "rate": [
-                                    9.1,
-                                    9.5,
-                                    10,
-                                    11.8,
-                                    12.3,
-                                    12.7,
-                                    14.5,
-                                    15,
-                                    15.5,
-                                    17.32
-                                ]
-                            }
-                        ]
-                    }
+                    "default": {}
                 }
             }
         },
@@ -9456,77 +9469,50 @@
             "skill": {
                 "EX": {
                     "default": {
-                        "skillname": "",
-                        "cost": 0,
+                        "skillname": "止まらない奔流",
+                        "cost": 3,
                         "hittime": 0.0,
-                        "cooltime": 0,
+                        "cooltime": 2.4,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "hitAmount": 1,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    67,
+                                    92,
+                                    117,
+                                    142,
+                                    167
                                 ]
-                            },
-                            {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
-                            },
-                            {
-                                "skill_attribute": ""
                             }
                         ]
                     }
                 },
                 "NS": {
                     "default": {
-                        "skillname": "",
-                        "hittime": 0.0,
+                        "skillname": "燃え盛る一撃",
+                        "hittime": 2.0,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
                                 "hitAmount": 0,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    190,
+                                    200,
+                                    209,
+                                    247,
+                                    257,
+                                    267,
+                                    305,
+                                    314,
+                                    324,
+                                    362
                                 ]
                             },
                             {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
@@ -9538,7 +9524,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "atk_speed",
                         "rate": [
                             14,
                             14.7,
@@ -9555,39 +9541,40 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "HP",
                         "rate": [
-                            2000,
-                            2100,
-                            2200,
-                            2600,
-                            2700,
-                            2800,
-                            3200,
-                            3300,
-                            3400,
-                            3800
+                            4058,
+                            4261,
+                            4464,
+                            5275,
+                            5478,
+                            5681,
+                            6493,
+                            6696,
+                            7710,
+                            7710
                         ]
                     }
                 ],
                 "SS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "火照った身体",
                         "effect": [
                             {
-                                "skill_attribute": "",
-                                "skilltime": 13,
+                                "skill_attribute": "atk_speed",
+                                "skill_tage": "own",
+                                "skilltime": 30,
                                 "rate": [
-                                    9.1,
-                                    9.5,
-                                    10,
-                                    11.8,
-                                    12.3,
-                                    12.7,
-                                    14.5,
-                                    15,
-                                    15.5,
-                                    17.32
+                                    16.8,
+                                    17.6,
+                                    18.4,
+                                    21.8,
+                                    22.6,
+                                    23.5,
+                                    26.8,
+                                    27.7,
+                                    28.5,
+                                    31.9
                                 ]
                             }
                         ]
@@ -9688,76 +9675,80 @@
             "skill": {
                 "EX": {
                     "default": {
-                        "skillname": "",
-                        "cost": 0,
+                        "skillname": "みなさん、こちらに耳を傾けてください！",
+                        "cost": 3,
                         "hittime": 0.0,
-                        "cooltime": 0,
+                        "cooltime": 6.5,
                         "effect": [
                             {
-                                "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "skill_attribute": "cri_damage",
+                                "skilltime": 30,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    13.9,
+                                    14.9,
+                                    17,
+                                    18,
+                                    20.1
                                 ]
                             },
                             {
-                                "skill_attribute": "",
-                                "skilltime": 0,
+                                "skill_attribute": "cri",
+                                "skilltime": 30,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    13.9,
+                                    14.9,
+                                    17,
+                                    18,
+                                    20.1
                                 ]
                             },
                             {
-                                "skill_attribute": ""
+                                "skill_attribute": "move_speed_baff",
+                                "skilltime": 30,
+                                "rate": [
+                                    30.8,
+                                    30.8,
+                                    30.8,
+                                    30.8,
+                                    30.8
+                                ]
+                            },
+                            {
+                                "skill_attribute": "range_debaff",
+                                "skilltime": 30,
+                                "rate": [
+                                    38.5,
+                                    38.5,
+                                    38.5,
+                                    38.5,
+                                    38.5
+                                ]
                             }
                         ]
                     }
                 },
                 "NS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "巧妙なアジテーション",
                         "hittime": 0.0,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
                                 "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "hitAmount": [
+                                    4.267
+                                ],
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
-                            },
-                            {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    235,
+                                    247,
+                                    258,
+                                    305,
+                                    317,
+                                    329,
+                                    376,
+                                    388,
+                                    400,
+                                    447
                                 ]
                             }
                         ]
@@ -9787,39 +9778,38 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "atk",
                         "rate": [
-                            2000,
-                            2100,
-                            2200,
-                            2600,
-                            2700,
-                            2800,
-                            3200,
-                            3300,
-                            3400,
-                            3800
+                            312,
+                            328,
+                            344,
+                            406,
+                            422,
+                            437,
+                            500,
+                            515,
+                            593,
+                            593
                         ]
                     }
                 ],
                 "SS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "反駁不能な言い回し",
                         "effect": [
                             {
-                                "skill_attribute": "",
-                                "skilltime": 13,
+                                "skill_attribute": "add_damage",
                                 "rate": [
-                                    9.1,
-                                    9.5,
-                                    10,
-                                    11.8,
-                                    12.3,
-                                    12.7,
-                                    14.5,
-                                    15,
-                                    15.5,
-                                    17.32
+                                    57.1,
+                                    59.9,
+                                    62.8,
+                                    74.2,
+                                    77.1,
+                                    79.9,
+                                    91.4,
+                                    94.2,
+                                    97.1,
+                                    108
                                 ]
                             }
                         ]
@@ -9920,76 +9910,51 @@
             "skill": {
                 "EX": {
                     "default": {
-                        "skillname": "",
-                        "cost": 0,
-                        "hittime": 0.0,
-                        "cooltime": 0,
+                        "skillname": "こういう時のとっておき",
+                        "cost": 3,
+                        "hittime": 1.233,
+                        "cooltime": 2.833,
                         "effect": [
                             {
-                                "skill_attribute": "damage",
+                                "skill_attribute": "heal",
+                                "skill_tage": "own",
                                 "skill_pattern": "one",
-                                "hitAmount": 0,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    178,
+                                    205,
+                                    258,
+                                    285,
+                                    338
                                 ]
                             },
                             {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
+                                "skill_attribute": "clear_debaff"
                             },
                             {
-                                "skill_attribute": ""
+                                "skill_attribute": "causeOfSS"
                             }
                         ]
                     }
                 },
                 "NS": {
                     "default": {
-                        "skillname": "",
-                        "hittime": 0.0,
+                        "skillname": "これ食べて元気出してー",
+                        "hittime": 1.567,
                         "effect": [
                             {
-                                "skill_attribute": "damage",
-                                "skill_pattern": "one",
-                                "hitAmount": 0,
+                                "skill_attribute": "atk",
+                                "skilltime": 20,
                                 "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ]
-                            },
-                            {
-                                "skill_attribute": "",
-                                "skilltime": 0,
-                                "rate": [
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0,
-                                    0
+                                    8.5,
+                                    8.9,
+                                    9.3,
+                                    11,
+                                    11.5,
+                                    11.9,
+                                    13.6,
+                                    14,
+                                    14.4,
+                                    16.1
                                 ]
                             }
                         ]
@@ -10002,7 +9967,7 @@
                 },
                 "PS": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "HP",
                         "rate": [
                             14,
                             14.7,
@@ -10019,39 +9984,38 @@
                 ],
                 "PS+": [
                     {
-                        "skill_attribute": "",
+                        "skill_attribute": "HP",
                         "rate": [
-                            2000,
-                            2100,
-                            2200,
-                            2600,
-                            2700,
-                            2800,
-                            3200,
-                            3300,
-                            3400,
-                            3800
+                            4052,
+                            4254,
+                            4457,
+                            5267,
+                            5470,
+                            5672,
+                            6482,
+                            6685,
+                            7698,
+                            7698
                         ]
                     }
                 ],
                 "SS": {
                     "default": {
-                        "skillname": "",
+                        "skillname": "お口いっぱいの幸せ",
                         "effect": [
                             {
-                                "skill_attribute": "",
-                                "skilltime": 13,
+                                "skill_attribute": "healUped",
                                 "rate": [
-                                    9.1,
-                                    9.5,
-                                    10,
-                                    11.8,
+                                    7.2,
+                                    7.6,
+                                    7.9,
+                                    9.4,
+                                    9.8,
+                                    10.1,
+                                    11.6,
+                                    11.9,
                                     12.3,
-                                    12.7,
-                                    14.5,
-                                    15,
-                                    15.5,
-                                    17.32
+                                    13.8
                                 ]
                             }
                         ]
