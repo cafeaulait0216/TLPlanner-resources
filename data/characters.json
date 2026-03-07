@@ -15867,8 +15867,8 @@
             "name": "ムツキ",
             "img": "standing/ムツキ_0.png",
             "icon": "face/ムツキ.png",
-            "atk_attribute": "",
-            "def_attribute": "",
+            "atk_attribute": "爆発",
+            "def_attribute": "軽装甲",
             "status": {
                 "atk": 231.7,
                 "heal": 1637,
