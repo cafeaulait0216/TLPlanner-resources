@@ -18159,7 +18159,7 @@
                         "skillname": "et omnia vanitas！",
                         "cost": 4,
                         "hittime": 0.0,
-                        "cooltime": 0,
+                        "cooltime": 4.066,
                         "effect": [
                             {
                                 "skill_attribute": "damage",
