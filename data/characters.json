@@ -17487,6 +17487,877 @@
             }
         },
         {
+            "id": "st0071",
+            "name": "ワカモ（水着）",
+            "img": "standing/ワカモ（水着）_圧縮.png",
+            "icon": "face/ワカモ（水着）.png",
+            "atk_attribute": "貫通",
+            "def_attribute": "軽装甲",
+            "status": {
+                "atk": 449.6,
+                "heal": 1670,
+                "hit": 914,
+                "avoid": 196,
+                "cri": 203,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1968,
+                "urban": "S",
+                "outdoor": "D",
+                "indoor": "B"
+            },
+            "goods": {
+                "img": "goods/wakamo_swim.png",
+                "name": "華やかな花柄の日傘",
+                "key": "cri_damage",
+                "value": 2000
+            },
+            "dps": {
+                "hit": 5,
+                "hits": 1,
+                "delay": 85,
+                "reload": 69,
+                "beforeTime": 160
+            },
+            "limit": [
+                7,
+                6,
+                7,
+                7,
+                7,
+                6,
+                7,
+                7,
+                6,
+                7,
+                7,
+                6,
+                7,
+                7,
+                7,
+                6,
+                7,
+                7,
+                7,
+                6,
+                7,
+                7,
+                6,
+                7,
+                7
+            ],
+            "weapon": [
+                {
+                    "wep1": "帽子",
+                    "wep2": "ヘアピン",
+                    "wep3": "腕時計",
+                    "unique_wep": [
+                        {
+                            "atk": 588,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        4,
+                        6,
+                        7,
+                        9,
+                        2,
+                        4,
+                        6
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "class": "ワカモ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "秘色の花占い",
+                        "cost": 5,
+                        "hittime": 4.2,
+                        "cooltime": 5.4,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    1.866,
+                                    2.333,
+                                    2.800,
+                                    3.267,
+                                    3.733,
+                                    4.200
+                                ],
+                                "rate": [
+                                    565,
+                                    650,
+                                    819,
+                                    904,
+                                    1074
+                                ]
+                            },
+                            {
+                                "skill_attribute": "knockOut",
+                                "rate": [
+                                    7.2,
+                                    7.2,
+                                    8.7,
+                                    8.7,
+                                    9.6
+                                ]
+                            }
+                        ]
+                    },
+                    "second": {
+                        "skillname": "秘色の花占い",
+                        "cost": 5,
+                        "hittime": 4.2,
+                        "cooltime": 5.4,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    1.866,
+                                    2.333,
+                                    2.800,
+                                    3.267,
+                                    3.733,
+                                    4.200
+                                ],
+                                "rate": [
+                                    565,
+                                    650,
+                                    819,
+                                    904,
+                                    1074
+                                ]
+                            },
+                            {
+                                "skill_attribute": "knockOut",
+                                "rate": [
+                                    7.2,
+                                    7.2,
+                                    8.7,
+                                    8.7,
+                                    9.6
+                                ]
+                            }
+                        ]
+                    },
+                    "third": {
+                        "skillname": "秘色の花占い",
+                        "cost": 5,
+                        "hittime": 4.2,
+                        "cooltime": 5.4,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    1.866,
+                                    2.333,
+                                    2.800,
+                                    3.267,
+                                    3.733,
+                                    4.200
+                                ],
+                                "rate": [
+                                    565,
+                                    650,
+                                    819,
+                                    904,
+                                    1074
+                                ]
+                            },
+                            {
+                                "skill_attribute": "knockOut",
+                                "rate": [
+                                    7.2,
+                                    7.2,
+                                    8.7,
+                                    8.7,
+                                    9.6
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "ただ、あなた様のため",
+                        "hittime": 0.267,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk",
+                                "skill_tage": "own",
+                                "skilltime": 60,
+                                "rate": [
+                                    21.7,
+                                    22.2,
+                                    22.8,
+                                    24.9,
+                                    25.5,
+                                    26,
+                                    28.2,
+                                    28.7,
+                                    29.3,
+                                    31.5
+                                ]
+                            },
+                            {
+                                "skill_attribute": "damage_up_debaff",
+                                "skill_tage": "own",
+                                "skilltime": 60,
+                                "rate": [
+                                    9.6,
+                                    9.6,
+                                    9.6,
+                                    9.6,
+                                    9.6,
+                                    9.6,
+                                    9.6,
+                                    9.6,
+                                    9.6,
+                                    9.6
+                                ]
+                            }
+                        ]
+                    },
+                    "second": {
+                        "skillname": "ただ、あなた様のため",
+                        "hittime": 0.267,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk",
+                                "skill_tage": "own",
+                                "skilltime": 60,
+                                "rate": [
+                                    36.9,
+                                    38.3,
+                                    39.7,
+                                    45.2,
+                                    46.6,
+                                    48,
+                                    53.5,
+                                    54.9,
+                                    56.3,
+                                    61.8
+                                ]
+                            },
+                            {
+                                "skill_attribute": "damage_up_debaff",
+                                "skill_tage": "own",
+                                "skilltime": 60,
+                                "rate": [
+                                    19.2,
+                                    19.2,
+                                    19.2,
+                                    19.2,
+                                    19.2,
+                                    19.2,
+                                    19.2,
+                                    19.2,
+                                    19.2,
+                                    19.2
+                                ]
+                            }
+                        ]
+                    },
+                    "third": {
+                        "skillname": "ただ、あなた様のため",
+                        "hittime": 0.267,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk",
+                                "skill_tage": "own",
+                                "rate": [
+                                    52.1,
+                                    54.7,
+                                    57.3,
+                                    67.7,
+                                    70.3,
+                                    72.9,
+                                    83.4,
+                                    86,
+                                    88.6,
+                                    99
+                                ]
+                            },
+                            {
+                                "skill_attribute": "damage_up_debaff",
+                                "skill_tage": "own",
+                                "rate": [
+                                    28.9,
+                                    28.9,
+                                    28.9,
+                                    28.9,
+                                    28.9,
+                                    28.9,
+                                    28.9,
+                                    28.9,
+                                    28.9,
+                                    28.9
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": "ただ、あなた様のため+",
+                        "hittime": 0.267,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk",
+                                "skill_tage": "own",
+                                "skilltime": 60,
+                                "rate": [
+                                    29.6,
+                                    30.3,
+                                    31.1,
+                                    34,
+                                    34.8,
+                                    35.5,
+                                    38.5,
+                                    39.2,
+                                    40,
+                                    42.9
+                                ]
+                            },
+                            {
+                                "skill_attribute": "damage_up_debaff",
+                                "skill_tage": "own",
+                                "skilltime": 60,
+                                "rate": [
+                                    8.5,
+                                    9.6,
+                                    9.6,
+                                    9.6,
+                                    9.6,
+                                    9.6,
+                                    9.6,
+                                    9.6,
+                                    9.6,
+                                    9.6
+                                ]
+                            }
+                        ]
+                    },
+                    "second": {
+                        "skillname": "ただ、あなた様のため+",
+                        "hittime": 0.267,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk",
+                                "skill_tage": "own",
+                                "skilltime": 60,
+                                "rate": [
+                                    50.3,
+                                    52.2,
+                                    54.1,
+                                    61.7,
+                                    63.5,
+                                    65.4,
+                                    73,
+                                    74.9,
+                                    76.8,
+                                    84.3
+                                ]
+                            },
+                            {
+                                "skill_attribute": "damage_up_debaff",
+                                "skill_tage": "own",
+                                "skilltime": 60,
+                                "rate": [
+                                    17,
+                                    17,
+                                    17,
+                                    17,
+                                    17,
+                                    17,
+                                    17,
+                                    17,
+                                    17,
+                                    17
+                                ]
+                            }
+                        ]
+                    },
+                    "third": {
+                        "skillname": "ただ、あなた様のため+",
+                        "hittime": 0.267,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk",
+                                "skill_tage": "own",
+                                "rate": [
+                                    71.1,
+                                    74.6,
+                                    78.2,
+                                    92.4,
+                                    95.9,
+                                    99.5,
+                                    113,
+                                    117,
+                                    120,
+                                    135
+                                ]
+                            },
+                            {
+                                "skill_attribute": "damage_up_debaff",
+                                "skill_tage": "own",
+                                "rate": [
+                                    25.6,
+                                    25.6,
+                                    25.6,
+                                    25.6,
+                                    25.6,
+                                    25.6,
+                                    25.6,
+                                    25.6,
+                                    25.6,
+                                    25.6
+                                ]
+                            },
+                            {
+                                "skill_attribute": "ccUp",
+                                "skill_tage": "own",
+                                "rate": [
+                                    49,
+                                    52,
+                                    54,
+                                    64,
+                                    66,
+                                    69,
+                                    79,
+                                    81,
+                                    84,
+                                    93
+                                ]
+                            },
+                            {
+                                "skill_attribute": "CRITICAL",
+                                "skill_tage": "own"
+                            }
+                        ]
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            442,
+                            464,
+                            486,
+                            575,
+                            597,
+                            619,
+                            707,
+                            729,
+                            751,
+                            840
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "真夏の情熱",
+                        "effect": [
+                            {
+                                "skill_attribute": "add_damage",
+                                "hitAmount": 1,
+                                "rate": [
+                                    51.6,
+                                    54.2,
+                                    56.8,
+                                    67.1,
+                                    69.7,
+                                    72.3,
+                                    82.6,
+                                    85.2,
+                                    87.8,
+                                    98.1
+                                ]
+                            }
+                        ]
+                    },
+                    "second": {
+                        "skillname": "真夏の情熱",
+                        "effect": [
+                            {
+                                "skill_attribute": "add_damage",
+                                "hitAmount": 1,
+                                "rate": [
+                                    51.6,
+                                    54.2,
+                                    56.8,
+                                    67.1,
+                                    69.7,
+                                    72.3,
+                                    82.6,
+                                    85.2,
+                                    87.8,
+                                    98.1
+                                ]
+                            }
+                        ]
+                    },
+                    "third": {
+                        "skillname": "真夏の情熱",
+                        "effect": [
+                            {
+                                "skill_attribute": "add_damage",
+                                "hitAmount": 1,
+                                "rate": [
+                                    51.6,
+                                    54.2,
+                                    56.8,
+                                    67.1,
+                                    69.7,
+                                    72.3,
+                                    82.6,
+                                    85.2,
+                                    87.8,
+                                    98.1
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "st0072",
+            "name": "サオリ",
+            "img": "standing/サオリ.png",
+            "icon": "face/サオリ.png",
+            "atk_attribute": "爆発",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 264,
+                "heal": 1675,
+                "hit": 712,
+                "avoid": 785,
+                "cri": 203,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1372,
+                "urban": "B",
+                "outdoor": "D",
+                "indoor": "S"
+            },
+            "goods": {
+                "img": "goods/saori.png",
+                "name": "サオリのマスク",
+                "key": "cri_damage",
+                "value": 1000
+            },
+            "dps": {
+                "hit": 15,
+                "hits": 1,
+                "delay": 62,
+                "reload": 53,
+                "beforeTime": 134
+            },
+            "limit": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                3,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                3,
+                4,
+                4
+            ],
+            "weapon": [
+                {
+                    "wep1": "帽子",
+                    "wep2": "ヘアピン",
+                    "wep3": "腕時計",
+                    "unique_wep": [
+                        {
+                            "atk": 346,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        1,
+                        2,
+                        3
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "class": "サオリ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "et omnia vanitas！",
+                        "cost": 4,
+                        "hittime": 0.0,
+                        "cooltime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    1.033,
+                                    2.1,
+                                    2.266,
+                                    2.5,
+                                    3.166
+                                ],
+                                "rate": [
+                                    671,
+                                    772,
+                                    973,
+                                    1074,
+                                    1275
+                                ]
+                            },
+                            {
+                                "skill_attribute": "CRITICAL",
+                                "skilltime": 3.2
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "即時射撃",
+                        "hittime": 0.2,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    0.233
+                                ],
+                                "rate": [
+                                    208,
+                                    219,
+                                    229,
+                                    250,
+                                    260,
+                                    271,
+                                    292,
+                                    302,
+                                    313,
+                                    334
+                                ]
+                            },
+                            {
+                                "skill_attribute": "cri_damage",
+                                "skilltime": 16,
+                                "rate": [
+                                    19.1,
+                                    19.1,
+                                    19.1,
+                                    21,
+                                    21,
+                                    21,
+                                    22.9,
+                                    22.9,
+                                    22.9,
+                                    24.8
+                                ]
+                            },
+                            {
+                                "skill_attribute": "CRITICAL",
+                                "skilltime": 0.067
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": "即時射撃+",
+                        "hittime": 0.2,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": [
+                                    0.233
+                                ],
+                                "rate": [
+                                    233,
+                                    244,
+                                    256,
+                                    279,
+                                    291,
+                                    302,
+                                    326,
+                                    337,
+                                    349,
+                                    372
+                                ]
+                            },
+                            {
+                                "skill_attribute": "cri_damage",
+                                "skilltime": 16,
+                                "rate": [
+                                    24.8,
+                                    24.8,
+                                    24.8,
+                                    27.3,
+                                    27.3,
+                                    27.3,
+                                    29.8,
+                                    29.8,
+                                    29.8,
+                                    32.3
+                                ]
+                            },
+                            {
+                                "skill_attribute": "CRITICAL",
+                                "skilltime": 0.067
+                            },
+                            {
+                                "skill_attribute": "cost",
+                                "rate": [
+                                    2,
+                                    2,
+                                    2,
+                                    2,
+                                    2,
+                                    2,
+                                    2,
+                                    2,
+                                    2,
+                                    2
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "cri_damage",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "atk_speed",
+                        "rate": [
+                            1400,
+                            1470,
+                            1540,
+                            1820,
+                            1890,
+                            1960,
+                            2240,
+                            2310,
+                            2380,
+                            2660
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "リーダーの責任感",
+                        "effect": [
+                            {
+                                "skill_attribute": "atk",
+                                "skill_tage": "own",
+                                "rate": [
+                                    38.6,
+                                    40.5,
+                                    42.5,
+                                    50.2,
+                                    52.1,
+                                    54.1,
+                                    61.8,
+                                    63.7,
+                                    65.6,
+                                    73.4
+                                ]
+                            },
+                            {
+                                "skill_attribute": "start"
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
             "id": "st0086",
             "name": "ミカ",
             "img": "standing/ミカ_立ち絵1.png",
