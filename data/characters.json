@@ -18720,6 +18720,9 @@
                                     5,
                                     5
                                 ]
+                            },
+                            {
+                                "skill_attribute": "select"
                             }
                         ]
                     }
@@ -20129,6 +20132,472 @@
                                     78.9,
                                     83.8
                                 ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "st0081",
+            "name": "シグレ",
+            "img": "standing/シグレ_圧縮.png",
+            "icon": "face/シグレ.png",
+            "atk_attribute": "爆発",
+            "def_attribute": "重装甲",
+            "status": {
+                "atk": 329.7,
+                "heal": 1742,
+                "hit": 105,
+                "avoid": 188,
+                "cri": 211,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 940,
+                "urban": "D",
+                "outdoor": "S",
+                "indoor": "B"
+            },
+            "dps": {
+                "hit": 6,
+                "hits": 1,
+                "delay": 72,
+                "reload": 92,
+                "beforeTime": 156
+            },
+            "limit": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                4,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                4,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ],
+            "weapon": [
+                {
+                    "wep1": "グローブ",
+                    "wep2": "ヘアピン",
+                    "wep3": "腕時計",
+                    "unique_wep": [
+                        {
+                            "atk": 432,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        3,
+                        4,
+                        5,
+                        7,
+                        2,
+                        3,
+                        4
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "class": "シグレ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "シグレ特製ボトルグレネード",
+                        "cost": 0,
+                        "hittime": 2.4,
+                        "cooltime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "many",
+                                "hitAmount": [
+                                    1.534
+                                ],
+                                "rate": [
+                                    425,
+                                    489,
+                                    553,
+                                    617,
+                                    681
+                                ]
+                            },
+                            {
+                                "skill_attribute": "burn",
+                                "hitAmount": [
+                                    2.4,
+                                    6.4,
+                                    10.4,
+                                    14.4,
+                                    18.4
+                                ],
+                                "skilltime": 20,
+                                "rate": [
+                                    64,
+                                    64,
+                                    73.5,
+                                    73.5,
+                                    83.1
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "一杯、どう？",
+                        "hittime": 1.8,
+                        "effect": [
+                            {
+                                "skill_attribute": "atk",
+                                "skilltime": 30,
+                                "rate": [
+                                    26.4,
+                                    27.7,
+                                    29,
+                                    34.3,
+                                    35.6,
+                                    37,
+                                    42.3,
+                                    43.6,
+                                    44.9,
+                                    50.2
+                                ]
+                            },
+                            {
+                                "skill_attribute": "aim_debaff",
+                                "skilltime": 30,
+                                "rate": [
+                                    27.5,
+                                    27.5,
+                                    27.5,
+                                    27.5,
+                                    27.5,
+                                    27.5,
+                                    27.5,
+                                    27.5,
+                                    27.5,
+                                    27.5
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "cri",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "atk",
+                        "rate": [
+                            200,
+                            210,
+                            220,
+                            260,
+                            270,
+                            280,
+                            320,
+                            330,
+                            340,
+                            380
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {}
+                }
+            }
+        },
+        {
+            "id": "st0082",
+            "name": "セリナ（クリスマス）",
+            "img": "standing/セリナ（クリスマス）.png",
+            "icon": "face/セリナ（クリスマス）.png",
+            "atk_attribute": "貫通",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 253.9,
+                "heal": 1799,
+                "hit": 765,
+                "avoid": 724,
+                "cri": 218,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1268,
+                "urban": "D",
+                "outdoor": "S",
+                "indoor": "B"
+            },
+            "dps": {
+                "hit": 15,
+                "hits": 3,
+                "delay": 71,
+                "reload": 51,
+                "beforeTime": 118
+            },
+            "limit": [
+                4,
+                4,
+                3,
+                4,
+                4,
+                4,
+                3,
+                4,
+                4,
+                4,
+                4,
+                3,
+                4,
+                4,
+                4,
+                4,
+                3,
+                4,
+                4,
+                4,
+                3,
+                4,
+                4,
+                4,
+                4
+            ],
+            "weapon": [
+                {
+                    "wep1": "シューズ",
+                    "wep2": "ヘアピン",
+                    "wep3": "お守り",
+                    "unique_wep": [
+                        {
+                            "atk": 332,
+                            "heal": 0
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        0,
+                        0,
+                        5,
+                        6,
+                        1,
+                        2,
+                        3
+                    ],
+                    "heal": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "class": "セリナ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "祝福の響き",
+                        "cost": 4,
+                        "hittime": 3.667,
+                        "cooltime": 5.033,
+                        "effect": [
+                            {
+                                "skill_attribute": "cri_damage",
+                                "skilltime": 50,
+                                "rate": [
+                                    27.2,
+                                    31.3,
+                                    35.4,
+                                    39.5,
+                                    43.5
+                                ]
+                            },
+                            {
+                                "skill_attribute": "christmas",
+                                "duplicate": 15,
+                                "rate": [
+                                    2.3,
+                                    2.3,
+                                    3,
+                                    3,
+                                    3.7
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "プレゼントセットC",
+                        "hittime": 1.867,
+                        "effect": [
+                            {
+                                "skill_attribute": "cri_damage",
+                                "skilltime": 30,
+                                "rate": [
+                                    11,
+                                    11.6,
+                                    12.1,
+                                    14.4,
+                                    14.9,
+                                    15.5,
+                                    17.7,
+                                    18.2,
+                                    18.8,
+                                    21
+                                ]
+                            },
+                            {
+                                "skill_attribute": "cri_damage",
+                                "skilltime": 30,
+                                "rate": [
+                                    12.6,
+                                    13.2,
+                                    13.9,
+                                    16.4,
+                                    17,
+                                    17.7,
+                                    20.2,
+                                    20.8,
+                                    21.5,
+                                    24
+                                ]
+                            },
+                            {
+                                "skill_attribute": "cri_damage",
+                                "skilltime": 30,
+                                "rate": [
+                                    14.2,
+                                    14.9,
+                                    15.6,
+                                    18.5,
+                                    19.2,
+                                    19.9,
+                                    22.7,
+                                    23.4,
+                                    24.2,
+                                    27
+                                ]
+                            },
+                            {
+                                "skill_attribute": "random"
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "HP",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "my_def",
+                        "rate": [
+                            200,
+                            210,
+                            220,
+                            260,
+                            270,
+                            280,
+                            320,
+                            330,
+                            340,
+                            380
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "聖なる加護",
+                        "effect": [
+                            {
+                                "skill_attribute": "my_avoid",
+                                "skilltime": 15,
+                                "rate": [
+                                    9.1,
+                                    9.5,
+                                    10,
+                                    11.8,
+                                    12.3,
+                                    12.7,
+                                    14.5,
+                                    15,
+                                    15.5,
+                                    17.32
+                                ]
+                            },
+                            {
+                                "skill_attribute": "reload"
                             }
                         ]
                     }
@@ -34185,6 +34654,9 @@
                             },
                             {
                                 "skill_attribute": "clear_debaff"
+                            },
+                            {
+                                "skill_attribute": "select"
                             }
                         ]
                     }
