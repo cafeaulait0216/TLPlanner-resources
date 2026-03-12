@@ -26785,8 +26785,8 @@
             "name": "イチカ",
             "img": "standing/イチカ.png",
             "icon": "face/イチカ.png",
-            "atk_attribute": "",
-            "def_attribute": "",
+            "atk_attribute": "振動",
+            "def_attribute": "重装甲",
             "status": {
                 "atk": 342,
                 "heal": 1664,
