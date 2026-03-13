@@ -40936,6 +40936,237 @@
             }
         },
         {
+            "id": "sp0004",
+            "name": "ハナエ（クリスマス）",
+            "img": "standing/ハナエ（クリスマス）.png",
+            "icon": "face/ハナエ（クリスマス）.png",
+            "atk_attribute": "神秘",
+            "def_attribute": "特殊装甲",
+            "status": {
+                "atk": 229.5,
+                "heal": 3090,
+                "hit": 707,
+                "avoid": 728,
+                "cri": 217,
+                "cri_damage": 200,
+                "penetrate": 0,
+                "balance": 1463,
+                "urban": "B",
+                "outdoor": "D",
+                "indoor": "S"
+            },
+            "goods": {
+                "img": "goods/hanae_christmas.png",
+                "name": "ハナエのプレゼント袋",
+                "key": "治癒力",
+                "value": 500
+            },
+            "limit": [
+                3,
+                4,
+                3,
+                4,
+                3,
+                4,
+                3,
+                3,
+                4,
+                3,
+                4,
+                3,
+                3,
+                4,
+                3,
+                4,
+                3,
+                4,
+                3,
+                3,
+                4,
+                3,
+                4,
+                3,
+                4
+            ],
+            "weapon": [
+                {
+                    "wep1": "シューズ",
+                    "wep2": "バッグ",
+                    "wep3": "ネックレス",
+                    "unique_wep": [
+                        {
+                            "atk": 301,
+                            "heal": 1124
+                        }
+                    ]
+                }
+            ],
+            "bond": [
+                {
+                    "atk": [
+                        0,
+                        0,
+                        5,
+                        6,
+                        1,
+                        2,
+                        3
+                    ],
+                    "heal": [
+                        8,
+                        12,
+                        16,
+                        20,
+                        5,
+                        8,
+                        13
+                    ]
+                }
+            ],
+            "class": "ハナエ",
+            "skill": {
+                "EX": {
+                    "default": {
+                        "skillname": "",
+                        "cost": 0,
+                        "hittime": 0.0,
+                        "cooltime": 0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": 0,
+                                "rate": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            {
+                                "skill_attribute": "",
+                                "skilltime": 0,
+                                "rate": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            {
+                                "skill_attribute": ""
+                            }
+                        ]
+                    }
+                },
+                "NS": {
+                    "default": {
+                        "skillname": "",
+                        "hittime": 0.0,
+                        "effect": [
+                            {
+                                "skill_attribute": "damage",
+                                "skill_pattern": "one",
+                                "hitAmount": 0,
+                                "rate": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            {
+                                "skill_attribute": "",
+                                "skilltime": 0,
+                                "rate": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "NS+": {
+                    "default": {
+                        "skillname": ""
+                    }
+                },
+                "PS": [
+                    {
+                        "skill_attribute": "",
+                        "rate": [
+                            14,
+                            14.7,
+                            15.4,
+                            18.2,
+                            18.9,
+                            19.6,
+                            22.4,
+                            23.1,
+                            23.8,
+                            26.6
+                        ]
+                    }
+                ],
+                "PS+": [
+                    {
+                        "skill_attribute": "",
+                        "rate": [
+                            2000,
+                            2100,
+                            2200,
+                            2600,
+                            2700,
+                            2800,
+                            3200,
+                            3300,
+                            3400,
+                            3800
+                        ]
+                    }
+                ],
+                "SS": {
+                    "default": {
+                        "skillname": "",
+                        "effect": [
+                            {
+                                "skill_attribute": "",
+                                "skilltime": 13,
+                                "rate": [
+                                    9.1,
+                                    9.5,
+                                    10,
+                                    11.8,
+                                    12.3,
+                                    12.7,
+                                    14.5,
+                                    15,
+                                    15.5,
+                                    17.32
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
             "id": "sp0041",
             "name": "フウカ(正月)",
             "img": "standing/フウカ（正月）.png",
